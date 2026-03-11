@@ -14,17 +14,30 @@ req = urllib.request.Request(URL, headers=headers)
 with urllib.request.urlopen(req, timeout=20) as r:
     html = r.read().decode("utf-8")
 
-# 提取新闻ID
-ids = re.findall(r'/n/(\d{6,})', html)
+pattern = re.findall(
+    r'data-id="(\d+)".*?<p class="ell_two p_two title">\s*(.*?)\s*</p>.*?<p class="intro ell_two">(.*?)</p>',
+    html,
+    re.S
+)
 
-# 去重
-ids = list(dict.fromkeys(ids))[:20]
+items = []
+
+for nid, title, intro in pattern:
+
+    title = re.sub("<.*?>", "", title).strip()
+    intro = re.sub("<.*?>", "", intro).strip()
+
+    link = f"https://www.laoyaoba.com/n/{nid}"
+
+    items.append({
+        "title": title,
+        "link": link,
+        "desc": intro
+    })
 
 rss_items = ""
 
-for nid in ids:
-
-    link = f"https://www.laoyaoba.com/n/{nid}"
+for i in items[:20]:
 
     pub = time.strftime(
         "%a, %d %b %Y %H:%M:%S GMT",
@@ -33,10 +46,10 @@ for nid in ids:
 
     rss_items += f"""
     <item>
-        <title>集微网新闻 {nid}</title>
-        <link>{link}</link>
-        <guid>{link}</guid>
-        <description>{link}</description>
+        <title>{escape(i['title'])}</title>
+        <link>{i['link']}</link>
+        <guid>{i['link']}</guid>
+        <description>{escape(i['desc'])}</description>
         <pubDate>{pub}</pubDate>
     </item>
 """
@@ -56,4 +69,4 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 with open("rss.xml", "w", encoding="utf-8") as f:
     f.write(rss)
 
-print("rss.xml generated:", len(ids))
+print("rss.xml generated:", len(items))
