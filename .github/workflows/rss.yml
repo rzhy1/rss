@@ -2,7 +2,7 @@ name: Generate RSS
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # 每两小时自动运行一次
+    - cron: '*/15 * * * *'
   workflow_dispatch:       # 允许你在网页上手动点击运行
 
 jobs:
