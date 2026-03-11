@@ -14,16 +14,16 @@ req = urllib.request.Request(URL, headers=headers)
 with urllib.request.urlopen(req, timeout=20) as r:
     html = r.read().decode("utf-8")
 
-# 先切分每个新闻卡片
-cards = re.findall(r'<li class="card".*?</li>', html, re.S)
+# 匹配 class="card" 的 li
+cards = re.findall(r'<li[^>]*class="card"[^>]*>.*?</li>', html, re.S)
 
 items = []
 
 for c in cards:
 
     id_match = re.search(r'data-id="(\d+)"', c)
-    title_match = re.search(r'<p class="ell_two p_two title">\s*(.*?)\s*</p>', c, re.S)
-    intro_match = re.search(r'<p class="intro ell_two">\s*(.*?)\s*</p>', c, re.S)
+    title_match = re.search(r'class="ell_two p_two title">\s*(.*?)\s*</p>', c, re.S)
+    intro_match = re.search(r'class="intro ell_two">\s*(.*?)\s*</p>', c, re.S)
 
     if not id_match or not title_match:
         continue
