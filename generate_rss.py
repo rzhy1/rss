@@ -6,8 +6,6 @@ from xml.sax.saxutils import escape
 
 API = "https://www.laoyaoba.com/api/category/list"
 
-LIMIT = 50
-
 headers = {
     "User-Agent": "Mozilla/5.0",
     "Content-Type": "application/x-www-form-urlencoded",
@@ -17,10 +15,11 @@ headers = {
 
 payload = {
     "source": "pc",
+    "res_type": "1",
     "is_vip": "2",
-    "limit": str(LIMIT),
-    "category_show": "1",
-    "res_type": "1"
+    "limit": "20",
+    "page": "1",
+    "category_show": "1"
 }
 
 data = urllib.parse.urlencode(payload).encode()
@@ -76,7 +75,7 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <channel>
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
-<description>Auto RSS</description>
+<description>GitHub Actions 自动生成 RSS</description>
 <lastBuildDate>{time.strftime("%a, %d %b %Y %H:%M:%S GMT", time.gmtime())}</lastBuildDate>
 {rss_items}
 </channel>
