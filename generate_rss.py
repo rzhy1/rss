@@ -5,7 +5,7 @@ from xml.sax.saxutils import escape
 
 API = "https://www.laoyaoba.com/api/category/list"
 
-LIMIT = 30
+LIMIT = 50
 
 headers = {
     "User-Agent": "Mozilla/5.0",
@@ -15,7 +15,7 @@ headers = {
     "Accept": "application/json, text/plain, */*"
 }
 
-data = {
+payload = {
     "source": "pc",
     "is_vip": 2,
     "limit": LIMIT,
@@ -24,7 +24,7 @@ data = {
 
 req = urllib.request.Request(
     API,
-    data=json.dumps(data).encode("utf-8"),
+    data=json.dumps(payload).encode("utf-8"),
     headers=headers,
     method="POST"
 )
@@ -32,16 +32,37 @@ req = urllib.request.Request(
 with urllib.request.urlopen(req, timeout=20) as r:
     res = r.read().decode()
 
-j = json.loads(res)
+print("API response:", res[:500])   # 打印前500字符方便调试
 
-items = j["data"]["list"]
+try:
+    j = json.loads(res)
+except Exception as e:
+    print("JSON parse error:", e)
+    exit(1)
+
+# 兼容不同结构
+items = []
+
+if isinstance(j, dict):
+    data = j.get("data")
+    if isinstance(data, dict):
+        items = data.get("list", [])
+    elif isinstance(data, list):
+        items = data
+
+if not items:
+    print("ERROR: no items returned from API")
+    exit(1)
 
 rss_items = ""
 
 for i in items:
 
-    title = escape(i["title"])
-    nid = i["id"]
+    title = escape(i.get("title", ""))
+    nid = i.get("id")
+
+    if not nid or not title:
+        continue
 
     link = f"https://www.laoyaoba.com/n/{nid}"
 
