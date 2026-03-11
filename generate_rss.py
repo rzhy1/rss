@@ -1,63 +1,69 @@
 import urllib.request
-import re
+import urllib.parse
+import json
 import time
 from xml.sax.saxutils import escape
 
-URL = "https://www.laoyaoba.com/jwnews"
+API = "https://www.laoyaoba.com/api/category/list"
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
+params = {
+    "source": "pc",
+    "res_type": "1",
+    "type": "0",
+    "page": "1",
+    "limit": "10",
+    "category_show": "1",
+    "is_vip": "2"
 }
 
-req = urllib.request.Request(URL, headers=headers)
+headers = {
+    "User-Agent": "Mozilla/5.0",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "Referer": "https://www.laoyaoba.com/jwnews",
+    "Origin": "https://www.laoyaoba.com",
+    "Accept": "application/json, text/plain, */*"
+}
+
+data = urllib.parse.urlencode(params).encode()
+
+req = urllib.request.Request(API, data=data, headers=headers)
 
 with urllib.request.urlopen(req, timeout=20) as r:
-    html = r.read().decode("utf-8")
+    res = r.read().decode()
 
-cards = re.findall(r'<li class="card".*?</li>', html, re.S)
+print("API response:", res[:200])
 
-items = []
+j = json.loads(res)
 
-for c in cards:
-
-    id_match = re.search(r'data-id="(\d+)"', c)
-    title_match = re.search(r'<p class="ell_two p_two title">\s*(.*?)\s*</p>', c, re.S)
-    intro_match = re.search(r'<p class="intro ell_two">\s*(.*?)\s*</p>', c, re.S)
-
-    if not id_match or not title_match:
-        continue
-
-    nid = id_match.group(1)
-
-    title = re.sub("<.*?>", "", title_match.group(1)).strip()
-
-    intro = ""
-    if intro_match:
-        intro = re.sub("<.*?>", "", intro_match.group(1)).strip()
-
-    link = f"https://www.laoyaoba.com/n/{nid}"
-
-    items.append({
-        "title": title,
-        "link": link,
-        "desc": intro or title
-    })
+items = j.get("data", {}).get("list", [])
 
 rss_items = ""
 
-for i in items[:20]:
+for i in items:
+
+    title = escape(i.get("title", ""))
+    nid = i.get("id")
+
+    if not nid:
+        continue
+
+    link = f"https://www.laoyaoba.com/n/{nid}"
+
+    desc = escape(i.get("summary") or i.get("intro") or title)
+
+    t = i.get("publish_time", int(time.time()))
 
     pub = time.strftime(
         "%a, %d %b %Y %H:%M:%S GMT",
-        time.gmtime()
+        time.gmtime(t)
     )
 
     rss_items += f"""
     <item>
-        <title>{escape(i['title'])}</title>
-        <link>{i['link']}</link>
-        <guid>{i['link']}</guid>
-        <description>{escape(i['desc'])}</description>
+        <title>{title}</title>
+        <link>{link}</link>
+        <guid>{link}</guid>
+        <description>{desc}</description>
         <pubDate>{pub}</pubDate>
     </item>
 """
