@@ -19,7 +19,8 @@ payload = {
     "source": "pc",
     "is_vip": "2",
     "limit": str(LIMIT),
-    "category_show": "1"
+    "category_show": "1",
+    "res_type": "1"
 }
 
 data = urllib.parse.urlencode(payload).encode()
