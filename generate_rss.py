@@ -1,69 +1,42 @@
 import urllib.request
-import urllib.parse
-import json
+import re
 import time
 from xml.sax.saxutils import escape
 
-API = "https://www.laoyaoba.com/api/category/list"
-
-params = {
-    "source": "pc",
-    "res_type": "1",
-    "type": "0",
-    "page": "1",
-    "limit": "10",
-    "category_show": "1",
-    "is_vip": "2"
-}
+URL = "https://www.laoyaoba.com/jwnews"
 
 headers = {
-    "User-Agent": "Mozilla/5.0",
-    "Content-Type": "application/x-www-form-urlencoded",
-    "Referer": "https://www.laoyaoba.com/jwnews",
-    "Origin": "https://www.laoyaoba.com",
-    "Accept": "application/json, text/plain, */*"
+    "User-Agent": "Mozilla/5.0"
 }
 
-data = urllib.parse.urlencode(params).encode()
-
-req = urllib.request.Request(API, data=data, headers=headers)
+req = urllib.request.Request(URL, headers=headers)
 
 with urllib.request.urlopen(req, timeout=20) as r:
-    res = r.read().decode()
+    html = r.read().decode("utf-8")
 
-print("API response:", res[:200])
+# 提取新闻ID
+ids = re.findall(r'/n/(\d{6,})', html)
 
-j = json.loads(res)
-
-items = j.get("data", {}).get("list", [])
+# 去重
+ids = list(dict.fromkeys(ids))[:20]
 
 rss_items = ""
 
-for i in items:
-
-    title = escape(i.get("title", ""))
-    nid = i.get("id")
-
-    if not nid:
-        continue
+for nid in ids:
 
     link = f"https://www.laoyaoba.com/n/{nid}"
 
-    desc = escape(i.get("summary") or i.get("intro") or title)
-
-    t = i.get("publish_time", int(time.time()))
-
     pub = time.strftime(
         "%a, %d %b %Y %H:%M:%S GMT",
-        time.gmtime(t)
+        time.gmtime()
     )
 
     rss_items += f"""
     <item>
-        <title>{title}</title>
+        <title>集微网新闻 {nid}</title>
         <link>{link}</link>
         <guid>{link}</guid>
-        <description>{desc}</description>
+        <description>{link}</description>
         <pubDate>{pub}</pubDate>
     </item>
 """
@@ -83,4 +56,4 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 with open("rss.xml", "w", encoding="utf-8") as f:
     f.write(rss)
 
-print("rss.xml generated:", len(items))
+print("rss.xml generated:", len(ids))
