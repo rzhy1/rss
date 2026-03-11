@@ -14,30 +14,39 @@ req = urllib.request.Request(URL, headers=headers)
 with urllib.request.urlopen(req, timeout=20) as r:
     html = r.read().decode("utf-8")
 
-pattern = re.findall(
-    r'data-id="(\d+)".*?<p class="ell_two p_two title">\s*(.*?)\s*</p>.*?<p class="intro ell_two">(.*?)</p>',
-    html,
-    re.S
-)
+# 先切分每个新闻卡片
+cards = re.findall(r'<li class="card".*?</li>', html, re.S)
 
 items = []
 
-for nid, title, intro in pattern:
+for c in cards:
 
-    title = re.sub("<.*?>", "", title).strip()
-    intro = re.sub("<.*?>", "", intro).strip()
+    id_match = re.search(r'data-id="(\d+)"', c)
+    title_match = re.search(r'<p class="ell_two p_two title">\s*(.*?)\s*</p>', c, re.S)
+    intro_match = re.search(r'<p class="intro ell_two">\s*(.*?)\s*</p>', c, re.S)
+
+    if not id_match or not title_match:
+        continue
+
+    nid = id_match.group(1)
+
+    title = re.sub("<.*?>", "", title_match.group(1)).strip()
+
+    intro = ""
+    if intro_match:
+        intro = re.sub("<.*?>", "", intro_match.group(1)).strip()
 
     link = f"https://www.laoyaoba.com/n/{nid}"
 
     items.append({
         "title": title,
         "link": link,
-        "desc": intro
+        "desc": intro or title
     })
 
 rss_items = ""
 
-for i in items[:20]:
+for i in items[:30]:
 
     pub = time.strftime(
         "%a, %d %b %Y %H:%M:%S GMT",
