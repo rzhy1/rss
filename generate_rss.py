@@ -1,4 +1,5 @@
 import urllib.request
+import urllib.parse
 import json
 import time
 from xml.sax.saxutils import escape
@@ -9,49 +10,33 @@ LIMIT = 50
 
 headers = {
     "User-Agent": "Mozilla/5.0",
-    "Content-Type": "application/json;charset=utf-8",
-    "Origin": "https://www.laoyaoba.com",
+    "Content-Type": "application/x-www-form-urlencoded",
     "Referer": "https://www.laoyaoba.com/jwnews",
-    "Accept": "application/json, text/plain, */*"
+    "Origin": "https://www.laoyaoba.com"
 }
 
 payload = {
     "source": "pc",
-    "is_vip": 2,
-    "limit": LIMIT,
-    "category_show": 1
+    "is_vip": "2",
+    "limit": str(LIMIT),
+    "category_show": "1"
 }
 
-req = urllib.request.Request(
-    API,
-    data=json.dumps(payload).encode("utf-8"),
-    headers=headers,
-    method="POST"
-)
+data = urllib.parse.urlencode(payload).encode()
+
+req = urllib.request.Request(API, data=data, headers=headers)
 
 with urllib.request.urlopen(req, timeout=20) as r:
     res = r.read().decode()
 
-print("API response:", res[:500])   # 打印前500字符方便调试
+print("API response:", res[:300])
 
-try:
-    j = json.loads(res)
-except Exception as e:
-    print("JSON parse error:", e)
-    exit(1)
+j = json.loads(res)
 
-# 兼容不同结构
-items = []
-
-if isinstance(j, dict):
-    data = j.get("data")
-    if isinstance(data, dict):
-        items = data.get("list", [])
-    elif isinstance(data, list):
-        items = data
+items = j.get("data", {}).get("list", [])
 
 if not items:
-    print("ERROR: no items returned from API")
+    print("ERROR: no items returned")
     exit(1)
 
 rss_items = ""
@@ -61,7 +46,7 @@ for i in items:
     title = escape(i.get("title", ""))
     nid = i.get("id")
 
-    if not nid or not title:
+    if not nid:
         continue
 
     link = f"https://www.laoyaoba.com/n/{nid}"
