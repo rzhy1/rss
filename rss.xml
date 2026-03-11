@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-    <channel>
-        <title>集微网 - 最新</title>
-        <link>https://www.laoyaoba.com/jwnews</link>
-        <description>利用 GitHub Actions 自动生成的集微网 RSS</description>
-        
-    </channel>
+<channel>
+<title>集微网 - 最新</title>
+<link>https://www.laoyaoba.com/jwnews</link>
+<description>GitHub Actions 自动生成 RSS</description>
+
+    <item>
+        <title>版权声明</title>
+        <link>https://www.laoyaoba.com/n/729927</link>
+        <guid>https://www.laoyaoba.com/n/729927</guid>
+        <description>版权声明</description>
+        <pubDate>Wed, 11 Mar 2026 10:47:19 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>联系我们</title>
+        <link>https://www.laoyaoba.com/n/683318</link>
+        <guid>https://www.laoyaoba.com/n/683318</guid>
+        <description>联系我们</description>
+        <pubDate>Wed, 11 Mar 2026 10:47:19 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>关于我们</title>
+        <link>https://www.laoyaoba.com/n/683317</link>
+        <guid>https://www.laoyaoba.com/n/683317</guid>
+        <description>关于我们</description>
+        <pubDate>Wed, 11 Mar 2026 10:47:19 GMT</pubDate>
+    </item>
+
+</channel>
 </rss>
