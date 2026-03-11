@@ -1,41 +1,76 @@
 import urllib.request
 import json
-import time
 import re
+import time
 from xml.sax.saxutils import escape
 
 API_URL = "https://www.laoyaoba.com/api/category/list"
 WEB_URL = "https://www.laoyaoba.com/jwnews"
-LIMIT = 20
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-    "Content-Type": "application/json; charset=utf-8",
+LIMIT = 30
+RETRY = 3
+
+headers_api = {
+    "User-Agent": "Mozilla/5.0",
+    "Content-Type": "application/json;charset=utf-8",
     "Referer": "https://www.laoyaoba.com/",
     "Origin": "https://www.laoyaoba.com",
     "Accept": "application/json, text/plain, */*"
 }
 
+headers_web = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "text/html"
+}
 
-def fetch(url, data=None, retry=3):
-    for i in range(retry):
+
+def fetch(url, headers, data=None):
+
+    for _ in range(RETRY):
+
         try:
-            req = urllib.request.Request(url, headers=headers)
+
             if data:
-                req.data = json.dumps(data).encode("utf-8")
-                req.method = "POST"
+                req = urllib.request.Request(
+                    url,
+                    data=json.dumps(data).encode("utf-8"),
+                    headers=headers,
+                    method="POST"
+                )
+            else:
+                req = urllib.request.Request(url, headers=headers)
 
             with urllib.request.urlopen(req, timeout=20) as r:
                 return r.read().decode("utf-8")
 
         except Exception as e:
-            print("fetch error:", e)
+            print("retry:", e)
             time.sleep(3)
 
     return ""
 
 
+def parse_time(text):
+
+    now = int(time.time())
+
+    if "分钟前" in text:
+        m = int(re.search(r"(\d+)", text).group(1))
+        return now - m * 60
+
+    if "小时前" in text:
+        h = int(re.search(r"(\d+)", text).group(1))
+        return now - h * 3600
+
+    if "天前" in text:
+        d = int(re.search(r"(\d+)", text).group(1))
+        return now - d * 86400
+
+    return now
+
+
 def fetch_api():
+
     print("try API...")
 
     data = {
@@ -45,7 +80,7 @@ def fetch_api():
         "category_show": 1
     }
 
-    res = fetch(API_URL, data)
+    res = fetch(API_URL, headers_api, data)
 
     if not res:
         return []
@@ -62,78 +97,105 @@ def fetch_api():
     for i in items:
 
         nid = i.get("id")
-        title = i.get("title", "").strip()
+        title = (i.get("title") or "").strip()
 
         if not nid or not title:
             continue
 
         link = f"https://www.laoyaoba.com/n/{nid}"
 
-        summary = i.get("summary") or i.get("intro") or title
+        desc = i.get("summary") or i.get("intro") or title
 
-        pub_time = i.get("publish_time", int(time.time()))
+        pub = i.get("publish_time") or int(time.time())
 
         result.append({
             "title": title,
             "link": link,
-            "desc": summary,
-            "time": pub_time
+            "desc": desc,
+            "time": pub
         })
 
     return result
 
 
 def fetch_web():
-    print("fallback to web...")
 
-    html = fetch(WEB_URL)
+    print("fallback to HTML...")
+
+    html = fetch(WEB_URL, headers_web)
 
     if not html:
         return []
 
-    pattern = re.findall(r'<a href="/n/(\d+)"[^>]*>(.*?)</a>', html)
+    cards = re.findall(r'<li class="card".*?</li>', html, re.S)
 
-    seen = set()
     result = []
 
-    for nid, title in pattern:
+    for c in cards:
 
-        if nid in seen:
+        id_match = re.search(r'data-id="(\d+)"', c)
+        title_match = re.search(r'<p class="ell_two p_two title">\s*(.*?)\s*</p>', c, re.S)
+        intro_match = re.search(r'<p class="intro ell_two">(.*?)</p>', c, re.S)
+        time_match = re.search(r'<div class="time.*?>.*?(\d+.*?前)</div>', c, re.S)
+
+        if not id_match or not title_match:
             continue
-        seen.add(nid)
 
-        title = re.sub("<.*?>", "", title).strip()
+        nid = id_match.group(1)
 
-        if not title:
-            continue
+        title = re.sub("<.*?>", "", title_match.group(1)).strip()
+
+        intro = ""
+        if intro_match:
+            intro = re.sub("<.*?>", "", intro_match.group(1)).strip()
+
+        t = int(time.time())
+        if time_match:
+            t = parse_time(time_match.group(1))
 
         link = f"https://www.laoyaoba.com/n/{nid}"
 
         result.append({
             "title": title,
             "link": link,
-            "desc": title,
-            "time": int(time.time())
+            "desc": intro or title,
+            "time": t
         })
-
-        if len(result) >= LIMIT:
-            break
 
     return result
 
 
-# 1 获取数据
+# -------------------
+# 主逻辑
+# -------------------
+
 items = fetch_api()
 
 if not items:
     items = fetch_web()
 
-print("items:", len(items))
+# 去重
+seen = set()
+unique = []
 
-# 2 排序
+for i in items:
+
+    if i["link"] in seen:
+        continue
+
+    seen.add(i["link"])
+    unique.append(i)
+
+items = unique
+
+# 排序
 items = sorted(items, key=lambda x: x["time"], reverse=True)[:LIMIT]
 
-# 3 生成 RSS
+if not items:
+    print("ERROR: no items fetched")
+    exit(1)
+
+
 rss_items = ""
 
 for i in items:
@@ -169,4 +231,4 @@ rss_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 with open("rss.xml", "w", encoding="utf-8") as f:
     f.write(rss_xml)
 
-print("rss.xml generated successfully!")
+print("rss.xml generated successfully:", len(items))
