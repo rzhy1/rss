@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>集微网 - 最新</title>
+        <link>https://www.laoyaoba.com/jwnews</link>
+        <description>利用 GitHub Actions 自动生成的集微网 RSS</description>
+        
+    </channel>
+</rss>
