@@ -4,14 +4,94 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Thu, 12 Mar 2026 13:04:01 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 14:09:46 GMT</lastBuildDate>
+
+    <item>
+        <title>大摩重估中国科技股：阿里巴巴凭借全栈AI取代腾讯成首选</title>
+        <link>https://www.laoyaoba.com/n/990994</link>
+        <guid>https://www.laoyaoba.com/n/990994</guid>
+        <description>摩根士丹利近日发布最新行业研报，宣布将阿里巴巴上调为行业首选股，正式取代此前占据该位置的腾讯。该机构在报告中指出，尽管面临一定的短期盈利压力，但阿里巴巴凭借在全栈人工智能领域的完整技术布局，尤其是其自研芯片的深厚储备，显著提升了成为行业AI赢家的可能性。</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>同济大学电子与信息工程学院孟淼团队博士生张永领荣获IEEE集成电路领域博士生最高学术荣誉</title>
+        <link>https://www.laoyaoba.com/n/990983</link>
+        <guid>https://www.laoyaoba.com/n/990983</guid>
+        <description>近日，被业界誉为“集成电路设计奥林匹克大会”的第73届国际固态电路会议（ISSCC 2026）在美国旧金山召开。会上，同济大学电子与信息工程学院博士生张永领凭借在低功耗射频集成电路设计领域的突出学术成果与创新贡献，被IEEE SSCS（固态电路学会）授予2025-2026年度SSCS Predoctoral Achievement Award（国际固态电路学会博士生成就奖）。</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>深圳国际研究生院孙波团队合作合成具有超高热导率的金属六方氮化钽单晶</title>
+        <link>https://www.laoyaoba.com/n/990978</link>
+        <guid>https://www.laoyaoba.com/n/990978</guid>
+        <description>近日，清华大学深圳国际研究生院孙波团队与合作者通过高温高压法合成了具有超高导热性能的金属六方氮化钽（θ-TaN）单晶，突破金属材料长期存在的热导率上限，为先进热管理材料的研发开辟了新路径。</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>上海交大集成电路学院臧法珩团队在仿生非对称微结构阵列增强薄膜蒸发领域取得进展</title>
+        <link>https://www.laoyaoba.com/n/990975</link>
+        <guid>https://www.laoyaoba.com/n/990975</guid>
+        <description>近日，上海交通大学集成电路学院（信息与电子工程学院）臧法珩副教授团队在仿生非对称微结构阵列增强薄膜蒸发领域取得新进展。通过三维微纳加工技术将微纹理毛细结构与非对称设计结合，为热管理与相变传热器件的高效稳定运行提供了新的结构设计路径。相关成果以“Thin-film evaporators enhanced by asymmetric microstructure arrays with cuticle-like sidewall textures”为题发表于《Cell Press》</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>深圳国际研究生院周光敏团队在高效金属纳米晶催化剂的可控合成研究方向取得新进展</title>
+        <link>https://www.laoyaoba.com/n/990968</link>
+        <guid>https://www.laoyaoba.com/n/990968</guid>
+        <description>过渡金属纳米晶体（TMNs）被广泛应用于诸多催化反应。其中，具有高度有序原子排列的单晶TMNs通常作为模型催化剂用于基础电催化机制的研究，而具有大量晶界的多晶TMNs则常用于揭示催化反应中缺陷与活性的关系。目前已报道的合成单/多晶TMNs（MC/PC-TMNs）的方法均依赖外部实验参数（如浓度和温度等）的精确调控，制备过程复杂且耗时。此外，制备单/多晶结构所需的临界参数值往往难以确定，导致形态难以控制。因此，开发一种依赖于材料本征参数而非实验参数的方法来实现MC/PC-T</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>西安交通大学微电子学院研究成果发表在“芯片奥林匹克”ISSCC 2026</title>
+        <link>https://www.laoyaoba.com/n/990966</link>
+        <guid>https://www.laoyaoba.com/n/990966</guid>
+        <description>2月15日-2月19日，微电子学院桂小琰教授赴美国旧金山参加2026年“芯片奥林匹克”国际固态电路会议(ISSCC)，并做题为“A 112-Gb/s PAM4 SBD Transceiver with Mismatch-Compensated 2xVDD Hybrid and Two-Step Echo Canceller in 28nm CMOS”的学术报告，向全球集成电路设计领域的同行展示了我校在超高速有线收发接口芯片领域的国际领先成果。</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>突破架构瓶颈！南京大学2项重磅芯片成果闪耀ISSCC 2026</title>
+        <link>https://www.laoyaoba.com/n/990960</link>
+        <guid>https://www.laoyaoba.com/n/990960</guid>
+        <description>近日，被誉为“芯片设计国际奥林匹克会议”的第七十三届国际固态电路大会（ISSCC 2026）在美国旧金山盛大举行。作为集成电路领域最具影响力的国际顶会，本届大会上，南京大学集成电路学院共有2篇高水平论文入选。</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>广东发布十年产业规划：2035年新赛道规模破10万亿，AI芯片成布局重点</title>
+        <link>https://www.laoyaoba.com/n/990942</link>
+        <guid>https://www.laoyaoba.com/n/990942</guid>
+        <description>3月10日，广东省人民政府办公厅正式印发《广东省加快培育发展新赛道引领现代化产业体系建设行动规划（2026—2035年）》（下称《行动规划》）。根据规划，到2030年广东将培育形成3个以上万亿元级赛道，到2035年新赛道产业及市场规模突破10万亿元，建成全球新赛道发展引领地。</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>广东省行动规划：聚焦新赛道，培育“新物种”企业</title>
+        <link>https://www.laoyaoba.com/n/990936</link>
+        <guid>https://www.laoyaoba.com/n/990936</guid>
+        <description>**摘要**：3 月 10 日广东省发布行动规划，提出到 2035 年培育超 100 个产业新赛道，突破 10 万亿元规模。规划重点布局高端通用及专用 AI 芯片研发，还涉及人工智能等多领域支持，将加强技术攻关，推动应用创新，打造“新物种”企业，完善要素保障。</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>寒武纪：2025年实现营收64.97亿元，扭亏为盈</title>
+        <link>https://www.laoyaoba.com/n/990930</link>
+        <guid>https://www.laoyaoba.com/n/990930</guid>
+        <description>3月13日晚间，中科寒武纪科技股份有限公司发布的2025年年度报告显示，在人工智能产业高速发展的背景下，公司凭借产品力持续拓展市场，全年实现营业收入64.97亿元，同比大幅增长453.21%；归属于上市公司股东的净利润20.59亿元，首次实现全年利润扭亏为盈。</description>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
+    </item>
 
     <item>
         <title>半导体产业面临氦气供应危机，企业如何应对？</title>
         <link>https://www.laoyaoba.com/n/990928</link>
         <guid>https://www.laoyaoba.com/n/990928</guid>
         <description>**摘要**：美以攻击伊朗致氦气采购中断，日本半导体产业或半年后受严重影响，氦气短缺暴露日本供应链风险，企业需采取应对措施，政府应做出细致说明。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/990908</link>
         <guid>https://www.laoyaoba.com/n/990908</guid>
         <description>艾为以高可靠性电源保护与 Haptic 技术，赋能稳定快充与舒适振感</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/990878</link>
         <guid>https://www.laoyaoba.com/n/990878</guid>
         <description>3月12日，在中国家电及消费电子博览会（AWE）开幕式上，上海壁仞科技股份有限公司（简称“壁仞科技”）联合上海仪电（集团）有限公司（简称“上海仪电”）、上海曦智科技股份有限公司（简称“曦智科技”） 、中兴通讯股份有限公司（简称“中兴通讯”）正式发布光跃超节点128卡商用版（LightSphere 128）。此次重磅发布，标志着这一中国原创的光互连光交换超节点解决方案，仅用半年多时间即实现从概念验证到实际商用的跨越。目前，光跃超节点已实现数千卡的部署。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/990876</link>
         <guid>https://www.laoyaoba.com/n/990876</guid>
         <description>​在今年的全国两会上，“新质生产力”与“巩固壮大实体经济根基”成为代表委员们热议的关键词。海信董事长在今年全国两会期间分享了行业协同创新的生动案例，全国人大代表、京东方鄂尔多斯区域办负责人奇玉琴也就同一话题与记者深入交流。两位代表不约而同聚焦的，正是中国显示产业从大到强的跃迁之路。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/990839</link>
         <guid>https://www.laoyaoba.com/n/990839</guid>
         <description>BOE（京东方）首次深度参与AWE 2026，携京东方蓝鲸显示大模型、全新首发的镜感“0痕”折叠显示屏、HERO 2.0智能座舱解决方案以及钙钛矿光伏等前沿创新成果重磅亮相。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/990831</link>
         <guid>https://www.laoyaoba.com/n/990831</guid>
         <description>3月12日，英特尔在上海举办了第三代英特尔® 酷睿™ Ultra处理器新品分享会。作为全球首款基于Intel 18A工艺打造的计算平台，第三代英特尔酷睿 Ultra处理器家族以卓越性能、领先显卡表现、强大AI算力与数日电池续航，不仅可以全面满足用户对AI PC的多样化需求，更以其广泛的适用性和规模化部署能力，重塑了轻薄本的性能标杆。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/990827</link>
         <guid>https://www.laoyaoba.com/n/990827</guid>
         <description>2026年3月10日，朝阳科技发布2025年度报告。2025年公司实现营收18.6亿元，同比增长12.5%，TWS耳机出货量突破5000万副。报告期内，主动降噪（ANC）耳机占比提升至45%，智能穿戴产品营收同比增长35%，为公司‘音频+智能穿戴’双赛道战略注入新动能。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/990826</link>
         <guid>https://www.laoyaoba.com/n/990826</guid>
         <description>2026年3月10日，天赐材料发布2025年度报告。2025年公司实现营收326.5亿元，同比增长25.8%，全球电解液市占率提升至38.2%。报告期内，新型锂盐LiFSI实现规模化量产，回收业务收入同比增长120%，为公司‘材料+回收’双轮驱动战略奠定坚实基础。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/989463</link>
         <guid>https://www.laoyaoba.com/n/989463</guid>
         <description>Arm Flexible Access扩容升级，新增支持Transformer的Ethos-U85等三款IP，简化流程并允许初创企业免费加入。新模式降低芯片设计门槛，以“先试后买”灵活支付，释放边缘AI创新空间，已惠及近80家本土企业。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
     <item>
@@ -83,87 +163,7 @@
         <link>https://www.laoyaoba.com/n/990818</link>
         <guid>https://www.laoyaoba.com/n/990818</guid>
         <description>截至今日15:00，根据爱集微自研舆情算法动态更新的“上市企业热度排行”显示，位列前20的企业为：中兴通讯、京东方 A、中芯国际、三安光电、航天科技、长电科技、华工科技、寒武纪、概伦电子、晶合集成、中科蓝讯、沃格光电、航宇微、大族激光、北斗星通、北方华创、兆易创新、华大九天、瑞芯微、东南电子。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>AI编程创企Cursor洽谈新一轮融资，估计将达500亿美元</title>
-        <link>https://www.laoyaoba.com/n/990819</link>
-        <guid>https://www.laoyaoba.com/n/990819</guid>
-        <description>领先的人工智能编程初创公司Cursor正在与投资者洽谈新一轮融资。据知情人士透露，此轮融资可能使公司估值达到约 500 亿美元，几乎是去年秋季融资时估值的两倍。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>ABI Research首席分析师：共探轨道上的“硅”基革命丨 集微分析师大会</title>
-        <link>https://www.laoyaoba.com/n/990770</link>
-        <guid>https://www.laoyaoba.com/n/990770</guid>
-        <description>我们非常荣幸地邀请到ABI Research 太空技术首席分析师（Space Tech Lead）Andrew Cavalier重磅出席本次大会，他将为大会注入太空技术与半导体融合的前沿视角，带来卫星通信、太空基础设施领域的深度解析。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>鹏鼎控股2025年经营业绩稳步增长 AI浪潮驱动下保持战略定力</title>
-        <link>https://www.laoyaoba.com/n/990812</link>
-        <guid>https://www.laoyaoba.com/n/990812</guid>
-        <description>3月12日，鹏鼎控股公告称，2025年公司实现营业收入391.47亿元，较上年增长11.40%，实现归属于上市公司股东的净利润37.38亿元，较上年增长3.25%。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>本田警告：电动汽车需求低迷，将计提157亿美元损失</title>
-        <link>https://www.laoyaoba.com/n/990808</link>
-        <guid>https://www.laoyaoba.com/n/990808</guid>
-        <description>本田汽车表示，由于重新评估其电动汽车战略，公司预计将计提最高达2.5万亿日元（约157亿美元，约合人民币1082亿元）的费用。随着电动车转型受挫，这家日本汽车制造商也加入了越来越多遭受冲击的全球车企行列。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>三星显示CEO警告：伊朗战争引发油价飙升，将带来成本压力</title>
-        <link>https://www.laoyaoba.com/n/990797</link>
-        <guid>https://www.laoyaoba.com/n/990797</guid>
-        <description>三星显示CEO表示，伊朗战争和油价飙升将推高能源和原材料成本。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>新思科技首届Converge大会启幕，擘画工程创新未来</title>
-        <link>https://www.laoyaoba.com/n/990789</link>
-        <guid>https://www.laoyaoba.com/n/990789</guid>
-        <description>新思科技（纳斯达克代码：SNPS）全新旗舰大会新思科技 Converge 2026 于 3 月 11 日隆重举行。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>机构：2025年Q4全球电视出货6150万台，中国市场大幅下滑</title>
-        <link>https://www.laoyaoba.com/n/990786</link>
-        <guid>https://www.laoyaoba.com/n/990786</guid>
-        <description>市调机构在报告中指出，尽管中国市场大幅下滑，2025年第四季度全球电视出货量仍同比持平，为6150万台。中国出货量同比下降25.3%，主要原因是政府补贴结束，以及许多消费者在过去一年提前升级电视。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>算力新基建提速，激活国产 AI 芯片新动能</title>
-        <link>https://www.laoyaoba.com/n/990772</link>
-        <guid>https://www.laoyaoba.com/n/990772</guid>
-        <description>2026年政府工作报告明确将超大规模智算集群、算电协同纳入新基建工程。另有报道显示，2026 年全国算力基建投资将达4500亿元。我国人工智能基础设施建设进入全面提速期。以云服务商、电信运营商、中央企业为代表的三大主力协同发力，算力投资规模与硬件国产化率正在同步提升。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>消息称印度拟推新一轮手机制造激励计划，苹果、三星将受益</title>
-        <link>https://www.laoyaoba.com/n/990769</link>
-        <guid>https://www.laoyaoba.com/n/990769</guid>
-        <description>知情人士透露，印度正在起草新一轮智能手机制造激励措施，将政府补贴与出口以及本地零部件的更广泛使用挂钩，此举将使苹果公司、三星电子及其供应商受益。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>机构：AI需求推动，2025年Q4全球前十大晶圆代工产值环比增长2.6%至463亿美元</title>
-        <link>https://www.laoyaoba.com/n/990767</link>
-        <guid>https://www.laoyaoba.com/n/990767</guid>
-        <description>2025年第四季度，在全球AI服务器GPU及新款智能手机的强劲需求带动下，全球前十大晶圆代工厂的季度总产值增长2.6%，达到463亿美元。纵观全年，产业总产值高达1695亿美元，同比劲增26.3%，创下历史新纪录。</description>
-        <pubDate>Thu, 12 Mar 2026 13:04:01 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:09:46 GMT</pubDate>
     </item>
 
 </channel>
