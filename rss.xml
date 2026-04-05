@@ -4,14 +4,30 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Sun, 05 Apr 2026 11:00:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 11:43:52 GMT</lastBuildDate>
+
+    <item>
+        <title>AI浪潮重塑芯片版图：ASML、SK海力士、美光新晋全球市值排行25强</title>
+        <link>https://www.laoyaoba.com/n/1006922</link>
+        <guid>https://www.laoyaoba.com/n/1006922</guid>
+        <description>人工智能的持续升温正彻底改写全球半导体行业的市值格局。最新数据显示，在全球市值排名前25的企业中，半导体公司已占据7个席位，而三年前这一数字仅为3家。</description>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Dojo 3悄然亮相：特斯拉自研芯片告别地面，奔向太空</title>
+        <link>https://www.laoyaoba.com/n/1006916</link>
+        <guid>https://www.laoyaoba.com/n/1006916</guid>
+        <description>在近日于奥斯汀举办的TERAFAB发布会上，马斯克对外披露了未来十年支撑特斯拉、xAI与SpaceX共同愿景的芯片规划。尽管AI5和AI6两款芯片成为全场焦点——它们将统一成为数百万辆无人驾驶出租车和擎天柱人形机器人的“中央大脑”——但现场幻灯片及月球质量投射器的演示视频中，还出现了一款高度专用的第三款芯片：D3。</description>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
+    </item>
 
     <item>
         <title>中科大团队破解VCO型ADC“速度魔咒”，突破高速应用瓶颈</title>
         <link>https://www.laoyaoba.com/n/1006911</link>
         <guid>https://www.laoyaoba.com/n/1006911</guid>
         <description>中国科学技术大学集成电路学院胡诣哲课题组在高速模数转换器（ADC）设计上取得新突破。研究人员提出一种基于可复位环形压控振荡器（R-RVCO）的全新ADC架构，实现了最高2.5 GS/s的采样率，成功跨越了此前同类架构长期难以突破的GHz级速度门槛。相关论文发表在集成电路领域国际知名期刊《IEEE Journal of Solid-State Circuits》（JSSC）上。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +35,7 @@
         <link>https://www.laoyaoba.com/n/1006909</link>
         <guid>https://www.laoyaoba.com/n/1006909</guid>
         <description>重要工业材料“氦气”正面临严重的供应危机。受伊朗军事冲突影响，占全球产量约三成的卡塔尔生产设施遭到破坏，导致供应骤减。氦气不仅用于人工智能（AI）半导体的制造过程，也是磁共振成像（MRI）设备的关键冷却材料。然而，目前能够替代卡塔尔的供应来源仅限美国、俄罗斯等少数国家。此次事件暴露出全球供应链中一个长期被忽视的脆弱环节。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +43,7 @@
         <link>https://www.laoyaoba.com/n/1006908</link>
         <guid>https://www.laoyaoba.com/n/1006908</guid>
         <description>据报道，三星电子已启动公开招标，清理韩国（37台）和中国西安（86台）半导体工厂共123台闲置旧设备，以精简NAND Flash业务流程，加速向200层以上NAND Flash转型。此外，三星首条8英寸氮化镓（GaN）晶圆生产线预计2026年二季度量产，初期收入预计低于1000亿韩元</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +51,7 @@
         <link>https://www.laoyaoba.com/n/1006907</link>
         <guid>https://www.laoyaoba.com/n/1006907</guid>
         <description>据报道，苹果正高价大量采购移动 DRAM，不惜牺牲部分利润保障供应稳定，同时挤压竞争对手内存资源。韩国业界消息称，苹果几乎“扫空”市场可用移动 DRAM，在价格高企情况下持续加码，以在供应紧张时锁定产能、强化供应链掌控。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +59,7 @@
         <link>https://www.laoyaoba.com/n/1006906</link>
         <guid>https://www.laoyaoba.com/n/1006906</guid>
         <description>根据摩根士丹利跟踪报告显示，美光科技高层在投资人会议中表示，其DRAM扩产新产能最快2027年底出货，叠加半导体设备产能不足，DRAM供不应求状态将持续至2027年。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +67,7 @@
         <link>https://www.laoyaoba.com/n/1006905</link>
         <guid>https://www.laoyaoba.com/n/1006905</guid>
         <description>SEMI最新《300毫米工厂展望》报告显示，全球300毫米晶圆设备支出预计2026年增长18%至1330亿美元，2027年再增14%，突破1500亿美元大关达1510亿美元。这一增长主要得益于数据中心及边缘设备对AI芯片的需求激增，以及关键区域推进半导体自给自足、构建本地化工业生态、重组供应链的持续努力。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +75,7 @@
         <link>https://www.laoyaoba.com/n/1006904</link>
         <guid>https://www.laoyaoba.com/n/1006904</guid>
         <description>根据TrendForce最新调查，2025年各大云端服务供应商(CSP)持续购买GPU、自研ASIC建置算力需求，带动AI相关芯片设计业者成长，全球前十大无晶圆IC(Fabless IC)设计公司合计营收逾3,594亿美元，同比增长44%。英伟达蝉联营收冠军，博通因受惠AI浪潮较深，排名上升至第二名，超过消费性电子营收占比较高的高通。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1006903</link>
         <guid>https://www.laoyaoba.com/n/1006903</guid>
         <description>Gartner预测，全球企业采用中国大语言模型及多模态模型的占比将从2025年的5%跃升至2027年的50%。背后是企业对模型多样性与供应链安全的追求——中国大语言模型在能力卓越、成本高效、多模态交互及数据安全方面优势显著，尤其在亚洲语境中表现突出。开源战略更强化了其竞争力。未来人工智能格局将走向多元，竞争核心在于汇聚全球智慧创造价值。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1006902</link>
         <guid>https://www.laoyaoba.com/n/1006902</guid>
         <description>2025年中国新能源产业发展成效显著，各核心领域实现突破性发展。根据CINNO Research最新统计数据，2025年新能源产业投资总额约 2.8 万亿元，同比下降24.1%。虽部分领域投资同比回落，但产业依旧是科技领域最具活力的投资方向，下一代电池技术、智能电网等前沿赛道持续保持高投资热度。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1006901</link>
         <guid>https://www.laoyaoba.com/n/1006901</guid>
         <description>谷歌推出TurboQuant技术，通过将AI内存需求压缩至六分之一，引发相关半导体股剧烈震荡：股价先暴跌后反弹。专家分析，短期波动源于市场误读，长期而言，技术效率提升将降低成本，刺激半导体需求增长，恰如杰文斯悖论所述。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1006900</link>
         <guid>https://www.laoyaoba.com/n/1006900</guid>
         <description>4月3日，小米通讯技术有限公司发布官方说明，受全球存储芯片等关键零部件价格持续大幅飙升影响，公司将自2026年4月11日00:00起，对Xiaomi及REDMI部分在售产品的建议零售价进行调整。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1006899</link>
         <guid>https://www.laoyaoba.com/n/1006899</guid>
         <description>4月3日，小米集团总裁卢伟冰在微博发文表示，因本轮内存价格上涨力度过大，同版本内存价格较去年第一季度上涨近4倍。其中，12+512GB版本内存价格上涨约1500元，16+1TB版本涨幅更为显著。卢伟冰表示，内存价格的大幅上涨，对始终以极致性价比为策略的REDMI影响很大，因此只能对部分机型零售价格进行小幅上调或恢复原价，并向消费者表达理解请求。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -107,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1006898</link>
         <guid>https://www.laoyaoba.com/n/1006898</guid>
         <description>北京时间4月3日，《华尔街日报》周四发文，介绍了美国人形机器人所使用的中国技术。文章称，在具有战略意义的人形机器人行业，特斯拉和其他美国公司正依赖中国供应商提供零部件。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -115,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1006897</link>
         <guid>https://www.laoyaoba.com/n/1006897</guid>
         <description>4月3日，天眼查App显示，4月2日，上海阶跃星辰智能科技有限公司发生工商变更，企业名称变更为上海阶跃星辰智能科技股份有限公司。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -123,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1006896</link>
         <guid>https://www.laoyaoba.com/n/1006896</guid>
         <description>美伊战争导致国际油价暴涨，推升韩国半导体与显示产业原材料成本。石脑油危机引发供应链动荡，光学薄膜、偏光片等关键材料价格上扬，或触发IT行业通胀，进而推高智能手机、电视等终端产品售价。日本企业将PI薄膜与PMMA价格上调20-30%，CCL价格上涨30%，偏光片价格或上涨5-10%。半导体行业清洁化学品及氦气供应趋紧，价格飙升。预计成本压力将于下半年显现，企业正调整供应链以应对挑战。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -131,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1006895</link>
         <guid>https://www.laoyaoba.com/n/1006895</guid>
         <description>2026年4月3日，在上海南翔蔚来交付中心，乐道L90达成第50,000台新车交付里程碑。自2025年8月开启交付以来，上市5个月便斩获2025年度纯电大型SUV销量冠军。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -139,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1006894</link>
         <guid>https://www.laoyaoba.com/n/1006894</guid>
         <description>4月3日，在北京经济技术开发区举办的2026太空算力产业大会上，我国业界首个太空算力产业协同平台“太空算力专业委员会”正式成立，标志着我国太空算力产业迈入协同化发展新阶段。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
     <item>
@@ -147,23 +163,7 @@
         <link>https://www.laoyaoba.com/n/1006893</link>
         <guid>https://www.laoyaoba.com/n/1006893</guid>
         <description>工业和信息化部信息通信发展司副司长赵策3日表示，太空算力孕育着新机遇，同时也面临不少亟待破解的新挑战，要加强系统谋划，做好前瞻布局，深化产业培育，进一步协同攻坚，扎实有序推动太空算力产业发展。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>新质生产力引领 科技创新擘画未来产业新蓝图</title>
-        <link>https://www.laoyaoba.com/n/1006892</link>
-        <guid>https://www.laoyaoba.com/n/1006892</guid>
-        <description>《中国证券报》3日刊发文章《新质生产力引领 科技创新擘画未来产业新蓝图》。文章称，在北京亦庄，一栋建筑面积近5000平方米的数据采集与训练基地内，120多台具身智能机器人正在不同的场景中学习未来“上岗”所需的技能，如擦洗碗碟、摆放货架商品、分拣零部件、辅助护理。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>原小米字节硬件高管徐睿加入Meta：将领导新组建的AI硬件团队</title>
-        <link>https://www.laoyaoba.com/n/1006891</link>
-        <guid>https://www.laoyaoba.com/n/1006891</guid>
-        <description>据爱范儿报道，原小米、字节跳动硬件业务高管徐睿，将成为Meta旗下的MSL（超级智能实验室）新组建的AI硬件团队的负责人。</description>
-        <pubDate>Sun, 05 Apr 2026 11:00:54 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:43:52 GMT</pubDate>
     </item>
 
 </channel>
