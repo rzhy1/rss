@@ -4,14 +4,62 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Mon, 20 Apr 2026 09:24:44 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Apr 2026 11:02:25 GMT</lastBuildDate>
+
+    <item>
+        <title>AI Agent大时代，南芯助力AI PC CPU/GPU提高效能</title>
+        <link>https://www.laoyaoba.com/n/1017195</link>
+        <guid>https://www.laoyaoba.com/n/1017195</guid>
+        <description>南芯科技已在 AI PC 电源领域形成完整布局，覆盖充电管理、存储 PMIC、AMOLED PMIC、BMS 等核心器件。面对 AI PC 对芯片大电流、高瞬态响应及极致能效比的迫切需求，还推出了以 SC634X 为代表的大电流多相 PMIC 解决方案。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>华山A2000家族全新亮相，为物理AI时代构建算力底座</title>
+        <link>https://www.laoyaoba.com/n/1017174</link>
+        <guid>https://www.laoyaoba.com/n/1017174</guid>
+        <description>华山A2000家族全新阵容已发布，在端侧推理时代，以完整的算力矩阵和扎实的架构创新，成为物理AI时代的重要算力底座。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>总投资10亿元，松瓷新能源和半导体先进装备研发制造项目开工</title>
+        <link>https://www.laoyaoba.com/n/1017160</link>
+        <guid>https://www.laoyaoba.com/n/1017160</guid>
+        <description>4 月 18 日，总投资10亿元的松瓷新能源和半导体先进装备研发制造项目在锡山经济技术开发区开工。该项目总投资10亿元，用地约57.4亩，专注于光伏及半导体行业晶体生长专用装备的研发、制造、销售及综合解决方案。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>年产百万件、面向下一代算力！天孚通信新一代光器件项目开工</title>
+        <link>https://www.laoyaoba.com/n/1017147</link>
+        <guid>https://www.laoyaoba.com/n/1017147</guid>
+        <description>4月19日，天孚通信新总部（新一代光器件项目）开工仪式在苏州高新区举行。此次开工项目集总部运营、高端研发、智能制造于一体，是天孚通信面向AI算力与下一代光通信需求的重要战略布局。该项目达产后，预计年产高速光组件、光器件等产品100万件。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>武汉：光谷造“芯片B超机”量产！</title>
+        <link>https://www.laoyaoba.com/n/1017135</link>
+        <guid>https://www.laoyaoba.com/n/1017135</guid>
+        <description>近日，武汉思波微智能科技有限公司（以下简称“思波微”）成功攻克“芯片B超机”关键技术，通过验证并实现量产。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
 
     <item>
         <title>【上市企业热度观测日志】4月20日：华工科技成交破百亿，沃格光电8天5板，臻镭科技将被ST</title>
         <link>https://www.laoyaoba.com/n/1017119</link>
         <guid>https://www.laoyaoba.com/n/1017119</guid>
         <description>截至今日15:00，根据爱集微自研舆情算法动态更新的“上市企业热度排行”显示，位列前20的企业为：华工科技、北方华创、海康威视、沪硅产业、长电科技、沃格光电、京东方 A、中兴通讯、兆易创新、上声电子、彩虹股份、佰维存储、东南电子、臻镭科技、长盈通、蓝思科技、澜起科技、寒武纪、德赛西威、特锐德。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>元川微获数亿元天使轮融资，系国产AI推理芯片公司</title>
+        <link>https://www.laoyaoba.com/n/1017124</link>
+        <guid>https://www.laoyaoba.com/n/1017124</guid>
+        <description>近日，元川微宣布完成数亿元天使轮系列融资，本轮融资由东方嘉富、元禾原点等知名投资机构联合投资及追投。据悉，本次数亿元天使轮系列融资资金将全部投入核心业务布局，主要用于第一代LPU+架构AI推理芯片的研发攻坚与量产落地，同时加速编译器验证与商业化推进。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +67,15 @@
         <link>https://www.laoyaoba.com/n/1017121</link>
         <guid>https://www.laoyaoba.com/n/1017121</guid>
         <description>据业内人士4月20日透露，韩国显示面板巨头LG Display（以下简称LGD）正在实施一项面向技术工人的自愿退休计划，预计将有约1000名员工通过该计划离职。此次裁员是LGD在向以OLED为核心的业务重构过程中，优化人力结构、改善盈利能力的战略举措。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>芯擎科技完成新一轮超1亿美元融资，系7nm车规级智能座舱芯片商</title>
+        <link>https://www.laoyaoba.com/n/1017120</link>
+        <guid>https://www.laoyaoba.com/n/1017120</guid>
+        <description>近日，芯擎科技顺利完成新一轮超1亿美元融资，本轮融资由老股东京铭资本联合领投，现有股东也同步追加投资。据悉，本轮融资资金将主要投向三大核心方向：一是核心芯片技术研发与迭代；二是量产能力升级；三是场景拓展与产业链协同。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +83,39 @@
         <link>https://www.laoyaoba.com/n/1017030</link>
         <guid>https://www.laoyaoba.com/n/1017030</guid>
         <description>2026微电子学院校企合作论坛将于5月29日下午举办，聚焦行业痛点，汇聚高校科研力量、头部企业精英、行业权威专家，共商校企合作新路径，共探成果转化新模式，为我国微电子产业自主创新与跨越式发展注入强劲动能。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>加速进化（Booster）完成近10亿元融资</title>
+        <link>https://www.laoyaoba.com/n/1017117</link>
+        <guid>https://www.laoyaoba.com/n/1017117</guid>
+        <description>具身智能公司加速进化（Booster）近日完成近10亿元融资。本轮融资由北京高精尖产业基金、京国盛基金与华控基金联合领投，联想之星、国海创新资本、交银资本参与投资，深创投、源码资本、英诺基金、IDG等老股东继续加码。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>梅威斯获数千万元A轮融资，研发AI数据中心算力电源</title>
+        <link>https://www.laoyaoba.com/n/1017116</link>
+        <guid>https://www.laoyaoba.com/n/1017116</guid>
+        <description>近日，梅威斯电气官宣完成A轮融资，由星星充电独家投资，融资金额达数千万元，资金将主要用于AI数据中心电源的持续研发、海外市场拓展及流动资金补充。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>自变量机器人完成近20亿元B轮融资</title>
+        <link>https://www.laoyaoba.com/n/1017113</link>
+        <guid>https://www.laoyaoba.com/n/1017113</guid>
+        <description>近期，自变量机器人完成近20亿元B轮融资，由小米战投与红杉中国联合领投，目前已成为国内唯一同时获得四家互联网大厂投资的具身智能企业。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>照阳光能完成A轮融资，系国产钙钛矿光伏电池厂商</title>
+        <link>https://www.laoyaoba.com/n/1017112</link>
+        <guid>https://www.laoyaoba.com/n/1017112</guid>
+        <description>近日，钙钛矿光伏电池厂商照阳光能宣布完成A轮融资，投资方为海南省艾艾艾投资有限公司。本轮融资将用于推动公司在钙钛矿光伏技术研发与产业化方面的持续突破。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1017109</link>
         <guid>https://www.laoyaoba.com/n/1017109</guid>
         <description>日前，OPPO 海外市场迎来新进展，除了成功开辟奥地利、蒙古两大新市场，Find X9 Ultra系列还将首度走出中国市场，正式登陆西班牙、意大利、英国、法国、瑞典、新加坡等全球 26 个国家和地区。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +131,23 @@
         <link>https://www.laoyaoba.com/n/1017104</link>
         <guid>https://www.laoyaoba.com/n/1017104</guid>
         <description>【长芯展】智芯开源—EDA与RISC-V创新生态论坛重磅定档！</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>海洋水声传感器设备商江苏水声完成A轮融资</title>
+        <link>https://www.laoyaoba.com/n/1017102</link>
+        <guid>https://www.laoyaoba.com/n/1017102</guid>
+        <description>近日，海洋水声传感器设备商江苏水声技术完成A轮融资，由深圳高新投与南京市创投集团联合投资。本轮融资将助力公司加速技术迭代与产品应用落地，进一步强化在海洋高端装备领域的竞争力。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>象帝先与中信建投签署协议，启动上市准备工作</title>
+        <link>https://www.laoyaoba.com/n/1017100</link>
+        <guid>https://www.laoyaoba.com/n/1017100</guid>
+        <description>象帝先与中信建投证券签署协议，启动上市准备。象帝先曾完成新一轮融资，新一代GPU已流片验证。</description>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1017050</link>
         <guid>https://www.laoyaoba.com/n/1017050</guid>
         <description>4月20日华为发布会中，余承东宣布Pura 90 Pro/Pro Max首发麒麟9030S芯片，该芯片专为智慧影像而生，NPU图像理解等能力大幅提升，手机外观配色丰富。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
     </item>
 
     <item>
@@ -59,113 +163,7 @@
         <link>https://www.laoyaoba.com/n/1017036</link>
         <guid>https://www.laoyaoba.com/n/1017036</guid>
         <description>4 月 20 日，OPPO 正式官宣 「口袋电影机」 Find X9 Ultra 视频能力全面跃升，不仅以全大底专业视频镜头组，为创作者提供焦段自由与构图自由；更首发全新O-Log2，融入专业log创作工作流，让每一帧光影都更有层次；并首发原生支持 3D LUT 导入与烧录，一键直出电影感。OPPO 更与全球专业影视配件品牌 TILTA铁头，共同打造专属 Find X9 Ultra 的「铁头 Khronos 专业视频生态配件套装」，为移动影像视频创作开启专业级全新可能。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>欧莱新材增收不增利，净亏4003万元</title>
-        <link>https://www.laoyaoba.com/n/1017035</link>
-        <guid>https://www.laoyaoba.com/n/1017035</guid>
-        <description>近日，欧莱新材（688530）披露2025年年度报告，公司全年实现营业收入5.46亿元，同比增长25.04%，但归属于上市公司股东的净利润由盈转亏，亏损4002.79万元，同比下降242.10%。扣非净利润亏损3841.06万元，同比降幅达306.50%。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>欧盟《芯片法案2.0》将于5月底公布：拨款更快，补贴本土半导体生态</title>
-        <link>https://www.laoyaoba.com/n/1017029</link>
-        <guid>https://www.laoyaoba.com/n/1017029</guid>
-        <description>欧盟《芯片法案2.0》预计5月底公布，该法案将改进拨款机制，调整补贴方向，以强化本土半导体生态系统。此外，人们期待新法案能建立更有效的区域合作机制，提升欧盟在全球半导体竞争中的地位。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>力源信息一季度净利增240.58%</title>
-        <link>https://www.laoyaoba.com/n/1017027</link>
-        <guid>https://www.laoyaoba.com/n/1017027</guid>
-        <description>4月20日，力源信息（300184）披露2026年一季报，公司期内实现营业收入28.35亿元，同比增长52.01%；归母净利润1.37亿元，同比飙升240.58%；扣非净利润1.39亿元，增长243.31%。基本每股收益0.1193元。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>“H+H=？”答案揭晓！一汽红旗官宣携手乾崑智驾</title>
-        <link>https://www.laoyaoba.com/n/1017026</link>
-        <guid>https://www.laoyaoba.com/n/1017026</guid>
-        <description>4月19日，一汽红旗官方微博发布悬念海报，以一道“H+H=？”的算术公式引发业界广泛猜想。同时官宣与华为乾崑达成深度合作，并打出“经典×科技 双典范重磅携手”的宣传语。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>21.0975 公里，是人形机器人的里程碑，也是 RISC-V 的新起点</title>
-        <link>https://www.laoyaoba.com/n/1017022</link>
-        <guid>https://www.laoyaoba.com/n/1017022</guid>
-        <description>21.0975 公里，是人形机器人的里程碑，也是 RISC-V 的新起点</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>雷军服务区被围？小米高管紧急辟谣：实为车友欢迎，将追究造谣者责任</title>
-        <link>https://www.laoyaoba.com/n/1017021</link>
-        <guid>https://www.laoyaoba.com/n/1017021</guid>
-        <description>4月19日，一则关于“小米CEO雷军在服务区被人堵在车内维权”的聊天记录在网络迅速传播，引发广泛关注。对此，小米集团董事长特别助理、战略市场部副总经理徐洁云及现场博主“回望风逝”相继发声辟谣，还原事实真相。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>OPPO A6s Pro首发“超级暴雨触控”技术，树立防水触控新标杆</title>
-        <link>https://www.laoyaoba.com/n/1017017</link>
-        <guid>https://www.laoyaoba.com/n/1017017</guid>
-        <description>2026年4月14日，OPPO正式发布旗下全新智能手机产品——OPPO A6s Pro。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>三星计划5月向英伟达交付HBM4E芯片样品</title>
-        <link>https://www.laoyaoba.com/n/1017011</link>
-        <guid>https://www.laoyaoba.com/n/1017011</guid>
-        <description>三星电子计划最早于5月生产出首批符合英伟达标准的HBM4E样品，以加速下一代高带宽内存的研发，满足市场对高性能内存的需求，HBM4E内存预计将提供更高的带宽和速度，为人工智能等领域的应用提供更强大的支持。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>别让中控屏成安全驾驶“盲点”</title>
-        <link>https://www.laoyaoba.com/n/1017009</link>
-        <guid>https://www.laoyaoba.com/n/1017009</guid>
-        <description>科技创新应为安全助力赋能，而非埋下隐患。唯有车企守住底线、监管划清红线、驾驶者筑牢防线，那块日益增大的中控屏，才能真正发挥它应有的功能</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>国产机器人超越人类半马纪录，靠什么</title>
-        <link>https://www.laoyaoba.com/n/1017008</link>
-        <guid>https://www.laoyaoba.com/n/1017008</guid>
-        <description>4月19日，在2026北京亦庄人形机器人半程马拉松上，齐天大圣队的自主导航机器人“闪电”凭借50分26秒的成绩夺冠。这一成绩，超越人类男子半马世界纪录。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>英伟达178美元“黄仁勋毛衣”走红，硅谷掀起CEO粉丝经济</title>
-        <link>https://www.laoyaoba.com/n/1017007</link>
-        <guid>https://www.laoyaoba.com/n/1017007</guid>
-        <description>4月20日，据华尔街日报报道，英伟达、Palantir等硅谷科技公司CEO形象商品走红，一款售价178美元、印有英伟达CEO黄仁勋卡通形象的毛衣，成为近期开发者大会上的热门单品，折射出AI浪潮下“创始人文化”正在向消费领域渗透。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>特稿丨人形机器人加速出海 中国硬科技增添新名片</title>
-        <link>https://www.laoyaoba.com/n/1017005</link>
-        <guid>https://www.laoyaoba.com/n/1017005</guid>
-        <description>19日上午，北京亦庄，超百支参赛队伍竞逐人形机器人半程马拉松。与去年赛事相比，今年参赛规模更大，“选手”跑得更快、续航更长、步态更顺。
-
-中国的人形机器人正在海外市场迅速崛起，成为业界风向标。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>FF新获4500万美元融资落地EAI战略 5月22日召开股东大会</title>
-        <link>https://www.laoyaoba.com/n/1017004</link>
-        <guid>https://www.laoyaoba.com/n/1017004</guid>
-        <description>4月18日，Faraday Future（“FF”）今日宣布，公司已获得美国某机构投资者4500万美元新融资；并计划于2026年5月22日召开年度股东大会，审议一系列旨在支持公司全球EAI战略执行与长期增长的提案。公司董事会呼吁全体股东对所有提案投赞成票。</description>
-        <pubDate>Mon, 20 Apr 2026 09:24:44 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 11:02:25 GMT</pubDate>
     </item>
 
 </channel>
