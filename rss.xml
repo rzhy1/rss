@@ -4,14 +4,40 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Mon, 20 Apr 2026 12:13:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Apr 2026 14:13:18 GMT</lastBuildDate>
+
+    <item>
+        <title>国产 GPU 厂商曦望再获超 10 亿元融资
+
+文章重点介绍了国产全栈自研 AI 推理 GPU 企业曦望完成新一轮超 10 亿元融资的消息。此外，还提到了该公司的产品线、技术创新以及未来的发展规划。</title>
+        <link>https://www.laoyaoba.com/n/1017339</link>
+        <guid>https://www.laoyaoba.com/n/1017339</guid>
+        <description>**摘要**：4 月 20 日，曦望宣布完成超 10 亿元融资，将用于 S3 推理 GPU 量产交付、全栈软件生态建设等。该公司专注高性能 GPU 及多模态场景 AI 推理芯片研发，团队实力雄厚，产品涵盖 S1、S2、S3 等。本轮融资后，曦望将推进 S3 量产交付，完成与主流模型和框架的适配，并规划 S4、S5 的技术路线。</description>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>日本强震致半导体巨头停工安检</title>
+        <link>https://www.laoyaoba.com/n/1017333</link>
+        <guid>https://www.laoyaoba.com/n/1017333</guid>
+        <description>**摘要**：4 月 20 日日本三陆近海发生 7.5 级强震，引发产业链震荡。震中位于半导体产业核心区，多家龙头企业停产安检。日媒判断此次地震对半导体供应链的影响局部、短期、可控。</description>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>《安徽山本光电背光模组项目正式投产》</title>
+        <link>https://www.laoyaoba.com/n/1017332</link>
+        <guid>https://www.laoyaoba.com/n/1017332</guid>
+        <description>**摘要**：安徽山本光电背光模组项目正式投产，由深圳山本光电投资 1.2 亿元建设，专注研发生产显示背光模组，将完善金安“屏幕后端模组”产业拼图，助力区域光电产业发展，其全资子公司安徽山本光电规划从事小尺寸背光源模组生产销售，年产值 3 亿元。</description>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
+    </item>
 
     <item>
         <title>【新品发布】攻克热电失控！艾为Plus‑TVS 稳护端口，破局浪涌电压驼峰！</title>
         <link>https://www.laoyaoba.com/n/1017245</link>
         <guid>https://www.laoyaoba.com/n/1017245</guid>
         <description>随着数字化办公、移动生产力全面普及，笔记本电脑、平板、快充设备已成为日常刚需。PD3.1 EPR 28V 快充协议普及带来更高功率、更快速度，也让端口防护面临前所未有的挑战：雷击浪涌、电网波动、静电冲击、插拔异常等瞬态干扰，极易导致接口芯片烧毁、系统宕机乃至整机损坏。传统 TVS 因热电正反馈效应，易出现电压 “鼓包 / 驼峰” 现象，钳位不平坦、安全裕度不足、长期可靠性差，难以满足高端设备严苛的 EMC 与寿命要求。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +45,7 @@
         <link>https://www.laoyaoba.com/n/1017242</link>
         <guid>https://www.laoyaoba.com/n/1017242</guid>
         <description>国内推理 GPU 独角兽曦望再获超 10 亿元融资，重构 AI 推理</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +53,7 @@
         <link>https://www.laoyaoba.com/n/1017202</link>
         <guid>https://www.laoyaoba.com/n/1017202</guid>
         <description>象帝先计算技术（重庆）有限公司近日与中信建投证券股份有限公司正式签署财务顾问协议，全面启动上市筹备相关工作。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +61,7 @@
         <link>https://www.laoyaoba.com/n/1017195</link>
         <guid>https://www.laoyaoba.com/n/1017195</guid>
         <description>南芯科技已在 AI PC 电源领域形成完整布局，覆盖充电管理、存储 PMIC、AMOLED PMIC、BMS 等核心器件。面对 AI PC 对芯片大电流、高瞬态响应及极致能效比的迫切需求，还推出了以 SC634X 为代表的大电流多相 PMIC 解决方案。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +69,7 @@
         <link>https://www.laoyaoba.com/n/1017174</link>
         <guid>https://www.laoyaoba.com/n/1017174</guid>
         <description>华山A2000家族全新阵容已发布，在端侧推理时代，以完整的算力矩阵和扎实的架构创新，成为物理AI时代的重要算力底座。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +77,7 @@
         <link>https://www.laoyaoba.com/n/1017160</link>
         <guid>https://www.laoyaoba.com/n/1017160</guid>
         <description>4 月 18 日，总投资10亿元的松瓷新能源和半导体先进装备研发制造项目在锡山经济技术开发区开工。该项目总投资10亿元，用地约57.4亩，专注于光伏及半导体行业晶体生长专用装备的研发、制造、销售及综合解决方案。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +85,7 @@
         <link>https://www.laoyaoba.com/n/1017147</link>
         <guid>https://www.laoyaoba.com/n/1017147</guid>
         <description>4月19日，天孚通信新总部（新一代光器件项目）开工仪式在苏州高新区举行。此次开工项目集总部运营、高端研发、智能制造于一体，是天孚通信面向AI算力与下一代光通信需求的重要战略布局。该项目达产后，预计年产高速光组件、光器件等产品100万件。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +93,7 @@
         <link>https://www.laoyaoba.com/n/1017135</link>
         <guid>https://www.laoyaoba.com/n/1017135</guid>
         <description>近日，武汉思波微智能科技有限公司（以下简称“思波微”）成功攻克“芯片B超机”关键技术，通过验证并实现量产。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +101,7 @@
         <link>https://www.laoyaoba.com/n/1017119</link>
         <guid>https://www.laoyaoba.com/n/1017119</guid>
         <description>截至今日15:00，根据爱集微自研舆情算法动态更新的“上市企业热度排行”显示，位列前20的企业为：华工科技、北方华创、海康威视、沪硅产业、长电科技、沃格光电、京东方 A、中兴通讯、兆易创新、上声电子、彩虹股份、佰维存储、东南电子、臻镭科技、长盈通、蓝思科技、澜起科技、寒武纪、德赛西威、特锐德。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +109,7 @@
         <link>https://www.laoyaoba.com/n/1017124</link>
         <guid>https://www.laoyaoba.com/n/1017124</guid>
         <description>近日，元川微宣布完成数亿元天使轮系列融资，本轮融资由东方嘉富、元禾原点等知名投资机构联合投资及追投。据悉，本次数亿元天使轮系列融资资金将全部投入核心业务布局，主要用于第一代LPU+架构AI推理芯片的研发攻坚与量产落地，同时加速编译器验证与商业化推进。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +117,7 @@
         <link>https://www.laoyaoba.com/n/1017121</link>
         <guid>https://www.laoyaoba.com/n/1017121</guid>
         <description>据业内人士4月20日透露，韩国显示面板巨头LG Display（以下简称LGD）正在实施一项面向技术工人的自愿退休计划，预计将有约1000名员工通过该计划离职。此次裁员是LGD在向以OLED为核心的业务重构过程中，优化人力结构、改善盈利能力的战略举措。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +125,7 @@
         <link>https://www.laoyaoba.com/n/1017120</link>
         <guid>https://www.laoyaoba.com/n/1017120</guid>
         <description>近日，芯擎科技顺利完成新一轮超1亿美元融资，本轮融资由老股东京铭资本联合领投，现有股东也同步追加投资。据悉，本轮融资资金将主要投向三大核心方向：一是核心芯片技术研发与迭代；二是量产能力升级；三是场景拓展与产业链协同。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -107,7 +133,7 @@
         <link>https://www.laoyaoba.com/n/1017030</link>
         <guid>https://www.laoyaoba.com/n/1017030</guid>
         <description>2026微电子学院校企合作论坛将于5月29日下午举办，聚焦行业痛点，汇聚高校科研力量、头部企业精英、行业权威专家，共商校企合作新路径，共探成果转化新模式，为我国微电子产业自主创新与跨越式发展注入强劲动能。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -115,7 +141,7 @@
         <link>https://www.laoyaoba.com/n/1017117</link>
         <guid>https://www.laoyaoba.com/n/1017117</guid>
         <description>具身智能公司加速进化（Booster）近日完成近10亿元融资。本轮融资由北京高精尖产业基金、京国盛基金与华控基金联合领投，联想之星、国海创新资本、交银资本参与投资，深创投、源码资本、英诺基金、IDG等老股东继续加码。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -123,7 +149,7 @@
         <link>https://www.laoyaoba.com/n/1017116</link>
         <guid>https://www.laoyaoba.com/n/1017116</guid>
         <description>近日，梅威斯电气官宣完成A轮融资，由星星充电独家投资，融资金额达数千万元，资金将主要用于AI数据中心电源的持续研发、海外市场拓展及流动资金补充。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -131,7 +157,7 @@
         <link>https://www.laoyaoba.com/n/1017113</link>
         <guid>https://www.laoyaoba.com/n/1017113</guid>
         <description>近期，自变量机器人完成近20亿元B轮融资，由小米战投与红杉中国联合领投，目前已成为国内唯一同时获得四家互联网大厂投资的具身智能企业。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
     <item>
@@ -139,31 +165,7 @@
         <link>https://www.laoyaoba.com/n/1017112</link>
         <guid>https://www.laoyaoba.com/n/1017112</guid>
         <description>近日，钙钛矿光伏电池厂商照阳光能宣布完成A轮融资，投资方为海南省艾艾艾投资有限公司。本轮融资将用于推动公司在钙钛矿光伏技术研发与产业化方面的持续突破。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>OPPO海外市场再下两国  高端旗舰Find X9 Ultra 系列首次出海</title>
-        <link>https://www.laoyaoba.com/n/1017109</link>
-        <guid>https://www.laoyaoba.com/n/1017109</guid>
-        <description>日前，OPPO 海外市场迎来新进展，除了成功开辟奥地利、蒙古两大新市场，Find X9 Ultra系列还将首度走出中国市场，正式登陆西班牙、意大利、英国、法国、瑞典、新加坡等全球 26 个国家和地区。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【长芯展】智芯开源—EDA与RISC-V创新生态论坛重磅定档！</title>
-        <link>https://www.laoyaoba.com/n/1017104</link>
-        <guid>https://www.laoyaoba.com/n/1017104</guid>
-        <description>【长芯展】智芯开源—EDA与RISC-V创新生态论坛重磅定档！</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>海洋水声传感器设备商江苏水声完成A轮融资</title>
-        <link>https://www.laoyaoba.com/n/1017102</link>
-        <guid>https://www.laoyaoba.com/n/1017102</guid>
-        <description>近日，海洋水声传感器设备商江苏水声技术完成A轮融资，由深圳高新投与南京市创投集团联合投资。本轮融资将助力公司加速技术迭代与产品应用落地，进一步强化在海洋高端装备领域的竞争力。</description>
-        <pubDate>Mon, 20 Apr 2026 12:13:28 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 14:13:18 GMT</pubDate>
     </item>
 
 </channel>
