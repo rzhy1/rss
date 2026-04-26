@@ -4,14 +4,134 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Sat, 25 Apr 2026 23:21:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 00:00:26 GMT</lastBuildDate>
+
+    <item>
+        <title>电装撤回收购罗姆提案</title>
+        <link>https://www.laoyaoba.com/n/1023207</link>
+        <guid>https://www.laoyaoba.com/n/1023207</guid>
+        <description>4月25日，日本电装公司宣布撤回对半导体企业罗姆的收购提案，因罗姆未予同意。</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>美国务院下令就DeepSeek等中企涉嫌窃取AI知识产权一事通告全球</title>
+        <link>https://www.laoyaoba.com/n/1023203</link>
+        <guid>https://www.laoyaoba.com/n/1023203</guid>
+        <description>据路透社看到的一份外交电报显示，美国国务院已下令在全球范围内开展行动，旨在引起外界对中国公司——包括人工智能初创公司DeepSeek——被指大规模窃取美国人工智能实验室知识产权行为的关注。这份日期为周五、已发送至世界各地外交和领事机构的电报指示美国外交人员与外国对应方沟通，表达对“敌手们提取和蒸馏美国人工智能模型”的担忧。</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>算力「独角兽」！超聚变完成A股IPO辅导估值近2900亿</title>
+        <link>https://www.laoyaoba.com/n/1023200</link>
+        <guid>https://www.laoyaoba.com/n/1023200</guid>
+        <description>大陆证监会网站显示，华为分拆的「算力独角兽」超聚变，首次公开发行股票并上市辅导工作完成。估值方面，长城战略咨询基于超聚变2024年数据，给予投后估值约89亿美元。</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>AI 掀股市版图大洗牌！ 台积电跃居全球市值第七大</title>
+        <link>https://www.laoyaoba.com/n/1023194</link>
+        <guid>https://www.laoyaoba.com/n/1023194</guid>
+        <description>人工智能（AI）浪潮引发了全球股市版图的剧烈大洗牌，中国台湾和韩国分别在台积电、三星电子和SK海力士的带动之下，先后超越欧洲各大股市。</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>AI裁员潮来袭！边扩招边裁员Meta、微软领衔科技巨头两万人失业</title>
+        <link>https://www.laoyaoba.com/n/1023183</link>
+        <guid>https://www.laoyaoba.com/n/1023183</guid>
+        <description>人工智能浪潮正加速改变全球就业结构。多家科技巨头近期同步宣布裁员或缩减招聘计画，累计规模超过2 万人，引发市场对「AI 驱动劳动危机已经到来」的忧虑。业界普遍认为，这波变化不再只是景气循环调整，而是长期结构性转变。</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>AMD市值首度冲破5000亿美元！ AI带动CPU缺货潮股价4月以来喷涨70%</title>
+        <link>https://www.laoyaoba.com/n/1023180</link>
+        <guid>https://www.laoyaoba.com/n/1023180</guid>
+        <description>​ AMD股价周五(24 日) 狂飙，市值首度在收盘时突破5000 亿美元大关。</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>蔚来汽车加码自研芯片降低对英伟达依赖强化竞争力</title>
+        <link>https://www.laoyaoba.com/n/1023179</link>
+        <guid>https://www.laoyaoba.com/n/1023179</guid>
+        <description>中国电动车品牌蔚来汽车( NIO-US )( 09866-HK ) 正加速布局自研芯片，以降低对英伟达( NVDA-US ) 的依赖并提升获利能力。执行长李斌(William Li) 周五(24 日) 表示，公司发展自有芯片，目的是让硬体设计能更贴合自家演算法与感测系统，尤其是在先进驾驶辅助系统(ADAS) 等人工智能(AI) 应用上发挥更高效率。</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>黄仁勋最担心的事发生了？ DeepSeek V4舍英伟达转用华为芯片</title>
+        <link>https://www.laoyaoba.com/n/1023173</link>
+        <guid>https://www.laoyaoba.com/n/1023173</guid>
+        <description>中国人工只能新创DeepSeek 于周五(24 日) 发布新一代AI 模型V4 预览版，该模型针对「华为」芯片架构进行优化，象征中国在关键算力基础上加速摆脱对外依赖；而英伟达执行长黄仁勋先前已警告，一旦中国AI 模型全面转向本土芯片运行，恐对美国带来「可怕的结果」，相关发展正牵动全球科技与资本市场神经。</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【扩产】国产PCB厂商豪掷数百亿全球扩产</title>
+        <link>https://www.laoyaoba.com/n/1022705</link>
+        <guid>https://www.laoyaoba.com/n/1022705</guid>
+        <description>国产PCB厂商豪掷数百亿全球扩产</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【进展】江苏10亿元重大项目！欧帝半导体专用设备项目迎来重要进展</title>
+        <link>https://www.laoyaoba.com/n/1022702</link>
+        <guid>https://www.laoyaoba.com/n/1022702</guid>
+        <description>江苏10亿元重大项目！欧帝半导体专用设备项目迎来重要进展</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【被查】中国科学院科技创新发展中心党委副书记、主任伍浩被查</title>
+        <link>https://www.laoyaoba.com/n/1022700</link>
+        <guid>https://www.laoyaoba.com/n/1022700</guid>
+        <description>中国科学院科技创新发展中心党委副书记、主任伍浩被查</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【签约】武汉光谷IC产业已破1200亿元，再签约24个化合物半导体项目</title>
+        <link>https://www.laoyaoba.com/n/1022695</link>
+        <guid>https://www.laoyaoba.com/n/1022695</guid>
+        <description>武汉光谷IC产业已破1200亿元，再签约24个化合物半导体项目</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【猛增】武汉一季报：集成电路圆片产量猛增49.8%</title>
+        <link>https://www.laoyaoba.com/n/1022689</link>
+        <guid>https://www.laoyaoba.com/n/1022689</guid>
+        <description>武汉一季报：集成电路圆片产量猛增49.8%</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【超越】我国成为第三个多波长同步锁定国家</title>
+        <link>https://www.laoyaoba.com/n/1022688</link>
+        <guid>https://www.laoyaoba.com/n/1022688</guid>
+        <description>我国成为第三个多波长同步锁定国家</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【报告】模拟集成电路重点实验室报告CICC 2026论文9篇</title>
+        <link>https://www.laoyaoba.com/n/1022687</link>
+        <guid>https://www.laoyaoba.com/n/1022687</guid>
+        <description>【报告】模拟集成电路重点实验室报告CICC 2026论文9篇</description>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
+    </item>
 
     <item>
         <title>Meta将在AI基础设施布局中采用数十万颗AWS Graviton芯片</title>
         <link>https://www.laoyaoba.com/n/1022947</link>
         <guid>https://www.laoyaoba.com/n/1022947</guid>
         <description>Meta与Amazon达成三年协议使用Graviton芯片，并投资480亿美元租用英伟达GPU，显示其在CEO扎克伯格领导下大举投资AI基础设施。Graviton芯片提供高性能和节能，Meta将成为其前五大客户，此举强调CPU在AI时代的重要性，Meta选择Graviton是为优化性能和效率。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1022929</link>
         <guid>https://www.laoyaoba.com/n/1022929</guid>
         <description>英伟达股价于周五收盘时创下历史新高，市值一举突破5万亿美元大关。此番涨势源于投资者对AI芯片的热烈追捧，市场普遍预期科技巨头即将发布的财报将传来佳音。该股当日上涨4.3%，自2022年底以来，其累计涨幅已超过14倍。这一强劲增长主要得益于AI服务需求的持续驱动，并深受谷歌、微软等行业巨头的倚重。此外，英特尔财报表现超出预期，亦带动其股价飙升24%。科技板块整体呈现反弹态势，AI基础设施需求尤为强劲。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1022882</link>
         <guid>https://www.laoyaoba.com/n/1022882</guid>
         <description>全球首富埃隆·马斯克与OpenAI CEO山姆·阿尔特曼之间长达数年的法律纠纷，将于4月27日在北加州的法庭上上演一场科技行业两位知名人物之间的戏剧性对决。在这场价值1340亿美元的诉讼中，马斯克声称OpenAI、阿尔特曼以及公司总裁格雷格·布罗克曼违背了他们将OpenAI永久保持非营利性质的承诺。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1022863</link>
         <guid>https://www.laoyaoba.com/n/1022863</guid>
         <description>阿里巴巴宣布，其通义千问（Qwen）人工智能模型将被集成到比亚迪、大众等汽车制造商的车辆中。该模型将运行于英伟达芯片，支持通过语音命令点餐、预订酒店等功能。此举旨在电动汽车市场增速放缓之际，通过提供车内数字服务来吸引消费者，并以此形成差异化竞争优势。目前，整个行业正积极运用人工智能技术提升车内体验，以应对当前的市场挑战。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
     </item>
 
     <item>
@@ -43,127 +163,7 @@
         <link>https://www.laoyaoba.com/n/1022842</link>
         <guid>https://www.laoyaoba.com/n/1022842</guid>
         <description>4月25日，京东大屏AI手机生态发布会正式举办。本次发布会聚焦京东大屏AI手机全新品类，推出面向“银发青年”的智能助手“东东”APP。活动现场，针对荣耀畅玩70 Plus、OPPO A6l等大屏AI手机产品，京东采销也为消费者带来了详尽的功能讲解与场景化演绎。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>爱芯元智M57芯片赋能魔视智能全新一代行泊一体域控，加速智驾普惠新时代</title>
-        <link>https://www.laoyaoba.com/n/1022760</link>
-        <guid>https://www.laoyaoba.com/n/1022760</guid>
-        <description>近日，北京国际汽车展览会盛大启幕，由爱芯元智（0600.HK）M57系列车载SoC芯片赋能，魔视智能打造的全新一代行泊一体域控正式首发。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>爱芯元智“芯”耀2026北京车展：高端化战略落地，M57规模化量产加速</title>
-        <link>https://www.laoyaoba.com/n/1022753</link>
-        <guid>https://www.laoyaoba.com/n/1022753</guid>
-        <description>2026年4月24日至5月3日，全球领先的AI推理系统级芯片（SoC）供应商爱芯元智（0600.HK）亮相2026年北京国际车展B4馆B408展位。以“高端启新，智驱全球”为主题，正式落地智能汽车芯片产品线高端化战略，高端旗舰智驾芯片M97首度亮相；同时，一系列基于爱芯元智车载芯片打造的智能驾驶、智能座舱、舱内智能应用（DMS/OMS/CMS）解决方案集中展出；还与多家智能汽车产业伙伴达成深度合作，共同推动智能辅助驾驶全球普惠与高端向上。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>AI重构座舱生态，联发科天玑汽车平台领跑车载“主动式”智能变革</title>
-        <link>https://www.laoyaoba.com/n/1022558</link>
-        <guid>https://www.laoyaoba.com/n/1022558</guid>
-        <description>当电动化筑牢产业发展基础，人工智能（AI）技术已从辅助应用跃升为定义汽车产业未来发展的关键驱动力，同时“AI定义汽车”（AIDV）理念成为行业智能化转型核心共识。在这一行业变革的关键节点，联发科在北京车展上正式揭晓天玑汽车平台最新进展，推介全新主动式智能体座舱解决方案，并携手生态伙伴呈现车载3A娱乐、前沿车载联接等创新成果，以全栈式技术积淀与前瞻性产业布局，率先引领行业叩响“AI定义汽车”的时代大门。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>奥特曼就大规模枪击案道歉：OpenAI未及时向警方举报嫌犯</title>
-        <link>https://www.laoyaoba.com/n/1022729</link>
-        <guid>https://www.laoyaoba.com/n/1022729</guid>
-        <description>北京时间4月25日，据《华尔街日报》报道，OpenAI CEO萨姆·奥特曼(Sam Altman)就未及时向警方通报杰西·范·鲁特塞拉尔(Jesse Van Rootselaar)的活动，向加拿大塔布勒岭镇‌致歉。范·鲁特塞拉尔是今年2月一起导致8人死亡的大规模枪击案的嫌疑人。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>雷军北京车展送出四件T恤，背后释放了什么信号？</title>
-        <link>https://www.laoyaoba.com/n/1022726</link>
-        <guid>https://www.laoyaoba.com/n/1022726</guid>
-        <description>4月24日，2026年北京车展今日迎来媒体日，小米创始人雷军现身车展现场，他亲自向理想汽车、小鹏汽车、蔚来、比亚迪赠送定制T恤的举动引发热议。雷军为多家中国新能源汽车品牌准备了带有不同标语的专属T恤，通过简短语句对应各家企业及创始人的公众标签。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>纽约时报揭秘：马斯克如何借SpaceX为自己及其商业帝国“输血”？</title>
-        <link>https://www.laoyaoba.com/n/1022722</link>
-        <guid>https://www.laoyaoba.com/n/1022722</guid>
-        <description>北京时间4月24日，《纽约时报》的调查发现，火箭制造商SpaceX一直是埃隆·马斯克(Elon Musk)的一个重要财务工具，为这位亿万富翁提供低息贷款，并资助其陷入困境的其他公司。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>吉利发布中国首台原生Robotaxi原型车Eva Cab 千里科技AI全栈加持</title>
-        <link>https://www.laoyaoba.com/n/1022711</link>
-        <guid>https://www.laoyaoba.com/n/1022711</guid>
-        <description>4月24日，吉利汽车集团在第十九届北京国际车展正式发布中国首台原生开发Robotaxi原型车Eva Cab，该车基于千里科技Robotaxi综合解决方案打造，融合L4级自动驾驶架构、超级智能体与基础大模型能力，具备物理AI能力。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>IDC一季度手机出货量报告发布：OPPO份额达16%，Find N6成最畅销折叠新品</title>
-        <link>https://www.laoyaoba.com/n/1022710</link>
-        <guid>https://www.laoyaoba.com/n/1022710</guid>
-        <description>4月24日，国际数据公司IDC发布2026年一季度中国区手机出货量报告，OPPO凭借新发布的折叠屏手机Find N6，以16%的市场份额位列国内市场前三。报告数据显示，该款机型在当季同类产品中销量表现突出，成为一季度最畅销折叠屏新品。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>《Nature》刊发北工大在高效晶硅太阳能光伏电池领域的研究成果</title>
-        <link>https://www.laoyaoba.com/n/1022709</link>
-        <guid>https://www.laoyaoba.com/n/1022709</guid>
-        <description>近日，北京工业大学材料科学与工程学院严辉教授团队与福建省金石能源公司张津燕博士团队合作完成的混合背接触（Hybrid Back-Contact）晶硅太阳能光伏电池研究成果，以“Maximizing carrier extraction in hybrid back-contact silicon solar cells”为题，正式发表于国际高水平学术期刊《Nature》（Vol 652, pp. 650-654）。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>中国科大实现量子比特关联非凸结构的精细刻画</title>
-        <link>https://www.laoyaoba.com/n/1022708</link>
-        <guid>https://www.laoyaoba.com/n/1022708</guid>
-        <description>中国科学技术大学郁司夏、孙亮亮、周祥与电子科技大学王子竹、宁波大学张成杰、常州工业职业技术学院宋永顺合作，针对独立量子比特间的量子关联，发展了一种强有力的非线性分析框架，实现了对这类量子关联的非凸结构的精确刻画，并揭示了其在量子信息任务中的关键应用。相关研究成果4月22日发表于《物理评论快报》(Physical Review Letters)。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>薄膜铌酸锂——超高速光模块带宽革命，性能王者迎来量产拐点</title>
-        <link>https://www.laoyaoba.com/n/1022677</link>
-        <guid>https://www.laoyaoba.com/n/1022677</guid>
-        <description>AI算力爆发驱动光模块从800G 向 1.6T/3.2T 加速迭代，带宽与功耗成为核心瓶颈；薄膜铌酸锂（TFLN）凭借110GHz +超高带宽、超低功耗、高线性度的物理特性，成为单波200G/400G 超高速调制的最优解。2026年为薄膜铌酸锂产业规模化元年，3.2T 时代其渗透率有望突破40%，市场规模年复合增速超50%，国产产业链已实现从衬底到器件的全链条突破。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>中国科学院科技创新发展中心党委副书记、主任伍浩被查</title>
-        <link>https://www.laoyaoba.com/n/1022640</link>
-        <guid>https://www.laoyaoba.com/n/1022640</guid>
-        <description>4月25日，据中央纪委国家监委消息，中国科学院科技创新发展中心党委副书记、主任伍浩涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>台积先进封装进展迅速，有利承接英伟达、AMD等大厂订单</title>
-        <link>https://www.laoyaoba.com/n/1022548</link>
-        <guid>https://www.laoyaoba.com/n/1022548</guid>
-        <description>其持续扩展CoWoS技术以整合更多硅晶。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>郑州合晶12英寸大硅片产线全线跑通，预计6月投产</title>
-        <link>https://www.laoyaoba.com/n/1022527</link>
-        <guid>https://www.laoyaoba.com/n/1022527</guid>
-        <description>据大河财立方报道，4月21日下午，在实地探访位于郑州航空港的郑州合晶硅材料有限公司时，董事长钟佑生分享了二期项目好消息——12英寸大硅片产线基本全线跑通，和意向客户的测试认证对接工作也在同步进行，预计6月投产。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>模拟集成电路重点实验室报告CICC 2026论文9篇</title>
-        <link>https://www.laoyaoba.com/n/1022525</link>
-        <guid>https://www.laoyaoba.com/n/1022525</guid>
-        <description>2026年4月19日至23日，第37届IEEE CICC（全定制集成电路会议）在美国西雅图召开，模拟集成电路重点实验室在CICC 2026发表了9篇学术论文，所涉及研究内容包括高速和超高速模数转换器、高速数据接口、高精度射频锁相环、毫米波相位滤波移相器、隔离驱动电源芯片、俘能和功率管理芯片等。</description>
-        <pubDate>Sat, 25 Apr 2026 23:21:28 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 00:00:26 GMT</pubDate>
     </item>
 
 </channel>
