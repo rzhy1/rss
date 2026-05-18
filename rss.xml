@@ -4,14 +4,150 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Mon, 18 May 2026 09:57:42 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 13:45:15 GMT</lastBuildDate>
+
+    <item>
+        <title>中芯聚源、翌昕投资等加持！矩量光启获2亿元天使轮融资</title>
+        <link>https://www.laoyaoba.com/n/1037422</link>
+        <guid>https://www.laoyaoba.com/n/1037422</guid>
+        <description>矩量光启宣布完成2亿元天使轮融资，本轮由和利资本、钧山资本联合领投，中芯聚源、翌昕投资等多家产业方加持，翊荣资本跟投。老股东千乘资本、德同资本及知名半导体设备方超额追加投资。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>脑智算芯获天使轮融资，用于类脑大模型推理芯片研发</title>
+        <link>https://www.laoyaoba.com/n/1037398</link>
+        <guid>https://www.laoyaoba.com/n/1037398</guid>
+        <description>5月18日，脑智算芯（上海）科技有限公司正式宣布完成天使轮融资。本轮融资由英诺天使基金、复旦科创联合领投，水木清华校友种子基金以及容亿投资共同投资。本轮融资资金将重点用于脑智算芯第一代类脑大模型推理芯片的研发与原型验证，加速类脑算力芯片从实验室走向大规模商业化部署。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【技术帖】适配端侧AI ! VCM马达驱动全景方案揭秘：开环→闭环→光学防抖</title>
+        <link>https://www.laoyaoba.com/n/1037369</link>
+        <guid>https://www.laoyaoba.com/n/1037369</guid>
+        <description>音圈马达（Voice Coil Motor, VCM）作为现代光学系统的核心驱动元件，其性能直接决定了自动对焦（AF）和光学防抖（OIS）的精度与速度。不同类型的VCM马达需搭配特定驱动芯片才能发挥最佳效能，从基础的开环结构到高精度闭环控制，再到复杂的光学防抖系统，技术方案呈现多元化发展。适配端侧 AI 部署需求，可在设备本地搭载轻量化智能推理模型，实现对焦策略、防抖逻辑、功耗调控的本地自主决策，无需依赖云端算力，完美适配端侧智能影像硬件生态。本文将系统解析开环VCM、闭环VCM、光学防抖VCM</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>芯联资本战略投资芯路半导体，提升产品竞争力与规模化能力</title>
+        <link>https://www.laoyaoba.com/n/1037356</link>
+        <guid>https://www.laoyaoba.com/n/1037356</guid>
+        <description>芯联资本战略投资芯路半导体，提升产品竞争力与规模化能力</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>尊恒半导体祝贺中国半导体企业家第四届大会举办圆满成功</title>
+        <link>https://www.laoyaoba.com/n/1037352</link>
+        <guid>https://www.laoyaoba.com/n/1037352</guid>
+        <description>尊恒半导体作为国内技术第一的TGV设备厂商和全球引领的面板级设备厂商全程参与了此次大会。大会上，尊恒半导体创始人肖锦成与与会的院士、科学家、主办方、产业链同仁以及投资人进行了热情互动，为共同推动中国半导体高质量、高速度发展献计献策贡献力量！</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>400位！集微大会首批嘉宾名单重磅揭晓</title>
+        <link>https://www.laoyaoba.com/n/1037270</link>
+        <guid>https://www.laoyaoba.com/n/1037270</guid>
+        <description>第十届集微大会重磅升级，首批400位嘉宾名单重磅揭晓。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>存货高企、周转承压：2025年A股后道封测设备厂商“三高”下的“甜蜜与烦恼”</title>
+        <link>https://www.laoyaoba.com/n/1037288</link>
+        <guid>https://www.laoyaoba.com/n/1037288</guid>
+        <description>2025年，在半导体周期复苏、国产替代加速及AI驱动先进封装需求爆发的多重利好下，A股后道封测设备板块交出了一份分化中整体向好的成绩单。7家样本公司合计实现营业收入113.03亿元，同比平均增幅达36.88%。在半导体国产替代加速推进、先进封装技术迭代升级的双重驱动下，板块内企业呈现“头部引领、中小突围”的差异化发展格局，毛利率维持52.78%的高位水平，研发投入强度达16.10%，彰显出高技术制造业的鲜明特征。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>博力威：复用现有34145大圆柱生产工艺，成功制备固液电池样品</title>
+        <link>https://www.laoyaoba.com/n/1037287</link>
+        <guid>https://www.laoyaoba.com/n/1037287</guid>
+        <description>近日，博力威在接受机构调研时表示，在固液电池方面，公司已复用现有34145全极耳大圆柱生产工艺，成功制备出样品，显著提升了电池的安全性和循环寿命。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>奕东电子：CAGE在手订单充足，正提升产能和交付能力</title>
+        <link>https://www.laoyaoba.com/n/1037286</link>
+        <guid>https://www.laoyaoba.com/n/1037286</guid>
+        <description>近日，奕东电子在接受机构调研时表示，目前公司CAGE在手订单充足，正在逐步提升产能和交付能力；直接在境外生产的订单目前在进展中，海外订单是新的增量。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>中晶科技：公司目前生产紧张，订单充足</title>
+        <link>https://www.laoyaoba.com/n/1037285</link>
+        <guid>https://www.laoyaoba.com/n/1037285</guid>
+        <description>近日，中晶科技在接受机构调研时表示，公司目前生产紧张，订单充足，依据订单情况有序排产，保障交付。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>屹唐股份：新一代干法刻蚀设备RENA-E®获客户复购</title>
+        <link>https://www.laoyaoba.com/n/1037284</link>
+        <guid>https://www.laoyaoba.com/n/1037284</guid>
+        <description>近日，屹唐股份在接受机构调研时表示，公司开发推出了新一代先进干法刻蚀设备RENA-E®，该设备已通过关键客户量产验证并获得客户重复量产订单，且已导入多家客户进行量产验证，客户需求在持续增长。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>重庆万国12英寸功率半导体生产基地研发大楼正式奠基</title>
+        <link>https://www.laoyaoba.com/n/1037283</link>
+        <guid>https://www.laoyaoba.com/n/1037283</guid>
+        <description>5月15日，重庆万国12英寸功率半导体生产基地研发大楼正式奠基。这是重庆万国引入战略投资人上海新微科技集团有限公司成为其实控人后的又一标志性事件。重庆万国研发大楼集形象展示、生产协同、管理服务于一体，为企业创新发展与高端人才集聚搭建全新核心平台。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>今飞凯达：泰国铝合金轮毂工厂已投产爬坡</title>
+        <link>https://www.laoyaoba.com/n/1037276</link>
+        <guid>https://www.laoyaoba.com/n/1037276</guid>
+        <description>近日，今飞凯达在接受机构调研时表示，公司泰国年产200万件铝合金汽车轮毂工厂已于2026年1月投产，目前已进入产能爬坡期，是公司全球化布局的重要组成部分。该工厂主要面向主机市场客户，高效服务东南亚、欧洲、北美等国际市场，订单承接与交付能力进一步加强。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>募资53亿元，SK集团拟投资玻璃基板</title>
+        <link>https://www.laoyaoba.com/n/1037275</link>
+        <guid>https://www.laoyaoba.com/n/1037275</guid>
+        <description>当前全球AI算力需求快速扩张，半导体先进封装技术迎来升级窗口期。近日，韩国SK集团宣布重大投资布局，拟通过旗下材料企业SKC募资加码玻璃基板业务，携手台积电、群创光电打造“封装铁三角”，抢占先进封装产业高地。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>长川科技联合杭州国资出资10亿元，设立新芯创投合伙企业</title>
+        <link>https://www.laoyaoba.com/n/1037274</link>
+        <guid>https://www.laoyaoba.com/n/1037274</guid>
+        <description>近日，半导体设备龙头长川科技发布最新产业布局动态，公司携手杭州国资等主体，共同设立新芯创投合伙企业，整体出资规模达10亿元，聚焦半导体产业前沿赛道，完善资本与产业协同布局。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>天海电子深交所主板上市，首日股价涨超146%</title>
+        <link>https://www.laoyaoba.com/n/1037273</link>
+        <guid>https://www.laoyaoba.com/n/1037273</guid>
+        <description>5月18日，天海汽车电子集团股份有限公司正式在深圳证券交易所主板挂牌上市，股票代码为001365。该股发行价格为27.19元/股，上市首日收报67.12元，大涨146.86%。本次公开发行新股7,900万股，募集资金总额约21.48亿元。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>中科曙光部署6万张国产加速卡</title>
+        <link>https://www.laoyaoba.com/n/1037272</link>
+        <guid>https://www.laoyaoba.com/n/1037272</guid>
+        <description>近日，中科曙光宣布重大算力建设成果，旗下超智融合算力集群已完成6万张国产AI加速卡规模化部署，为国内大规模自主算力建设再添标杆案例，加速国产算力生态落地应用。</description>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
+    </item>
 
     <item>
         <title>紫建电子：已完成半固态电池产品送样验证，正持续推进技术迭代</title>
         <link>https://www.laoyaoba.com/n/1037264</link>
         <guid>https://www.laoyaoba.com/n/1037264</guid>
         <description>近日，紫建电子在接受机构调研时表示，公司已于2025年完成半固态电池产品的送样验证，目前正持续推进相关技术迭代与产品优化工作。公司将结合客户需求及市场反馈动态调整量产计划。在固态电池技术研发方面，公司已取得“一种满足高倍率充放电的固态电池”实用新型专利等系列技术成果，并积极推进与相关优势方的交流和合作。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1037263</link>
         <guid>https://www.laoyaoba.com/n/1037263</guid>
         <description>近日，苏州天脉在接受机构调研时表示，目前，公司与北美大客户的合作稳定，公司相关生产及各项业务开展均按照计划有序进行。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
     </item>
 
     <item>
@@ -27,143 +163,7 @@
         <link>https://www.laoyaoba.com/n/1037258</link>
         <guid>https://www.laoyaoba.com/n/1037258</guid>
         <description>近日，星宸科技在接受机构调研时表示，公司第一款高阶车载主激光雷达芯片SS901，已成功在国内一线自主品牌车企的主力车型实现量产上车；第二款芯片聚焦车载补盲场景，单车搭载数量较主激光雷达提升数倍，同时可拓展至机器人、智能穿戴、移动影像、低空经济设备等多场景应用，计划2026年Q4发布。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>超讯通信加速构建多架构国产算力生态平台</title>
-        <link>https://www.laoyaoba.com/n/1037251</link>
-        <guid>https://www.laoyaoba.com/n/1037251</guid>
-        <description>5月18日，超讯通信披露投资者关系活动记录表，西部证券、国泰君安证券、广发证券等十余家机构参与调研。公司董事会秘书卢沛民、财务总监郭彦岐等高管出席，并就公司以“算力为核心”的战略转型及国产算力生态布局进行了详细阐述。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【上市企业热度观测日志】5月18日：佰维存储港股IPO有序推进，兆易创新股价创历史新高，华工科技涨停</title>
-        <link>https://www.laoyaoba.com/n/1037247</link>
-        <guid>https://www.laoyaoba.com/n/1037247</guid>
-        <description>截至今日15:00，根据爱集微自研舆情算法动态更新的“上市企业热度排行”显示，位列前20的企业为：中芯国际、兆易创新、中微公司、佰维存储、寒武纪、中微半导、北方华创、中国长城、中兴通讯、航天科技、深科技、长电科技、蓝思科技、华工科技、精测电子、安路科技、江波龙、中科飞测、中巨芯 - U、三安光电。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>安路科技发布ELF5与凤凰新产品，国产FPGA迎来“替代到引领”分水岭</title>
-        <link>https://www.laoyaoba.com/n/1036974</link>
-        <guid>https://www.laoyaoba.com/n/1036974</guid>
-        <description>2026年5月13日，安路科技在深圳举办AEC FPGA技术峰会，发布了新一代ELF5 FPGA与凤凰SALPHOENIX®1P系列。这两款新品不仅是产品矩阵的补全，更传递出一个明确的行业信号：在经历周期性调整后，安路科技正从“国产替代”走向“国产引领”。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>*ST华微撤销风险警示，即将摘帽复牌</title>
-        <link>https://www.laoyaoba.com/n/1037242</link>
-        <guid>https://www.laoyaoba.com/n/1037242</guid>
-        <description>5月18日，*ST华微（600360.SH）发布公告，公司将撤销退市风险警示及其他风险警示，并于19日停牌1天，次日正式摘帽复牌，标志着企业经营风险出清，迎来发展新阶段。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>早鸟票倒计时五天！全球半导体分析师论坛解密地缘风云中的“星火燎原”</title>
-        <link>https://www.laoyaoba.com/n/1037232</link>
-        <guid>https://www.laoyaoba.com/n/1037232</guid>
-        <description>作为集微大会最具全球化思想高度与产业影响力的核心论坛之一，由爱集微与IC50委员会联合主办的全球半导体分析师论坛将于5月27—28日正式启幕。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>铠侠单季盈利430亿</title>
-        <link>https://www.laoyaoba.com/n/1037238</link>
-        <guid>https://www.laoyaoba.com/n/1037238</guid>
-        <description>近日，日本存储芯片巨头铠侠（Kioxia）发布2025财年第四财季及全年财报，业绩大幅超出市场预期，单季盈利达256亿元，印证全球存储芯片行业回暖态势。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>投资 21.6 亿！国内单体最大偏光片项目量产</title>
-        <link>https://www.laoyaoba.com/n/1037233</link>
-        <guid>https://www.laoyaoba.com/n/1037233</guid>
-        <description>近日，湖北黄冈高新区迎来产业关键节点，国内偏光片龙头三利谱旗下控股子公司利友光电，投资21.6亿元打造的国内单体规模最大偏光片生产基地正式实现量产，补齐湖北新型显示产业链上游短板。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>中国AMOLED显示驱动芯片市场强势崛起：本土厂商加速突围 全球竞争格局正被重塑</title>
-        <link>https://www.laoyaoba.com/n/1036058</link>
-        <guid>https://www.laoyaoba.com/n/1036058</guid>
-        <description>近年来，全球显示面板制造业向中国大陆转移的步伐不断加快。从2020年到2024年，中国大陆在全球显示面板产能中的占比从50.0%跃升至70.0%，预计到2029年将达到80.0%。伴随这一产业转移浪潮，中国大陆显示驱动芯片市场也迎来前所未有的增长机遇。其中，AMOLED显示驱动芯片凭借其在智能手机、可穿戴设备、车载显示等领域的广泛应用，成为整个赛道中增长最为强劲的细分领域。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>盛合晶微：业绩股价双爆发，芯粒异构集成龙头强势领跑</title>
-        <link>https://www.laoyaoba.com/n/1037185</link>
-        <guid>https://www.laoyaoba.com/n/1037185</guid>
-        <description>后摩尔定律时代，半导体产业的性能升级逻辑已发生根本性转变。单纯依靠制程微缩提升芯片算力的路径逐渐逼近物理与经济双重瓶颈，2.5D/3D堆叠、Chiplet芯粒架构等先进封装技术，成为突破单芯片性能极限、实现系统级集成的核心驱动力。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>新思科技：以智能体AI重塑芯片设计新范式</title>
-        <link>https://www.laoyaoba.com/n/1037180</link>
-        <guid>https://www.laoyaoba.com/n/1037180</guid>
-        <description>​AI赋能半导体变革之下，EDA IP行业作为芯片设计核心支撑，正成为后摩尔时代行业创新的关键引擎。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>希荻微入选全国集成电路标委会车用芯片工作组成员单位</title>
-        <link>https://www.laoyaoba.com/n/1037198</link>
-        <guid>https://www.laoyaoba.com/n/1037198</guid>
-        <description>2026年5月12日，全国集成电路标准化技术委员会车用芯片工作组成立大会在上海隆重召开。希荻微电子集团股份有限公司作为国内领先的芯片设计厂商，成功入选首届工作组成员单位，由公司代表出席会议。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>第十届集微大会半导体展：全产业链同台 共筑发展新生态</title>
-        <link>https://www.laoyaoba.com/n/1037182</link>
-        <guid>https://www.laoyaoba.com/n/1037182</guid>
-        <description>作为集微大会核心板块之一的集微半导体展，以两大主题分区、产业链顶尖企业，全面呈现从材料、设备到设计、终端的完整技术图谱。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>奔图科技全资成立星擎智能科技，深化机器人领域布局</title>
-        <link>https://www.laoyaoba.com/n/1037187</link>
-        <guid>https://www.laoyaoba.com/n/1037187</guid>
-        <description>企查查APP显示，近日，珠海星擎智能科技有限公司成立，注册资本5000万元，经营范围包含智能机器人的研发；工业机器人制造；特殊作业机器人制造；服务消费机器人制造等。企查查股权穿透显示，该公司由打印机龙头奔图科技全资持股。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>精测电子：在手半导体订单超25亿元，加码前道量检测研发扩产</title>
-        <link>https://www.laoyaoba.com/n/1037183</link>
-        <guid>https://www.laoyaoba.com/n/1037183</guid>
-        <description>随着先进制程与先进封装加速演进，半导体量检测设备的重要性正在持续提升。近期，国内半导体检测设备领域传来新动态，精测电子及其旗下子公司上海精测半导体技术有限公司（上海精测）在订单、研发基地建设及先进封装计量技术等方面持续取得进展，引发产业关注。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>印度法院要求苹果“全力配合”反垄断案调查</title>
-        <link>https://www.laoyaoba.com/n/1037186</link>
-        <guid>https://www.laoyaoba.com/n/1037186</guid>
-        <description>印度一家法院已要求苹果公司“全力配合”调查人员处理一起与iPhone应用市场相关的反垄断案件，驳回了苹果提出的暂停审理此案的请求，因为该公司正在对有关反垄断处罚的法律提出质疑。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>芯联集成、阳光电源等合资成立意界智创 布局智能机器人及AI软件开发</title>
-        <link>https://www.laoyaoba.com/n/1037179</link>
-        <guid>https://www.laoyaoba.com/n/1037179</guid>
-        <description>企查查APP显示，近日，意界智创（上海）智能科技有限公司成立，经营范围包含智能机器人的研发；人工智能理论与算法软件开发；人工智能应用软件开发等。企查查股权穿透显示，该公司由芯联集成全资子公司芯联股权投资有限公司、阳光电源等共同持股。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>日本电产将终止与广汽集团的电动汽车电机合资企业</title>
-        <link>https://www.laoyaoba.com/n/1037175</link>
-        <guid>https://www.laoyaoba.com/n/1037175</guid>
-        <description>日本电产将终止与广汽集团的电动汽车电机合资企业，总裁表示希望退出已经变成“红海”的E-Axle业务，该业务上半财年出现877亿日元亏损，日本电产已开始与广汽集团讨论退出事宜。</description>
-        <pubDate>Mon, 18 May 2026 09:57:42 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 13:45:15 GMT</pubDate>
     </item>
 
 </channel>
