@@ -4,14 +4,78 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Sat, 30 May 2026 04:15:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 07:25:15 GMT</lastBuildDate>
+
+    <item>
+        <title>FPGA原型验证中的内存模型应用：基于DDR5的Linux系统启动与测试</title>
+        <link>https://www.laoyaoba.com/n/1043738</link>
+        <guid>https://www.laoyaoba.com/n/1043738</guid>
+        <description>在芯片设计的FPGA原型验证（FPGA Prototyping）阶段，设计师会先在FPGA上构建一个接近真实的芯片原型，用以进行早期软件调试和系统级验证。当前，随着DDR5/LPDDR5成为高性能SoC（尤其是集成CPU的高端芯片）的主流内存标准。然而，主流的FPGA硬件存在I/O电气标准不兼容，PHY接口规格不适配等障碍。更换SoC存储子系统又会导致SoC的benchmark失真，对性能测试结果影响较大。因此，一个能够兼容设计内存储控制器，并时序精准的内存模型，就显得十分有必要。通过“内存模型</description>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>博杰股份：子公司奥德维高速叠层机和测试机适用于AI服务器领域高端MLCC生产制造和检测</title>
+        <link>https://www.laoyaoba.com/n/1043734</link>
+        <guid>https://www.laoyaoba.com/n/1043734</guid>
+        <description>据博杰股份介绍，旗下子公司奥德维核心推出高速叠层机、高速测试机两款主力设备，两类设备定位清晰，主要全面覆盖 MLCC 产品的生产制造、成品检测全流程，是 MLCC 产业链中的重要配套装备。</description>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>精测电子控股子公司获5.15亿元半导体量检测设备销售合同</title>
+        <link>https://www.laoyaoba.com/n/1043732</link>
+        <guid>https://www.laoyaoba.com/n/1043732</guid>
+        <description>5月29日，武汉精测电子集团股份有限公司（证券代码：300567，证券简称：精测电子）披露，2025年12月12日至2026年5月29日期间，公司控股子公司上海精测半导体技术有限公司连续与同一交易对手方签订了多份销售合同，累计合同金额达到515,905,342元。</description>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>杰华特拟向参股企业高易信杰增资3000万元，保持30%持股比例</title>
+        <link>https://www.laoyaoba.com/n/1043731</link>
+        <guid>https://www.laoyaoba.com/n/1043731</guid>
+        <description>5月29日，杰华特审议通过了《关于向参股企业增资暨关联交易的议案》，同意公司与龙票集团有限公司、上海点石烁金企业管理有限公司以货币方式向参股企业厦门高易信杰投资合伙企业（有限合伙）同比例增资，增资总金额为10,000万元。其中，杰华特出资3,000万元，龙票集团出资6,900万元，上海点石出资100万元。增资完成后，高易信杰注册资本由10,000万元增加至20,000万元，各方持股比例保持不变，杰华特仍持有30%股权。</description>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>德龙激光部分募投项目延期至12月，主体工程已竣工</title>
+        <link>https://www.laoyaoba.com/n/1043730</link>
+        <guid>https://www.laoyaoba.com/n/1043730</guid>
+        <description>5月29日，德龙激光召开第五届董事会第十五次会议，审议通过了《关于部分募投项目延期的议案》，决定将“新能源高端装备制造项目”和“新能源研发中心建设项目”的预定可使用状态日期由原定的2026年5月延长至2026年12月。保荐机构中信建投证券股份有限公司对此无异议，该事项无需提交股东会审议。</description>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>皖维集团收购杉杉股份股权案反垄断审查获批</title>
+        <link>https://www.laoyaoba.com/n/1043729</link>
+        <guid>https://www.laoyaoba.com/n/1043729</guid>
+        <description>近日，宁波杉杉股份有限公司（以下简称“公司”）公告称，公司收到控股股东重整投资人安徽皖维集团有限责任公司（以下简称“皖维集团”）转发的国家市场监督管理总局出具的《经营者集中反垄断审查不予禁止决定书》，决定对皖维集团收购公司股权案不予禁止，自即日起可以实施集中。</description>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>厦门钨业：子公司完成对圆兴公司70%股权收购</title>
+        <link>https://www.laoyaoba.com/n/1043728</link>
+        <guid>https://www.laoyaoba.com/n/1043728</guid>
+        <description>近日，厦门钨业股份有限公司公告称，控股子公司厦门金鹭特种合金有限公司（以下简称“厦门金鹭”）收购圆兴（厦门）精密工具有限公司（以下简称“圆兴公司”）70%股权的工商变更登记手续已办理完毕，圆兴公司成为厦门金鹭的控股子公司，纳入公司合并报表范围。</description>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>龙洲股份：孙公司中汽宏远停工停产延长至11月30日</title>
+        <link>https://www.laoyaoba.com/n/1043727</link>
+        <guid>https://www.laoyaoba.com/n/1043727</guid>
+        <description>近日，龙洲集团股份有限公司（以下简称“公司”）公告称，控股孙公司东莞中汽宏远汽车有限公司（以下简称“中汽宏远”）自2026年6月1日起延长停工停产至2026年11月30日。</description>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
+    </item>
 
     <item>
         <title>固德电材拟出借 1.4 亿元募集资金 支持子公司动力电池材料项目建设</title>
         <link>https://www.laoyaoba.com/n/1043726</link>
         <guid>https://www.laoyaoba.com/n/1043726</guid>
         <description>近日，固德电材系统（苏州）股份有限公司（以下简称“公司”）公告称，公司于2026年5月27日召开第五届董事会第二十一次会议，审议通过了《关于使用部分募集资金向全资子公司提供借款以实施募投项目的议案》，同意公司使用不超过1.4亿元募集资金，以一次或分次逐步向全资子公司麦卡电工器材（陆河）有限公司（以下简称“麦卡电工”）提供借款，用于实施募投项目“陆河麦卡动力电池热失控防护材料生产基地建设项目”。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1043725</link>
         <guid>https://www.laoyaoba.com/n/1043725</guid>
         <description>近日，江苏传艺科技股份有限公司（以下简称“公司”）公告称，公司于2026年5月29日召开第四届董事会第十四次会议，审议通过了《2026年度向特定对象发行A股股票预案》，拟向特定对象发行股票募集资金总额不超过87,051.36万元，用于高邮智能化生产线改扩建项目、重庆智能制造中心扩产项目及补充流动资金。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1043724</link>
         <guid>https://www.laoyaoba.com/n/1043724</guid>
         <description>近日，龙芯中科技术股份有限公司（以下简称“公司”）公告称，公司于2026年5月26日召开第二届董事会第十四次会议，审议通过了《2026年度向特定对象发行A股股票预案》，拟向特定对象发行股票募集资金总额不超过23亿元，用于推进基于Xnm工艺的芯片研发及产业化、CPU和通用GPU关键核心技术研发，并补充流动资金。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1043723</link>
         <guid>https://www.laoyaoba.com/n/1043723</guid>
         <description>近日，亨通光电公告称，公司于2026年5月29日审议通过了《关于分拆所属子公司江苏亨通华海科技股份有限公司至科创板上市的预案》等议案，拟将其控股子公司亨通华海分拆至上交所科创板上市。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1043722</link>
         <guid>https://www.laoyaoba.com/n/1043722</guid>
         <description>近日，第十届集微大会AI赋能峰会盛大举办，作为国内端侧AI芯片领域的新锐硬核力量，智辰半导体受邀重磅参会。会上，智辰半导体创始人兼CEO王孝斌发表《终端觉醒：端侧AI重构产业新范式》重磅主题演讲，深度拆解全球端侧AI产业发展趋势与拐点，同时正式推出行业领先的T系列端侧AI芯片及全栈解决方案，一举突破端侧万亿参数模型高效部署行业难题，为端侧AI产业化落地注入全新动能。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1043721</link>
         <guid>https://www.laoyaoba.com/n/1043721</guid>
         <description>近日，易思维在接受机构调研时表示，中国汽车制造机器视觉产品市场规模由2020年的9.3亿元增长至2024年的31.1亿元，年复合增长率达35.2%。未来，在我国汽车制造产线工艺进一步升级、新能源车渗透率持续提升和机器视觉技术不断创新的驱动下，中国汽车制造机器视觉产品市场规模将持续扩大，预计2029年达74.0亿元。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1043720</link>
         <guid>https://www.laoyaoba.com/n/1043720</guid>
         <description>近日，莱伯泰科在接受机构调研时表示，公司自上市以来持续在国内外积极寻找优质并购标的。在标的选择上，公司建立了严格的评估体系，重点关注技术协同性、市场规模、行业前景及业务整合可行性等核心要素，尤其关注能够完善公司产品线布局、强化技术优势或拓展新兴领域的并购标的。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1043719</link>
         <guid>https://www.laoyaoba.com/n/1043719</guid>
         <description>近日，天海汽车电子集团股份有限公司公告称，公司于2026年5月29日审议通过了《关于天海汽车电子集团股份有限公司对全资子公司增资的议案》，同意公司以自有资金对全资子公司鹤壁天海环球电器有限公司增资人民币3亿元。本次增资完成后，天海环球的注册资本将由2亿元变更为5亿元。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1043718</link>
         <guid>https://www.laoyaoba.com/n/1043718</guid>
         <description>近日，富瀚微在接受机构调研时介绍，公司在端侧方面即将推出第二代面向可穿戴的摄像芯片，算力持续升级，同时搭载自研AI-ISP技术，功耗表现具备行业领先的核心竞争力，可广泛应用于AI眼镜、运动相机、执法记录仪等移动影像场景。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1043717</link>
         <guid>https://www.laoyaoba.com/n/1043717</guid>
         <description>2026 年 5 月 29 日，浙江力积存储科技股份有限公司（简称 “力积存储”）正式向港交所主板递交上市申请书，独家保荐人为中信证券。公司前身为 2002 年创立的 Zentel 品牌，2020 年由控股股东应伟收购并落地中国，是国内少数具备完整 DRAM 内存产品迭代能力的无晶圆厂芯片设计公司，专注利基型 DRAM 及 AI 存算解决方案，为国家级专精特新 “小巨人” 企业。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1043716</link>
         <guid>https://www.laoyaoba.com/n/1043716</guid>
         <description>近日，福光股份在接受机构调研时表示，2025年，公司持续为手机提供光学元件，其中为手机配套的模压非球面镜片已进入量产阶段；同时，公司成功开发了应用于激光雷达的新产品，并通过客户验证。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
     <item>
@@ -99,71 +163,7 @@
         <link>https://www.laoyaoba.com/n/1043715</link>
         <guid>https://www.laoyaoba.com/n/1043715</guid>
         <description>5月29日美股盘后，戴尔发布 2027 财年第一财季财报，AI 服务器业务成为最大亮点。数据显示，截至本季度末，公司 AI 服务器积压订单规模已攀升至 513 亿美元，创下历史新高，充足的在手订单也印证了全球 AI 基础设施市场的旺盛需求。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>芯栋微王铮：三大金属互联技术突破 赋能AI先进封装</title>
-        <link>https://www.laoyaoba.com/n/1043436</link>
-        <guid>https://www.laoyaoba.com/n/1043436</guid>
-        <description>​5月27日至29日，2026第十届集微大会在上海张江科学会堂隆重举行。在5月27日举办的“先进封装与测试技术创新峰会”上，芯栋微（上海）半导体产品及应用技术总监王铮发表了题为《金属互联技术在CoWoS/CoPoS和HBM应用的多样性》的主题演讲，系统解读了双大马士革、TSV、TGV三大金属互联技术在AI先进封装中的关键价值，并披露了公司在电镀设备与工艺解决方案领域的最新突破。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>徐直军:中国半导体将自成格局;闻泰:安世中国独立运营体系基本完成,集微大会圆满收官,科创逐浪AI启新章</title>
-        <link>https://www.laoyaoba.com/n/1043714</link>
-        <guid>https://www.laoyaoba.com/n/1043714</guid>
-        <description>徐直军:中国半导体将自成格局;闻泰:安世中国独立运营体系基本完成,集微大会圆满收官,科创逐浪AI启新章</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【汇总】下周访韩，黄仁勋密集会晤行业龙头</title>
-        <link>https://www.laoyaoba.com/n/1043713</link>
-        <guid>https://www.laoyaoba.com/n/1043713</guid>
-        <description>【汇总】下周访韩，黄仁勋密集会晤行业龙头</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【汇总】突发！显示巨头高层人事调整</title>
-        <link>https://www.laoyaoba.com/n/1043712</link>
-        <guid>https://www.laoyaoba.com/n/1043712</guid>
-        <description>【汇总】突发！显示巨头高层人事调整</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【汇总】6月28日起，芯片新一轮涨价</title>
-        <link>https://www.laoyaoba.com/n/1043711</link>
-        <guid>https://www.laoyaoba.com/n/1043711</guid>
-        <description>【汇总】6月28日起，芯片新一轮涨价</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【汇总】端测AI战略重磅公布！艾为电子亮相集微大会</title>
-        <link>https://www.laoyaoba.com/n/1043708</link>
-        <guid>https://www.laoyaoba.com/n/1043708</guid>
-        <description>【汇总】端测AI战略重磅公布！艾为电子亮相集微大会</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【汇总】顶刊封面！集成电路研究获重磅认可</title>
-        <link>https://www.laoyaoba.com/n/1043707</link>
-        <guid>https://www.laoyaoba.com/n/1043707</guid>
-        <description>【汇总】顶刊封面！集成电路研究获重磅认可</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>从技术突围到全球布局：集微大会中外专家共话中国 AI 产业的机遇与挑战</title>
-        <link>https://www.laoyaoba.com/n/1043298</link>
-        <guid>https://www.laoyaoba.com/n/1043298</guid>
-        <description>5月27日至29日，第十届集微大会在上海张江科学会堂隆重举行。本届大会以“AI重构未来、生态协同致远”为主题，由半导体投资联盟、浦东科创、ICT知识产权发展联盟和海望资本联合主办，爱集微承办，汇聚全球资源，共筑产业新生态。</description>
-        <pubDate>Sat, 30 May 2026 04:15:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 07:25:15 GMT</pubDate>
     </item>
 
 </channel>
