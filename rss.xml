@@ -4,14 +4,78 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Wed, 01 Jul 2026 22:02:12 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 23:41:14 GMT</lastBuildDate>
+
+    <item>
+        <title>突破存储限制？光互连HBM崛起 供应链谁将受益？</title>
+        <link>https://www.laoyaoba.com/n/1057559</link>
+        <guid>https://www.laoyaoba.com/n/1057559</guid>
+        <description>随着AI计算架构持续升级，市场开始将“Optical HBM”视为可能改变存储与互连方式的重要技术方向。其核心概念，是将传统靠电信号、紧贴GPU运作的HBM，进一步演进为通过光互连实现的可扩展高频宽存储架构。这种变化不仅可能重塑HBM本身的定位，也有望进一步影响整个AI硬件供应链的分工与价值分配。</description>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>半年内二度喊涨！AMD打响下半年涨价第一枪 7月起AIB伙伴显卡套料涨价约10%</title>
+        <link>https://www.laoyaoba.com/n/1057555</link>
+        <guid>https://www.laoyaoba.com/n/1057555</guid>
+        <description>根据博板堂引述供应链消息，AMD已正式通知蓝宝石 (Sapphire)、华硕、XFX 讯景及瀚铠等核心 AIB(Add-in-Board) 合作伙伴，自本月起上调 GPU 核心与 GDDR“捆绑套料”的出货价，涨幅约 10&amp;amp;，这也是AMD半年内第二度因存储成本走高而调价。</description>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>传苹果明年将推出新款iPad Pro和MacBook Pro</title>
+        <link>https://www.laoyaoba.com/n/1057552</link>
+        <guid>https://www.laoyaoba.com/n/1057552</guid>
+        <description>苹果公司正准备在明年推出升级版iPad Pro系列和重新设计的入门级MacBook Pro，为iPhone 20周年庆典之际推出一系列其他重要新品。</description>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>三星冲1.4nm 英特尔攻14A 剑指台积电很明显 内行曝神山难憾动的底气</title>
+        <link>https://www.laoyaoba.com/n/1057548</link>
+        <guid>https://www.laoyaoba.com/n/1057548</guid>
+        <description>三星全面加速1.4nm制程（SF1.4）布局，市场传出已启动SF1.4商业化推进，目标2027年量产，剑指台积电先进制程龙头地位。不过，半导体业界认为，先进制程竞赛真正比拼的并非节点名称，而是PPA（性能、功耗、面积）、良率、EUV设备与量产规模，能否取得AI大客户订单，仍取决于制程成熟度。</description>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【头条】募资1464亿，62家国产半导体公司冲刺A股！</title>
+        <link>https://www.laoyaoba.com/n/1057359</link>
+        <guid>https://www.laoyaoba.com/n/1057359</guid>
+        <description>募资1464亿，62家国产半导体公司冲刺A股！芯旺微电子携三合一SoC切入光雨量感知赛道；具身智能产业加速落地，驱动嵌入式处理器技术迭代。</description>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【热点】上海：攻关端侧AI芯片！</title>
+        <link>https://www.laoyaoba.com/n/1057356</link>
+        <guid>https://www.laoyaoba.com/n/1057356</guid>
+        <description>上海：攻关端侧AI芯片！高芯众科半导体材料及精密涂层件产业化基地开工；吾拾微完成A轮融资持续加码键合设备布局。</description>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【剥离】3500万！000536剥离半导体公司股权；</title>
+        <link>https://www.laoyaoba.com/n/1057352</link>
+        <guid>https://www.laoyaoba.com/n/1057352</guid>
+        <description>3500万！000536剥离半导体公司股权；为科技“松绑”的第四套上市标准，托住“国产DPU第一股”；港股18C首添SiC玩家：基本半导体三递表终闯关，IDM模式迎业绩大考。</description>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【分析】万亿美元市值的“存储三巨头”：涨价、垄断与扩产；</title>
+        <link>https://www.laoyaoba.com/n/1057348</link>
+        <guid>https://www.laoyaoba.com/n/1057348</guid>
+        <description>万亿美元市值的“存储三巨头”：涨价、垄断与扩产；高盛上调2027年HBM价格预测；消息称英伟达取消四芯粒版Rubin Ultra，改用双GPU设计。</description>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
+    </item>
 
     <item>
         <title>安洁科技拟2.04亿-2.55亿元现金收购苏州志烽51%股权，布局光模块领域</title>
         <link>https://www.laoyaoba.com/n/1057395</link>
         <guid>https://www.laoyaoba.com/n/1057395</guid>
         <description>2026年6月30日，安洁科技发布公告，其全资子公司威斯东山拟现金收购苏州志烽51%股权，基础对价2.04亿元，或有对价上限5100万元。交易完成后，苏州志烽将成控股子公司。但交易存在盈利能力、整合等风险。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1057378</link>
         <guid>https://www.laoyaoba.com/n/1057378</guid>
         <description>该代码已经存在了长达3个月之久。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1057372</link>
         <guid>https://www.laoyaoba.com/n/1057372</guid>
         <description>孙天祥同时进入百度模型委员会（BMC）。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1057357</link>
         <guid>https://www.laoyaoba.com/n/1057357</guid>
         <description>AI半导体周期远未见顶。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1057341</link>
         <guid>https://www.laoyaoba.com/n/1057341</guid>
         <description>2023年6月，维安电子也曾筹备于上交所IPO。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1057332</link>
         <guid>https://www.laoyaoba.com/n/1057332</guid>
         <description>上海，2026年7月1日——纳芯微亮相2026慕尼黑上海电子展。展会期间，公司发布多款面向汽车电子和泛能源应用的数模混合芯片新品，包括车规级阳光雨量传感器NSUC183x系列、车载摄像头PMIC NSR90332XX-Q1、三核EtherCAT实时控制MCU/DSP NS800RTA7系列以及110V半桥GaN驱动芯片NSD2123。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1057327</link>
         <guid>https://www.laoyaoba.com/n/1057327</guid>
         <description>业界通常将80%以上视为工艺稳定的&amp;quot;成熟良率&amp;quot;门槛。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1057324</link>
         <guid>https://www.laoyaoba.com/n/1057324</guid>
         <description>此番涨价涵盖各类先进封装技术。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1057313</link>
         <guid>https://www.laoyaoba.com/n/1057313</guid>
         <description>随着 AI PC 算力持续跃升、性能全力释放，设备功耗与补能需求大幅提升，大功率快充已然成为行业不可逆发展趋势。传统 100W 以下快充规格早已难以满足高性能 AI 终端的使用需求，PC 快充功率正式迈入阶梯式升级通道，形成65W→100W→140W→180W→240W升级路径，全面适配 AI PC、高性能轻薄本、游戏本及多功能扩展坞的大功率供电场景。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1057305</link>
         <guid>https://www.laoyaoba.com/n/1057305</guid>
         <description>南芯科技（证券代码：688484）重磅亮相慕尼黑上海电子展（N4 馆 N4.608 展位），带来覆盖高端消费、汽车电子、工业计算三大核心应用领域，以及 AI 终端、机器人等新兴赛道的创新成果。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1057271</link>
         <guid>https://www.laoyaoba.com/n/1057271</guid>
         <description>6 月末，国内DPU厂商云豹智能递交创业板IPO材料——142.73亿元投后估值、三年累计超17.58亿元研发投入、营收从2023年的17万元跃升至2025年的3.7亿元的硬核数据，完美契合第四套高研发准入门槛。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
     <item>
@@ -99,71 +163,7 @@
         <link>https://www.laoyaoba.com/n/1057107</link>
         <guid>https://www.laoyaoba.com/n/1057107</guid>
         <description>上海芯旺微电子技术股份有限公司携几十款车规展品参加2026慕尼黑上海电子展（展位号为N5馆609）并重磅发布光雨量传感器芯片KF32A626x及对应的DEMO板、集成方案。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>港股18C首添SiC玩家：基本半导体三递表终闯关，IDM模式迎业绩大考</title>
-        <link>https://www.laoyaoba.com/n/1057247</link>
-        <guid>https://www.laoyaoba.com/n/1057247</guid>
-        <description>深圳基本半导体股份有限公司（简称“基本半导体”）将以《上市规则》第18C章“特专科技公司”身份于7月8日登陆港股主板，募资总额最多约8.66亿港元。这是公司第三次递表，也是国产碳化硅IDM企业走向公众市场的一次重要尝试。基本半导体目前仍处于“技术产业化向规模商业化过渡”的阶段，这种“未完成”状态，为市场提供了一个观察中国碳化硅产业从“产能叙事”走向“业绩验证”的真实样本。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>英特尔18年老将加盟特斯拉Terafab项目</title>
-        <link>https://www.laoyaoba.com/n/1057117</link>
-        <guid>https://www.laoyaoba.com/n/1057117</guid>
-        <description>据报道，特斯拉Terafab项目已引入一名英特尔老将。该项目由马斯克推动，旨在支持其太空AI及机器人芯片需求。英特尔是特斯拉Terafab项目的合作伙伴，将通过其14A芯片制造技术参与合作。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>康冠科技拟注销11587794份股票期权，激励对象调整为1610人</title>
-        <link>https://www.laoyaoba.com/n/1057257</link>
-        <guid>https://www.laoyaoba.com/n/1057257</guid>
-        <description>2026年7月1日，康冠科技发布第三届董事会第十一次会议决议公告。会议审议通过注销2024年股票期权激励计划部分股票期权议案，因部分激励对象未行权、离职或身故，拟注销11587794份期权，激励对象调整为1610人。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>瑞立科密获批复，将发行352,035股股份购买资产</title>
-        <link>https://www.laoyaoba.com/n/1057258</link>
-        <guid>https://www.laoyaoba.com/n/1057258</guid>
-        <description>2026年6月30日，瑞立科密收到中国证监会批复，同意其向程毅发行352,035股股份购买武汉瑞立科德斯汽车电子16%股权。批复自下发日起12个月内有效，公司将按要求办理交易事宜并披露信息，提醒投资者注意风险。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>五矿新能子公司诉讼胜诉，涉案1.8亿或增本期利润</title>
-        <link>https://www.laoyaoba.com/n/1057259</link>
-        <guid>https://www.laoyaoba.com/n/1057259</guid>
-        <description>2026年7月1日，五矿新能发布全资子公司诉讼结果公告。其全资子公司湖南长远锂科新能源、金驰能源材料为被上诉人，涉案金额180,560,894.43元及利息。二审驳回上诉，维持原判，子公司胜诉。此前已计提坏账准备，结果或增本期利润，以审计结果为准。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>云豹智能与超聚变达成战略合作，共建国产算力网络新生态</title>
-        <link>https://www.laoyaoba.com/n/1057193</link>
-        <guid>https://www.laoyaoba.com/n/1057193</guid>
-        <description>近日，深圳云豹智能股份有限公司（以下简称“云豹智能”）与超聚变数字技术股份有限公司（以下简称“超聚变”）签署战略合作协议。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【上市企业热度观测日志】7月1日： 士兰微、芯联集成官宣涨价， 立讯精密港股IPO在即，安洁科技收购光模块领域公司</title>
-        <link>https://www.laoyaoba.com/n/1057231</link>
-        <guid>https://www.laoyaoba.com/n/1057231</guid>
-        <description>截至今日15:00，根据集微自研舆情算法动态更新的“上市企业热度排行”显示，位列前20的企业为：寒武纪、京东方 A、士兰微、兆易创新、中芯国际、长光华芯、安洁科技、海光信息、海康威视、江波龙、立讯精密、胜宏科技、TCL 科技、彩虹股份、华润微、扬杰科技、深科技、佰维存储、芯联集成 - U、瑞芯微。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>鼎熔岩空压机制造基地项目通过竣工验收备案，产能扩大在望但释放需时</title>
-        <link>https://www.laoyaoba.com/n/1057260</link>
-        <guid>https://www.laoyaoba.com/n/1057260</guid>
-        <description>2026年6月30日，鼎熔岩发布公告称，其空压机制造基地工程项目近日通过竣工验收备案。该项目2022年拿地开工，投产将满足公司用地需求、扩大产能，但产能释放需要过程，投资者需谨慎决策。</description>
-        <pubDate>Wed, 01 Jul 2026 22:02:12 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:41:14 GMT</pubDate>
     </item>
 
 </channel>
