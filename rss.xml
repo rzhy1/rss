@@ -4,22 +4,62 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Fri, 10 Jul 2026 08:48:55 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 11:44:46 GMT</lastBuildDate>
 
     <item>
-        <title>香农芯创：上半年归母净利润同比大增2118%—2434%</title>
-        <link>https://www.laoyaoba.com/n/1061966</link>
-        <guid>https://www.laoyaoba.com/n/1061966</guid>
-        <description>7月10日，香农芯创发布2026年半年度业绩预告，公司当期经营业绩实现爆发式增长。数据显示，公司预计上半年归属于上市公司股东的净利润同比大增2118%—2434%，业绩增幅远超行业平均水平，彰显出公司强劲的盈利韧性与成长动能。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>生态进展｜达摩院玄铁团队修复 RISC-V 关键规范，原生 TLSDESC 落地在即！</title>
+        <link>https://www.laoyaoba.com/n/1062097</link>
+        <guid>https://www.laoyaoba.com/n/1062097</guid>
+        <description>近日，作为 RISC-V 生态中极其重要的规范文档和软件生态基石，psABI 的上游仓库正式合入由达摩院玄铁处理器软件工具团队提交的重要补丁。此次补丁对原生 TLSDESC 的自定义函数调用规则进行了明确的定义和修正，彻底消除了原生 TLSDESC 特性在过去四年间落地过程中面临的最后一项技术障碍。不久后，用户将能够在玄铁 GCC/LLVM 工具链中利用原生 TLSDESC 实现对 TLS 变量的高效访问。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>倪飞官宣努比亚“真·AI手机”：听得懂、能干活、记得住、够安全</title>
-        <link>https://www.laoyaoba.com/n/1061964</link>
-        <guid>https://www.laoyaoba.com/n/1061964</guid>
-        <description>近日，随着“全球首款AI智能体手机”话题登上热搜，外界对努比亚即将发布的新品充满好奇。7月10日，努比亚技术有限公司总裁倪飞通过社交平台公开发声，首次详细解读了AI智能体手机的产品理念与核心能力。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>创维超薄壁纸电视搭载物奇微高性能Wi-Fi芯片</title>
+        <link>https://www.laoyaoba.com/n/1062096</link>
+        <guid>https://www.laoyaoba.com/n/1062096</guid>
+        <description>创维超薄壁纸电视搭载物奇微高性能Wi-Fi芯片</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>湖南省商务厅考察团莅临华天参观交流</title>
+        <link>https://www.laoyaoba.com/n/1062095</link>
+        <guid>https://www.laoyaoba.com/n/1062095</guid>
+        <description>华天科技是全球知名的半导体封装测试企业。公司专注于半导体集成电路和半导体元器件的封装测试业务，为客户提供一流的芯片成品封测一站式服务，涵盖封装设计、封装仿真、引线框架封装、基板封装、晶圆级封装、晶圆测试及功能测试、物流配送等。凭借先进的技术能力、系统级生产和质量把控，华天科技已经成为半导体封测业务的首选品牌。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>“中国式现代化的万千气象”网络名人走进华天</title>
+        <link>https://www.laoyaoba.com/n/1062094</link>
+        <guid>https://www.laoyaoba.com/n/1062094</guid>
+        <description>华天科技是全球知名的半导体封装测试企业。公司专注于半导体集成电路和半导体元器件的封装测试业务，为客户提供一流的芯片成品封测一站式服务，涵盖封装设计、封装仿真、引线框架封装、基板封装、晶圆级封装、晶圆测试及功能测试、物流配送等。凭借先进的技术能力、系统级生产和质量把控，华天科技已经成为半导体封测业务的首选品牌。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>光合组织2026智能计算应用大会在郑州开幕</title>
+        <link>https://www.laoyaoba.com/n/1062086</link>
+        <guid>https://www.laoyaoba.com/n/1062086</guid>
+        <description>7月9日-11日，以“智算无界，范式跃迁”为主题的光合组织2026智能计算应用大会在郑州举办。大会围绕智能计算应用与发展范式、AI基础设施创新、国产开放计算生态建设展开探讨交流，推动国产人工智能算力从关注建设到关注应用，从评价单一参数到注重系统能力，从局部场景迈向大规模迁移。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>必易微1元收购深圳市单源半导体有限公司30%股权</title>
+        <link>https://www.laoyaoba.com/n/1062085</link>
+        <guid>https://www.laoyaoba.com/n/1062085</guid>
+        <description>7月10日，必易微发布对外收购公告，公司拟以自有资金1元，收购深圳市单源企业管理中心持有的深圳市单源半导体有限公司30%股权。本次交易作价极低，同时公司将承接该部分股权对应尚未实缴的30万元注册资本实缴义务，交易方案简洁且成本可控。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>“芯耀青春 聚力远航” 2027届校园招聘正式启动</title>
+        <link>https://www.laoyaoba.com/n/1062081</link>
+        <guid>https://www.laoyaoba.com/n/1062081</guid>
+        <description>“芯耀青春 聚力远航” 2027届校园招聘正式启动</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
@@ -27,31 +67,31 @@
         <link>https://www.laoyaoba.com/n/1061824</link>
         <guid>https://www.laoyaoba.com/n/1061824</guid>
         <description>7月10日，国内头部12英寸纯晶圆代工厂商晶合集成成功登陆港交所，正式完成A+H两地上市布局，成为继中芯国际、华虹公司之后，中国大陆第三家实现两地挂牌的晶圆代工企业。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>爱芯元智携手原力灵机，本土算力底座加速具身智能规模化落地</title>
-        <link>https://www.laoyaoba.com/n/1061942</link>
-        <guid>https://www.laoyaoba.com/n/1061942</guid>
-        <description>7 月 9 日，Action 2026 原力灵机开发者大会在北京举办。爱芯元智作为原力灵机重要生态合作伙伴出席大会，双方将携手共建自主可控、安全可靠的本土算力底座，共同为具身 MaaS 平台规模化部署及后训练服务提供坚实支撑。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>芯联资本战略投资逻辑比特，助力国产超导量子芯片规模化落地</title>
+        <link>https://www.laoyaoba.com/n/1062069</link>
+        <guid>https://www.laoyaoba.com/n/1062069</guid>
+        <description>2026年7月9日，杭州逻辑比特科技有限公司（以下简称“逻辑比特”）正式官宣此前完成的数亿元A轮融资，并重磅发布超导量子计算云平台。作为本轮战略投资方，芯联资本次投资逻辑比特，是布局下一代前沿算力、打通半导体与量子计算产业协同的关键一步。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>HBM需求暴增 瑞银：DRAM供不应求将持续至2028年</title>
-        <link>https://www.laoyaoba.com/n/1061882</link>
-        <guid>https://www.laoyaoba.com/n/1061882</guid>
-        <description>​瑞银集团 (UBS) 最新发布 7 月《存储芯片月度报告》指出，全球存储芯片市场刚创下历史最佳单月表现，单月销售额达 746 亿美元，月增 31.7%，刷新历史纪录。随着人工智能 (AI) 带动高效能运算与数据中心需求快速攀升，以及长期供货协议 (LTA) 持续签订，瑞银认为存储器产业景气循环正持续升温，全球结构性供应不足最快也要到 2028 年中才可能缓解。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>至纯科技：上半年净利润为亏损2.60亿元至3.80亿元</title>
+        <link>https://www.laoyaoba.com/n/1062064</link>
+        <guid>https://www.laoyaoba.com/n/1062064</guid>
+        <description>至纯科技（603690.SH）7月10日晚间披露业绩预告，公司预计2026年半年度归属于上市公司股东的净利润为亏损2.60亿元至3.80亿元。上年同期公司净利润为亏损3539.54万元，亏损幅度同比显著扩大。其中，公司一季度已亏损7885万元，据此推算二季度亏损预计在1.81亿元至3.01亿元之间，亏损呈环比持续扩大态势。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>三星大幅调涨5nm与4nm晶圆报价 涨幅约为15%</title>
-        <link>https://www.laoyaoba.com/n/1061845</link>
-        <guid>https://www.laoyaoba.com/n/1061845</guid>
-        <description>随着全球人工智能产业对高性能芯片的需求激增，半导体代工行业的竞争格局与定价模式正在发生深刻演变。据韩国媒体最新报道，三星电子已决定对其部分先进制程节点的晶圆代工价格进行大幅上调，涨幅约为15%，这一策略与台积电近期采取的全面价格调整形成呼应，标志着半导体制造行业正从传统的“需求驱动”模式向“供应驱动”模式转型。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>数日排查缩至5分钟！这家芯片公司靠RapidTDAS破解低良管控</title>
+        <link>https://www.laoyaoba.com/n/1062055</link>
+        <guid>https://www.laoyaoba.com/n/1062055</guid>
+        <description>面对海量晶圆测试数据，告别Excel手工拼凑、凭经验猜根因的传统模式，RapidTDAS用数字化智能分析，为芯片设计公司筑牢品质防线，一起来看真实落地案例。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
@@ -59,114 +99,71 @@
         <link>https://www.laoyaoba.com/n/1061495</link>
         <guid>https://www.laoyaoba.com/n/1061495</guid>
         <description>国内CIS巨头思特威，近日在2026慕尼黑上海电子展上，以“感知、互连、计算”为主题，集中展示了其工业机器视觉图像传感器全矩阵产品。这也是公司发布“3+AI”战略后，全新设立的新兴事业群（EBG）首次对外完整展示阶段性成果。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>Ceva夺得美国软件和人工智能平台巨擘重大的人工智能许可协议</title>
-        <link>https://www.laoyaoba.com/n/1061881</link>
-        <guid>https://www.laoyaoba.com/n/1061881</guid>
-        <description>领先的智能边缘芯片和软件IP授权商Ceva公司（纳斯达克股票代码：CEVA）宣布与一家美国软件和AI平台巨擘达成一项重大的AI授权协议，进行一项面向下一代智能计算设备的定制AI芯片项目。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>“AI教育实训基地”落地柳州，摩尔线程以优质算力赋能“AI+教育”</title>
+        <link>https://www.laoyaoba.com/n/1062023</link>
+        <guid>https://www.laoyaoba.com/n/1062023</guid>
+        <description>7月9日，摩尔线程携手柳州高级中学、柳州市第八中学及智都科技打造的“AI教育实训基地”，在柳州市第八中学正式揭牌成立。作为国内率先落地初中、打通初高中人才贯通培养的全国产“AI教育实训基地”，该基地依托摩尔线程AI算力本MTT AIBOOK，构建“初中AI启蒙、高中培优进阶”一体化育人通道，让学生在基础教育阶段即可接触并实操前沿AI技术，旨在解决AI教学“有理论缺实践、学段培养断层”的痛点，打造“AI+教育”融合创新的标杆。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>新股接连暴涨十倍！为什么半导体零部件的估值被拔得这么高</title>
-        <link>https://www.laoyaoba.com/n/1061879</link>
-        <guid>https://www.laoyaoba.com/n/1061879</guid>
-        <description>2026 年春夏，半导体零部件一跃成为 A 股最强主线赛道，三只新股接连走出十倍行情，市场热度空前。三只新股集体走出十倍涨幅，究竟是短期资金催生的情绪狂欢，还是产业链重构下估值体系重塑的必然结果？</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>中国商务部、海关总署：对氦气实施临时禁止出口管理</title>
+        <link>https://www.laoyaoba.com/n/1062011</link>
+        <guid>https://www.laoyaoba.com/n/1062011</guid>
+        <description>据中国商务部官网，商务部、海关总署今日联合发布公告，公布对氦气实施临时禁止出口管理。公告称，依据《中华人民共和国对外贸易法》有关规定，商务部、海关总署决定对氦气（海关商品编号：2804290010）实施临时禁止出口管理。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>Meta否认算力过剩，考虑通过云服务对外出租AI基础设施</title>
-        <link>https://www.laoyaoba.com/n/1061880</link>
-        <guid>https://www.laoyaoba.com/n/1061880</guid>
-        <description>​针对近期市场关于“算力过剩”的质疑，Meta首席执行官马克·扎克伯格近日表示，公司目前仍需要尽可能多的计算资源，现有算力也正在被充分利用。Meta考虑对外出租部分AI基础设施，主要是因为外部市场愿意为算力支付较高价格，并不意味着公司出现了算力闲置或过度建设。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>国家最大算力网络接入十万卡超智融合算力池</title>
+        <link>https://www.laoyaoba.com/n/1061988</link>
+        <guid>https://www.laoyaoba.com/n/1061988</guid>
+        <description>7月9日，2026河南省人工智能大会在郑州举行，会上河南省人民政府省长王凯，中科曙光董事长、国家高性能计算机工程技术研究中心主任历军，共同宣布国家超算互联网核心节点正式上线运行。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>聚焦开发与生态：泰凌微电子携全系列Matter SoC亮相2026 Matter Open Day</title>
-        <link>https://www.laoyaoba.com/n/1061875</link>
-        <guid>https://www.laoyaoba.com/n/1061875</guid>
-        <description>由CSA（连接标准联盟）主办的“2026 Matter Open Day”活动，于7月9日在2026年中国建博会（广州）正式启动。作为联盟的重要成员，泰凌微电子受邀参展，并在现场展示了全面的Matter智能家居解决方案及实物产品演示，为开发者、厂商及行业伙伴提供了一站式交流与实操平台。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>OpenAI二把手西莫卸下全职职务　转任顾问养病</title>
+        <link>https://www.laoyaoba.com/n/1061945</link>
+        <guid>https://www.laoyaoba.com/n/1061945</guid>
+        <description>​美国硅谷高阶主管西莫（Fidji Simo）7月10日宣布，她将卸下在OpenAI的全职职务，转而担任兼职顾问，专注于从慢性疾病中康复。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>从封装到系统：SAW滤波器电磁仿真的进阶之路</title>
-        <link>https://www.laoyaoba.com/n/1061873</link>
-        <guid>https://www.laoyaoba.com/n/1061873</guid>
-        <description>在低频IF SAW时代，封装、键合线、焊盘和PCB走线带来的影响，往往可以被压缩成几个经验电感、电容，甚至在早期设计阶段暂时忽略。但当SAW滤波器进入GHz射频前端后，情况发生了变化。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>议程重磅发布！全球半导体分析师大会即将亮相IC创新博览会</title>
+        <link>https://www.laoyaoba.com/n/1061848</link>
+        <guid>https://www.laoyaoba.com/n/1061848</guid>
+        <description>作为本次博览会倾力打造的核心特色论坛之一，由爱集微承办的全球半导体分析师大会将以“2026-2030 导航半导体新纪元——重塑产业驱动力。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>维信诺 ViP 设备篇：需要半导体级曝光机吗？</title>
-        <link>https://www.laoyaoba.com/n/1061871</link>
-        <guid>https://www.laoyaoba.com/n/1061871</guid>
-        <description>ViP是维信诺自主研发的无金属掩模版RGB自对位像素化技术，它通过光刻图形化方式定义OLED像素结构，彻底摆脱了FMM（精细金属掩模版）的物理束缚。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>胜科纳米携手蔡司：共探AI时代新模式</title>
+        <link>https://www.laoyaoba.com/n/1061979</link>
+        <guid>https://www.laoyaoba.com/n/1061979</guid>
+        <description>近日，胜科纳米管理及技术团队走访蔡司大中华区总部，非常荣幸受到蔡司大中华区总裁兼首席执行官Martin Fischer先生、首席运营官谢磊先生等蔡司高层的隆重接待。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>吉利汽车2026年7月10日因行使认股权发行15.5万股，助力员工激励</title>
-        <link>https://www.laoyaoba.com/n/1061884</link>
-        <guid>https://www.laoyaoba.com/n/1061884</guid>
-        <description>2026年7月10日，吉利汽车发布翌日披露报表。当日因本集团雇员及关联实体参与者行使认股权，共发行15.5万股普通股，每股发行价9.56港元。发行前已发行股份（不含库存）10,784,877,597股，发行后为10,785,032,597股，库存股份不变。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>香农芯创：上半年归母净利润同比大增2118%—2434%</title>
+        <link>https://www.laoyaoba.com/n/1061966</link>
+        <guid>https://www.laoyaoba.com/n/1061966</guid>
+        <description>7月10日，香农芯创发布2026年半年度业绩预告，公司当期经营业绩实现爆发式增长。数据显示，公司预计上半年归属于上市公司股东的净利润同比大增2118%—2434%，业绩增幅远超行业平均水平，彰显出公司强劲的盈利韧性与成长动能。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
     <item>
-        <title>国内首个全国产十万卡AI超集群正式落成，定义AI基础设施新标准</title>
-        <link>https://www.laoyaoba.com/n/1061864</link>
-        <guid>https://www.laoyaoba.com/n/1061864</guid>
-        <description>7月10日，光合组织2026智能计算应用大会期间，中科曙光宣布中国首个全国产十万卡AI超集群——曙光8000（登峰）正式落成，并同步接入国家超算互联网。这标志着AI基础设施建设开始从万卡级迈向十万卡级部署阶段。
-
-真十万卡落地，AI基础设施新标准
-随着大模型、科学智能和智能体应用加速发展，算力基础设施正从千卡、万卡集群向更大规模演进。面向高并发、高吞吐、多精度、多任务的复合负载，十万卡级AI超集群不再只是数字概念，而是下一代AI基础设施的重要入门能力。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>​聆思科技完成近5亿元B轮融资，首颗端侧大模型AI推理芯片年底推出</title>
-        <link>https://www.laoyaoba.com/n/1061859</link>
-        <guid>https://www.laoyaoba.com/n/1061859</guid>
-        <description>​近日，端侧AI推理芯片企业聆思科技完成近5亿元B轮融资。本轮融资由安徽省与合肥市多家国资平台联合战略领投，深报一本、天智投资、科讯创投、盈科投资等一线资本跟投，其中多家老股东持续加注。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【消费电子设备板块异动】整体走强，存储芯片缺货涨价带动板块共振</title>
-        <link>https://www.laoyaoba.com/n/1061885</link>
-        <guid>https://www.laoyaoba.com/n/1061885</guid>
-        <description>7月10日午盘，消费电子设备板块整体走强，75%成分股上涨，呈现小盘股弹性特征，深科达20%涨停。此次异动由存储芯片缺货涨价传导驱动，属短期脉冲型行情，后续可关注资金持续性及涨价传导落地情况。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【乘用车板块异动】整体集体走强，乘联会7月新能源车出口创新高带动板块共振</title>
-        <link>https://www.laoyaoba.com/n/1061889</link>
-        <guid>https://www.laoyaoba.com/n/1061889</guid>
-        <description>7月10日午盘，乘用车板块9只个股全部上涨，平均涨幅4.95%，属于市场情绪低位下的板块独立修复行情。核心驱动为乘联会发布7月新能源车出口21.3万辆创历史新高，叠加相关车型准入、改款计划等催化需求预期。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>深科达(688328.SH)：半日大涨20.00%，存储扩产带动设备走强</title>
-        <link>https://www.laoyaoba.com/n/1061886</link>
-        <guid>https://www.laoyaoba.com/n/1061886</guid>
-        <description>7月10日午盘，深科达涨19.99%封死20%涨停板，近三个交易日累计涨幅26.02%，7月9日也曾录得20%涨停。本次异动源于存储龙头扩产带动半导体设备板块走强，深科达作为相关标的受益，目前暂未发现公司近7日有相关直接公告，需注意短期波动风险。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>上海合晶(688584.SH)：半日大涨11.89%，产品涨价驱动</title>
-        <link>https://www.laoyaoba.com/n/1061887</link>
-        <guid>https://www.laoyaoba.com/n/1061887</guid>
-        <description>7月10日午盘，上海合晶大涨11.89%，收盘价45.06元，近三日累计涨29.28%，为半导体材料板块涨幅第一。本次异动源于公司与部分国际客户达成产品涨价协议，融资资金提前布局，其工商变更与本次异动无直接关联。</description>
-        <pubDate>Fri, 10 Jul 2026 08:48:55 GMT</pubDate>
+        <title>敦泰2025届芯途启航训练营结营出师圆满落幕</title>
+        <link>https://www.laoyaoba.com/n/1061975</link>
+        <guid>https://www.laoyaoba.com/n/1061975</guid>
+        <description>2026 年 7 月 3 日，敦泰 2025 届应届生出师仪式温情启幕。18 位应届学员及导师、直接主管齐聚现场，共同见证「芯途启航校招训练营」阶段性成长收官。</description>
+        <pubDate>Fri, 10 Jul 2026 11:44:46 GMT</pubDate>
     </item>
 
 </channel>
