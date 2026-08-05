@@ -4,14 +4,126 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Wed, 05 Aug 2026 13:50:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 15:56:55 GMT</lastBuildDate>
+
+    <item>
+        <title>Anthropic组建自研芯片团队，为Claude定制AI芯片</title>
+        <link>https://www.laoyaoba.com/n/1077986</link>
+        <guid>https://www.laoyaoba.com/n/1077986</guid>
+        <description>Anthropic于8月4日宣布，正在组建一支内部团队，专门为旗下Claude AI模型设计定制芯片。这一决定证实了这家AI初创公司正试图通过自研芯片来应对高端AI芯片短缺的困境，以满足日益增长的大规模模型训练与推理需求。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Anthropic 为 Claude 组建内部芯片团队</title>
+        <link>https://www.laoyaoba.com/n/1077981</link>
+        <guid>https://www.laoyaoba.com/n/1077981</guid>
+        <description>Anthropic 于 8 月 5 日宣布组建内部芯片设计团队，为 Claude AI 模型设计定制芯片，以应对芯片短缺问题，提高运行速度和效率，公司将继续依赖多元化硬件堆栈，未提供芯片计划时间表。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>格罗方德Q2营收超预期达17.86亿美元，毛利率近30%</title>
+        <link>https://www.laoyaoba.com/n/1077974</link>
+        <guid>https://www.laoyaoba.com/n/1077974</guid>
+        <description>8月5日，半导体代工厂格罗方德（GlobalFoundries，纳斯达克：GFS）公布2026年第二季度财报。当季营收17.86亿美元，环比增长9.3%，超出公司此前指引上限；Non-IFRS毛利率达29.9%，同样高于指引区间顶端。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>FCC拟限中国光模块：短期难脱钩，长期或倒逼供应链重构</title>
+        <link>https://www.laoyaoba.com/n/1077947</link>
+        <guid>https://www.laoyaoba.com/n/1077947</guid>
+        <description>美国联邦通信委员会（FCC）正酝酿一项草案，拟通过“受保护清单”（Covered List）机制，限制中国制造的新型号光收发模块进口。TrendForce集邦咨询指出，FCC此次拟扩大对中国光模块的管制范围，影响可能延伸至共封装光学（CPO）、近封装光学（NPO）及交换机供应链。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【2026中报快解】中欣晶圆：营收同比高增57.69%，毛利率大幅改善减亏超五成</title>
+        <link>https://www.laoyaoba.com/n/1077885</link>
+        <guid>https://www.laoyaoba.com/n/1077885</guid>
+        <description>中欣晶圆2026年上半年实现营业收入12.34亿元，同比大幅增长57.69%；归属于挂牌公司股东净利润-2.20亿元，较上年同期-4.52亿元大幅减亏51.25%；扣非净利润-2.71亿元，同比减亏46.83%，营收高速增长叠加产能利用率提升带动亏损幅度显著收窄。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>北航集成电路学院10篇论文在DAC 2026发表</title>
+        <link>https://www.laoyaoba.com/n/1077886</link>
+        <guid>https://www.laoyaoba.com/n/1077886</guid>
+        <description>DAC（Design Automation Conference）是电子电子设计自动化、集成电路与系统设计领域具有重要影响力的国际会议。第63届DAC于2026年7月26日至29日在美国加州长滩举行，大会围绕人工智能驱动设计、EDA、Chiplet、安全和系统设计等方向开展技术交流与展示。学院多项研究成果在该会议上发表，体现了相关工作在国际集成电路设计自动化和芯片系统领域获得同行认可，也展示了学院面向国际前沿持续产出高水平成果的科研实力。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>厦门大学李澄教授、陈孟瑜副教授课题组发表钙钛矿微型光谱仪重要成果</title>
+        <link>https://www.laoyaoba.com/n/1077883</link>
+        <guid>https://www.laoyaoba.com/n/1077883</guid>
+        <description>近日，学院李澄教授、陈孟瑜副教授课题组在钙钛矿微型光谱仪领域取得突破，相关成果以“Precisely-Controlled Gradient-Bandgap Perovskite Photodiode Arrays Facilitate the Accurate Reconstruction of Complex Spectra for Color Decryption Applications”为题发表于国际光学领域高水平期刊ACS Photonics。该研究首次采用非均匀时间离子交换法制备了</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>北京理工大学沈国震教授团队在模拟-数字双模融合的光电感算器件领域取得重要进展</title>
+        <link>https://www.laoyaoba.com/n/1077879</link>
+        <guid>https://www.laoyaoba.com/n/1077879</guid>
+        <description>近日，北京理工大学沈国震、王卓然团队在《Nature Communications》发表了题为 “A capacitive photodiode for analogue and digital Processing” 的研究论文。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>北京大学集成电路学院林亦波副教授荣获2026年DAC“40岁以下优秀创新者奖”</title>
+        <link>https://www.laoyaoba.com/n/1077874</link>
+        <guid>https://www.laoyaoba.com/n/1077874</guid>
+        <description>2026年7月26日至29日，第63届设计自动化会议（Design Automation Conference，DAC）在美国加利福尼亚州长滩市举办。DAC是电子设计自动化（EDA）领域历史最悠久、影响力最大的国际顶级会议。该会议设立的“40岁以下优秀创新者奖”，面向全球学术界和工业界的优秀科研人员，着重选出在商业产品、软硬件系统、算法与工具等方面获得广泛应用的突出成果，每年在全球范围内仅评选不超过五位。会上，北京大学集成电路学院副教授林亦波凭借在GPU/AI赋能的芯片物理设计领域的开创性贡献荣</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>北京大学材料科学与工程学院周欢萍团队在钙钛矿太阳能电池领域取得重要进展</title>
+        <link>https://www.laoyaoba.com/n/1077872</link>
+        <guid>https://www.laoyaoba.com/n/1077872</guid>
+        <description>钙钛矿太阳能电池（Perovskite Solar Cells, PSCs）因具有高光电转换效率、低制备成本以及柔性应用潜力，被认为是下一代光伏技术的重要发展方向。然而，多组分铅卤钙钛矿材料固有的软晶格特性以及较低缺陷形成能，使其在结晶生长和后续器件加工过程中容易产生大量缺陷。这些缺陷不仅会诱导非辐射复合和离子迁移，还会加速器件性能衰减，成为限制钙钛矿太阳能电池长期稳定运行和规模化应用的重要瓶颈。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>兆易创新GD32H77R机器人专用芯片重磅亮相，精准赋能伺服驱动与关节控制</title>
+        <link>https://www.laoyaoba.com/n/1077869</link>
+        <guid>https://www.laoyaoba.com/n/1077869</guid>
+        <description>兆易创新GigaDevice（股票代码：603986.SH；3986.HK）今日宣布，正式推出GD32H77R高性能32位微控制器，该款芯片是面向伺服驱动与机器人关节控制场景深度定制优化的专用MCU。GD32H77R系列芯片搭载600MHz主频Arm® Cortex®‑M7内核，配备可与CPU同频工作的640KB紧耦合内存（TCM），集成EtherCAT®从站控制器与多规格工业编码器接口，采用9mm×9mm BGA169紧凑封装精准适配机器人关节内部有限空间，可广泛应用于人形机器人关节模组、伺服</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>消息称三星、SK海力士测试中国芯片设备，应对美出口限制风险</title>
+        <link>https://www.laoyaoba.com/n/1077870</link>
+        <guid>https://www.laoyaoba.com/n/1077870</guid>
+        <description>北京时间8月5日，据路透社报道，三位知情人士称，三星电子、SK海力士正在评估中国中微半导体设备公司(AMEC)的芯片制造设备，以便可能在其中国工厂使用。目前，这两家韩国公司正在对冲美国收紧出口管制的风险。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>新制造工艺将分子无损嵌入电子器件</title>
+        <link>https://www.laoyaoba.com/n/1077868</link>
+        <guid>https://www.laoyaoba.com/n/1077868</guid>
+        <description>借助全新的可扩展制造技术，科学家使用厚度不足一纳米的分子层，制造出上千个器件。图片来源：麻省理工学院</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>首个具身智能数据集质量标准发布</title>
+        <link>https://www.laoyaoba.com/n/1077867</link>
+        <guid>https://www.laoyaoba.com/n/1077867</guid>
+        <description>近日，《人工智能　关键基础技术　具身智能数据集质量要求及评价方法》由工业和信息化部批准发布，将于2026年11月1日正式实施。该标准由中国信息通信研究院联合行业40余家单位起草编制，其发布标志着具身智能数据集建设从“规模导向”向“质量导向”转变，有效填补具身智能数据方向的行业标准空白，为具身智能领域的高质量数据集建设奠定基础。</description>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
+    </item>
 
     <item>
         <title>脑机接口技术借AI实现脑活动转文字</title>
         <link>https://www.laoyaoba.com/n/1077865</link>
         <guid>https://www.laoyaoba.com/n/1077865</guid>
         <description>美国Meta人工智能团队、法国巴黎文理研究大学和阿道夫·罗斯柴尔德基金会医院的研究人员开发出一种结合人工智能（AI）技术的非侵入式“大脑活动到文本”转换方法。这一脑机接口技术借助深度学习算法，能够根据脑电图或脑磁图信号解码人们在键盘输入过程中产生的脑活动，并将其转换为对应文字。相关研究发表于新一期《自然·神经科学》杂志。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1077864</link>
         <guid>https://www.laoyaoba.com/n/1077864</guid>
         <description>31省份最新经济数据描绘出地方AI产业发展的全景图：AI终端应用需求极大拉动高技术制造业增长，多地上半年集成电路、工业机器人等相关产业实现两位数增长；从区域格局看，人工智能产业梯度发展格局凸显——处于“第一方阵”的北京、上海、广东全链条发力，安徽、湖北等深耕AI芯片和光电子等细分赛道，贵州等地依托清洁能源等优势成为智算中心重要落子点。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1077863</link>
         <guid>https://www.laoyaoba.com/n/1077863</guid>
         <description>记者8月4日获悉，工业和信息化部日前组织制定并归口的《智能网联汽车 自动驾驶系统安全要求》（GB 44721—2026）（简称《安全要求》）强制性国家标准由国家市场监督管理总局、国家标准化管理委员会批准发布，拟于2027年7月1日起正式实施。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1077862</link>
         <guid>https://www.laoyaoba.com/n/1077862</guid>
         <description>北京时间8月5日，据《金融时报》报道，美国电动汽车制造商Lucid新任CEO西尔维奥·纳波利(Silvio Napoli)警告称，美国汽车行业无法避开中国竞争对手带来的激烈竞争。他预测，竞争者众多的全球电动车市场将迎来一轮行业洗牌。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1077860</link>
         <guid>https://www.laoyaoba.com/n/1077860</guid>
         <description>“内部测试？不，我要去‘外面的世界’看看。”</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
     </item>
 
     <item>
@@ -51,119 +163,7 @@
         <link>https://www.laoyaoba.com/n/1077857</link>
         <guid>https://www.laoyaoba.com/n/1077857</guid>
         <description>兆易创新GigaDevice（股票代码：603986.SH；3986.HK）今日正式推出面向人形机器人、协作机械臂、灵巧手的GD32F50MxxG系列高集成电机控制MCU。产品采用MCU合封自研模拟芯片方案，单芯片集成三相栅极驱动器与4路高带宽低温漂轨到轨运算放大器，以252MHz Cortex®-M33算力、极致集成度、小型化封装、全方位功能安全保障等四大优势，一站式解决机器人关节多芯片分立、体积受限、采样信号差、EMI干扰严重等行业痛点，为轻量化伺服关节提供一体化硬件底座。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>消息称PC大厂惠普、华硕、宏碁已开始使用长鑫内存芯片</title>
-        <link>https://www.laoyaoba.com/n/1077855</link>
-        <guid>https://www.laoyaoba.com/n/1077855</guid>
-        <description>北京时间8月4日，据《日经亚洲》报道，在AI基础设施需求引发空前内存芯片短缺的背景下，PC大厂惠普、华硕和宏碁已开始采用少量长鑫存储芯片。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>华天科技：拟发行股份+现金收购华羿微电，交易对价29.96亿元</title>
-        <link>https://www.laoyaoba.com/n/1077854</link>
-        <guid>https://www.laoyaoba.com/n/1077854</guid>
-        <description>8月5日，天水华天科技股份有限公司、披露《发行股份及支付现金购买资产并募集配套资金暨关联交易报告书（草案）》，公司拟通过发行股份及支付现金的方式，收购华羿微电子股份有限公司（以下简称“华羿微电”）100%股份，交易总对价为29.96亿元。同时，华天科技拟向不超过35名特定投资者发行股份募集配套资金，用于支付现金对价及相关费用。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>英伟达护城河告急：AI智能体要掀翻CUDA？</title>
-        <link>https://www.laoyaoba.com/n/1077853</link>
-        <guid>https://www.laoyaoba.com/n/1077853</guid>
-        <description>北京时间8月4日，据《商业内幕》报道，英伟达最大的竞争优势，如今已不再像过去那样牢不可破了。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>文章内容重点</title>
-        <link>https://www.laoyaoba.com/n/1077852</link>
-        <guid>https://www.laoyaoba.com/n/1077852</guid>
-        <description>**摘要**：7 月 DRAM 和 NAND 闪存价格创新高，DRAM 价格连续 15 个月上涨，NAND 闪存价格连续 19 个月上涨。DRAM 制造商计划减少 PC DRAM 供应，SLC NAND 短缺加剧，MLC NAND 价格涨幅有限。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>天马微电子反诉 LG Display 专利侵权</title>
-        <link>https://www.laoyaoba.com/n/1077851</link>
-        <guid>https://www.laoyaoba.com/n/1077851</guid>
-        <description>**摘要**：2026 年 8 月 5 日消息，韩国显示面板制造商利用专利诉讼保护技术优势，LG 显示与天马微电子、三星显示与京东方的专利纠纷已解决，韩国制造商的行动被认为是对中国竞争对手专利侵权的回应，双方高端面板技术差距仍保持约三年。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>《南亚科技：7 月营收大增，长期供货合约稳定》</title>
-        <link>https://www.laoyaoba.com/n/1077849</link>
-        <guid>https://www.laoyaoba.com/n/1077849</guid>
-        <description>**摘要**：2026 年 8 月 4 日，南亚科技公布 7 月营收快报，当月营收环比、同比均大涨。总经理李培瑛表示，AI 强劲需求推动存储供需结构性改变，DRAM 供给不足将持续数季，目前全面缺货，价格持续上涨。各供应商积极扩充产能，未来将依据客户需求逐步扩增。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>类 EMIB</title>
-        <link>https://www.laoyaoba.com/n/1077843</link>
-        <guid>https://www.laoyaoba.com/n/1077843</guid>
-        <description>台积电正在推进“类 EMIB”技术研发，以应对 CoWoS 封装产能紧张的局面。英特尔 EMIB 方案已商用，台积电此举旨在对标英特尔，争夺 AI 芯片封装市场。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>《丰田 2027 年推下一代混动电池，拟扩产》</title>
-        <link>https://www.laoyaoba.com/n/1077838</link>
-        <guid>https://www.laoyaoba.com/n/1077838</guid>
-        <description>**摘要**：丰田 8 月 4 日宣布将于 2027 年～2028 年生产新一代混动电池，降低成本，扩大产能，还将与宁德时代合作。预计 2026 年其混动车销量超 500 万，中国厂商也在加大投资。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>美新半导体亮相2026沙利文峰会 共探AI时代传感器产业新未来</title>
-        <link>https://www.laoyaoba.com/n/1077703</link>
-        <guid>https://www.laoyaoba.com/n/1077703</guid>
-        <description>2026年8月4日-5日，第二十届沙利文全球增长、科创与领导力峰会暨第五届新投资大会（简称“2026沙利文峰会”）在上海静安香格里拉大酒店成功举办。作为沙利文全球成立65周年暨沙利文峰会落地中国20周年的重要节点，本届峰会汇聚产业领袖、创新企业、投资机构及行业专家，共同探讨全球科技创新趋势与产业发展方向，推动产业、资本与创新力量深度交流，成为洞察未来产业趋势的重要平台。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【技术帖】车载氛围灯“色差”难题如何破？一文读懂LED颜色校准与温度补偿</title>
-        <link>https://www.laoyaoba.com/n/1077691</link>
-        <guid>https://www.laoyaoba.com/n/1077691</guid>
-        <description>想象一下这样的场景：您坐进一辆配备氛围灯的新车，车门内侧是柔和的冰蓝色，而中控台却泛着一丝青绿。同一种颜色设置，不同位置的灯珠却呈现出微妙的差异。这种体验，相信不是车企和消费者所期望的。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>汇率、原材料、价格战“三重劫”：六家车企上半年蒸发100亿利润</title>
-        <link>https://www.laoyaoba.com/n/1077659</link>
-        <guid>https://www.laoyaoba.com/n/1077659</guid>
-        <description>2026年上半年，中国汽车行业交出了一份近年来罕见的惨淡答卷。长城汽车、广汽集团、赛力斯、江淮汽车、北汽蓝谷、长安汽车这六家A股整车企业，合计销量从2025年上半年的313.67万辆降至2026年上半年的295.59万辆，净减少约18.08万辆，降幅达5.76%。销量端的收缩已属严峻，但更令人震动的是利润端的全面崩溃——六家企业合计归母净利润从2025年上半年的盈利59.5亿元，转为2026年上半年的预亏45亿元至59.9亿元。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>佰维存储与此芯科技共建联合实验室，存算协同加速AI产业突破</title>
-        <link>https://www.laoyaoba.com/n/1077658</link>
-        <guid>https://www.laoyaoba.com/n/1077658</guid>
-        <description>近日，深圳佰维存储科技股份有限公司与此芯科技集团有限公司（以下简称“此芯科技”）签署建立联合实验室合作协议。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>交互式GUI设计，MRS2彩屏应用开发入门</title>
-        <link>https://www.laoyaoba.com/n/1077650</link>
-        <guid>https://www.laoyaoba.com/n/1077650</guid>
-        <description>在传统GUI应用开发中，工程师需要手动移植GUI库、频繁调整界面代码、在GUI软件和集成开发环境之间反复切换和同步文件。如何提升GUI应用的开发效率？——可视化交互代替代码编辑，高集成度简化开发流程，本文介绍Mounriver Studio II（MRS2）在GUI应用开发上的探索和一站式的解决方案。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>消息称三星等韩企评估中微公司设备</title>
-        <link>https://www.laoyaoba.com/n/1077050</link>
-        <guid>https://www.laoyaoba.com/n/1077050</guid>
-        <description>三星电子和SK海力士正在评估中微公司刻蚀设备，考虑用于其中国晶圆厂，以降低美国出口管制带来的供应链风险。</description>
-        <pubDate>Wed, 05 Aug 2026 13:50:31 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:56:55 GMT</pubDate>
     </item>
 
 </channel>
