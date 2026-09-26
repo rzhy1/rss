@@ -4,30 +4,62 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Sat, 26 Sep 2026 11:20:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 15:02:50 GMT</lastBuildDate>
 
     <item>
-        <title>解析</title>
+        <title>中方企业已开始采购美国农产品并询价</title>
+        <link>https://www.laoyaoba.com/n/1113031</link>
+        <guid>https://www.laoyaoba.com/n/1113031</guid>
+        <description>9月26日，美国国际贸易委员会对半导体设备及其下游产品发起两起337调查，TCL、海信、联想、一加等企业涉案。今年以来，美国频频对华发起“337调查”。“337调查”是针对美国进口贸易中知识产权侵权等不公平竞争行为的准司法程序，可能发布有限或普遍排除令。中方对美方制裁中方企业表示强烈不满和坚决反对。</description>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>《1.74 亿元！壁仞科技独家中标，AI 芯片竞争加剧》</title>
+        <link>https://www.laoyaoba.com/n/1113030</link>
+        <guid>https://www.laoyaoba.com/n/1113030</guid>
+        <description>壁仞科技以1.74亿元中标昆仑领奕智算中心项目（一期）包一，成为唯一中标供应商，需在45日内供货。该项目预算总额约6.26亿元，分两个包，壁仞科技中标的核心产品是壁砺系列GPU，其自研BLink协议和Scale-out层面采用OCS光电路交换方案，在软件生态方面已具备对主流大模型的Day0级适配能力。</description>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>无偏光OLED再简化，三星显示评估CoE降本新路径</title>
+        <link>https://www.laoyaoba.com/n/1113004</link>
+        <guid>https://www.laoyaoba.com/n/1113004</guid>
+        <description>三星显示正在评估一项名为“半色调黑色PDL”的新工艺，目标是为无偏光片OLED的CoE制程做减法。该方案通过把原本分开的黑色像素定义层与间隔层合并到同一道工序中，减少光掩模数量，从而压低OLED面板制造成本。目前，这项技术已进入下一代旗舰手机面板的候选技术清单。</description>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>AI服务器继续抢产能，四季度DRAM、NAND合约价看涨声强</title>
+        <link>https://www.laoyaoba.com/n/1113002</link>
+        <guid>https://www.laoyaoba.com/n/1113002</guid>
+        <description>AI数据中心建设仍在加速，存储芯片供应紧绷的局面尚未看到明确终点。市场人士对四季度合约价给出偏强判断：DRAM环比可能上涨约两成，NAND Flash涨幅甚至可能达到三成，供需缺口仍为负值，卖方在价格谈判中继续掌握主动。</description>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>高阶材料缺到2027？PCB或面临缺货潮</title>
         <link>https://www.laoyaoba.com/n/1113000</link>
         <guid>https://www.laoyaoba.com/n/1113000</guid>
-        <description>**摘要**：2026 年台湾 PCB 制造受益于 AI 需求，总产值有望首破兆。2 季度展现强劲成长动能，多数 PCB 类别年增，AI 相关产品成长显著。下半年总产值有望年增 24.5%，全年总产值可望达 11365 亿元。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <description>TPCA最新数据指出，AI服务器、高速网通与存储等AI基础建设需求持续扩张，成为台湾PCB制造增长的主因，并带动载板、HLC、HDI等高端产品需求升温。该机构认为，2026年整体发展态势明显优于前两年，全年海内外总产值有望首次突破兆元新台币，达1兆1,365亿元，年增24.2%。业界观察，PCB产业链整体产值此前已经破兆，今年则可能看到不含材料与设备、仅PCB制造本身即破兆的新节点。</description>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
-        <title>内容重点</title>
+        <title>欧盟全境准入投票临近，特斯拉FSD安全争议再起</title>
         <link>https://www.laoyaoba.com/n/1112999</link>
         <guid>https://www.laoyaoba.com/n/1112999</guid>
-        <description>**摘要**：比利时道路安全倡导组织 Johanna.be 发布测试报告称，特斯拉 FSD 在比利时路测中频繁超速、违规超车，暴露出多项安全隐患。该系统虽有部分安全优点，但仍存在明显合规缺陷。特斯拉 FSD 的欧洲准入进程正处关键节点，其安全性引发监管争议。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <description>比利时道路安全倡导组织Johanna.be发布专项测试报告称，特斯拉FSD在比利时公开道路测试中暴露出频繁超速、在禁超路段尝试超越骑行者等多项违反当地交通法规的问题。该报告发布之际，欧盟即将就FSD全区域准入举行投票，这套已在部分欧盟国家获批的高级辅助驾驶系统，再次陷入安全性质疑。</description>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
-        <title>《xAI 计划部署 120 万颗 GPU，马斯克打造超级算力工厂》</title>
+        <title>马斯克：Colossus 2将上线66万块Blackwell GPU</title>
         <link>https://www.laoyaoba.com/n/1112998</link>
         <guid>https://www.laoyaoba.com/n/1112998</guid>
-        <description>埃隆·马斯克计划在 Colossus 数据中心项目中部署超 50 万个 NVIDIA AI GPU，其中二期工程 Colossus 2 计划在 2026 年底前上线 66 万块 NVIDIA Blackwell GPU，他致力于让 SpaceXAI 在计算能力上与 Anthropologie 和 OpenAI 相匹敌。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <description>马斯克旗下AI公司xAI正推进位于孟菲斯的Colossus数据中心项目。该项目于2024年开工建设，一期工程Colossus 1已投入运营，主要采用英伟达Hopper GPU；二期工程Colossus 2同样落地孟菲斯，并将主要采用英伟达Blackwell GB300 GPU。</description>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +67,7 @@
         <link>https://www.laoyaoba.com/n/1112997</link>
         <guid>https://www.laoyaoba.com/n/1112997</guid>
         <description>中美达成八点成果共识，同意建立中美人工智能对话</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +75,7 @@
         <link>https://www.laoyaoba.com/n/1112995</link>
         <guid>https://www.laoyaoba.com/n/1112995</guid>
         <description>9月26日，中瓷电子在投资者互动平台回应投资者提问，表示会持续关注多元技术路线，强化前瞻布局与技术储备。作为国内高端电子陶瓷外壳及基板龙头企业，公司光模块相关产品市占率居全球头部，2026年一季度光模块用相关产品订单大幅放量，业绩同比大幅增长，目前正推进产能扩建项目，布局前沿技术。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1112996</link>
         <guid>https://www.laoyaoba.com/n/1112996</guid>
         <description>9月26日，中瓷电子在投资者互动平台回应投资者提问，称公司在电子陶瓷领域拥有多方面技术优势，掌握多种陶瓷体系知识产权，上游原材料已实现国产化且能满足需求。作为国内高端电子陶瓷外壳及基板龙头，公司相关产品市占率居全球头部，2026年一季度光模块相关陶瓷产品订单大幅放量，正推进产能扩建项目。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1112989</link>
         <guid>https://www.laoyaoba.com/n/1112989</guid>
         <description>比亚迪：对标加油站，未来两年将建成 9 万座充电站</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1112987</link>
         <guid>https://www.laoyaoba.com/n/1112987</guid>
         <description>英飞凌科技将于 10 月 1 日启用泰国半导体工厂，投资超 480 亿泰铢，生产电动汽车等功率模块，预计雇佣超 5000 名员工，该工厂将助力泰国打造本土芯片产业。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1112986</link>
         <guid>https://www.laoyaoba.com/n/1112986</guid>
         <description>人工智能正加速从数字世界向物理世界延伸。英特尔公司副总裁兼端侧计算和物理AI事业部中国区总经理高嵩在2026 Intel Connection 期间接受媒体采访，就物理AI发展趋势、机器人架构、芯片路线及标准化等问题阐述了公司观点。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1112985</link>
         <guid>https://www.laoyaoba.com/n/1112985</guid>
         <description>科技媒体 MacRumors 报道称，通过挖掘苹果公司代码，发现 iPad 12 将配备 A19 芯片、8GB 内存、N1 网络芯片和 C1X 调制解调器，支持 Apple Intelligence 和 Siri AI，预计最早于 2027 年春季发布。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1112984</link>
         <guid>https://www.laoyaoba.com/n/1112984</guid>
         <description>印度政府加强与日美构建半导体供应链</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1111747</link>
         <guid>https://www.laoyaoba.com/n/1111747</guid>
         <description>人工智能应当保持积极、开放的发展方向。支持有益创新，要求具体风险得到相称控制，并检验每项限制的效果与代价，是可以同时坚持的原则。行业有理由持续推进研发与应用，也有责任让每一次能力提升，都更可靠地进入真实生产和生活。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -107,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1112983</link>
         <guid>https://www.laoyaoba.com/n/1112983</guid>
         <description>Akamai 与 Anthropic 达成 116 亿美元协议，扩充 CPU 算力</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -115,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1112982</link>
         <guid>https://www.laoyaoba.com/n/1112982</guid>
         <description>苹果专利侵权败诉，面临 57 亿美元赔偿</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -123,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1112981</link>
         <guid>https://www.laoyaoba.com/n/1112981</guid>
         <description>苹果证实 iPhone 18 Pro 存在 Face ID 异常重启漏洞</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
     <item>
@@ -131,39 +163,7 @@
         <link>https://www.laoyaoba.com/n/1112980</link>
         <guid>https://www.laoyaoba.com/n/1112980</guid>
         <description>马斯克称 SpaceX 算力将疯狂扩张</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>英特尔将在圣克拉拉裁员52人，涉及4处办公地点</title>
-        <link>https://www.laoyaoba.com/n/1112979</link>
-        <guid>https://www.laoyaoba.com/n/1112979</guid>
-        <description>英特尔计划于9月30日在美国加州圣克拉拉地区裁减52个制造和运营岗位，涉及当地4处办公地点，此次裁员属于永久性岗位削减。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>索尼芯片子公司要求约8000名员工全面返岗，推动Physical AI研发</title>
-        <link>https://www.laoyaoba.com/n/1112978</link>
-        <guid>https://www.laoyaoba.com/n/1112978</guid>
-        <description>索尼集团旗下芯片子公司Sony Semiconductor Solutions计划从下月起原则上要求约8000名员工全面返回办公室办公，主要目的是提升跨部门联合研发效率和决策速度，推动Physical AI相关研发。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>泰国发布首个国家半导体战略，目标到2050年吸引800亿美元投资</title>
-        <link>https://www.laoyaoba.com/n/1112977</link>
-        <guid>https://www.laoyaoba.com/n/1112977</guid>
-        <description>泰国近日批准首个国家半导体和先进电子产业战略，目标到2050年累计吸引约800亿美元投资，实现约1500亿美元年产业收入，新增超过23万个就业岗位。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>Solidigm拟最早明年赴美IPO，估值最高或达1500亿美元</title>
-        <link>https://www.laoyaoba.com/n/1112976</link>
-        <guid>https://www.laoyaoba.com/n/1112976</guid>
-        <description>知情人士称，美国存储芯片公司Solidigm正考虑最早于2027年启动IPO，潜在估值最高可达1500亿美元，募资规模可能达到150亿美元，目前相关计划仍处于早期阶段。</description>
-        <pubDate>Sat, 26 Sep 2026 11:20:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 15:02:50 GMT</pubDate>
     </item>
 
 </channel>
