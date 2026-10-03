@@ -4,14 +4,46 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Sat, 03 Oct 2026 02:14:27 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 08:09:23 GMT</lastBuildDate>
+
+    <item>
+        <title>谷歌把TPU送上太空：原型卫星入轨，测试AI芯片在轨表现</title>
+        <link>https://www.laoyaoba.com/n/1115202</link>
+        <guid>https://www.laoyaoba.com/n/1115202</guid>
+        <description>谷歌的一颗原型卫星已经升空，星上搭载了4枚谷歌张量处理单元（TPU）芯片，用于检验这类AI芯片在太空条件下能否正常工作。该卫星由SpaceX“运输者-18”拼车任务送入轨道。谷歌方面称，团队已经与卫星建立通信，目前卫星运行状态正常。</description>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>AI热潮推高韩国出口：9月达1209亿美元，芯片贡献近半</title>
+        <link>https://www.laoyaoba.com/n/1115201</link>
+        <guid>https://www.laoyaoba.com/n/1115201</guid>
+        <description>韩国政府周四披露的数据显示，全球人工智能投资热潮正在显著推高韩国出口。9月，韩国出口额同比增长83.5%，达到1209亿美元，创下历史新高，并实现连续第16个月增长。海关数据还显示，出口货运量增长62.0%，超出市场预期。</description>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>新思科技牵手OpenAI打造GPT-Synopsys，瞄准芯片设计全流程</title>
+        <link>https://www.laoyaoba.com/n/1115200</link>
+        <guid>https://www.laoyaoba.com/n/1115200</guid>
+        <description>周三，新思科技宣布与OpenAI建立收入分成合作关系，双方将共同打造一款服务芯片行业的AI模型，名字定为GPT-Synopsys。该模型会针对芯片设计任务做专门训练和调优，工作范围从用类代码语言描述电路，一直延伸到在一小块硅片上排布数十亿颗晶体管。</description>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>DRAM越来越贵，特斯拉下一代AI芯片不再盲目堆内存</title>
+        <link>https://www.laoyaoba.com/n/1115199</link>
+        <guid>https://www.laoyaoba.com/n/1115199</guid>
+        <description>10月2日，马斯克公开更新了特斯拉下一代AI芯片AI5和AI6的存储配置。AI芯片要落地，存储容量也要找到成本与性能的平衡点。若机器人真的从实验室走向百万台规模，每一GB DRAM都会成为必须精算的变量。</description>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
+    </item>
 
     <item>
         <title>【本土】搭载鸿蒙操作系统的终端设备数超过9000万</title>
         <link>https://www.laoyaoba.com/n/1115181</link>
         <guid>https://www.laoyaoba.com/n/1115181</guid>
         <description>1. 搭载鸿蒙操作系统的终端设备数超过9000万；2. 上交所：近期对全球芯片LOF等溢价较高的基金进行重点监控；3. 集成电路领域学者罗锋已任合工大仪器科学与光电工程学院院长；4. 华为官方：昇腾AI芯片中国份额已超过英伟达</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +51,7 @@
         <link>https://www.laoyaoba.com/n/1115197</link>
         <guid>https://www.laoyaoba.com/n/1115197</guid>
         <description>市场传出群创将启动人力精简，幅度可能达一成以上，方式预料不会单纯采取遣散，也可能搭配优离、优退及人员转调；公司近年持续缩减低效产能并转向车用与半导体封装事业。</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +59,7 @@
         <link>https://www.laoyaoba.com/n/1115196</link>
         <guid>https://www.laoyaoba.com/n/1115196</guid>
         <description>半导体分析师陆行之表示，台积电对英特尔的晶圆代工产能合作更加谨慎，不再轻易加码，避免养大潜在竞争对手；台积电与阿斯麦、三星推进High NA EUV技术也未邀请英特尔参与。</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +67,7 @@
         <link>https://www.laoyaoba.com/n/1115195</link>
         <guid>https://www.laoyaoba.com/n/1115195</guid>
         <description>美国联邦检察官逮捕加州男子Greg Lui，指控其2023至2024年通过马来西亚、新加坡等第三国非法转运价值超3亿美元、搭载英伟达AI芯片的服务器，最高或面临超20年监禁。</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +75,7 @@
         <link>https://www.laoyaoba.com/n/1115194</link>
         <guid>https://www.laoyaoba.com/n/1115194</guid>
         <description>星展银行、贝恩咨询等联合报告指出，AI相关半导体需求正驱动马来西亚经济增长超预期；该国承接全球约13%芯片封测市场，2021年以来已核准超1,440亿令吉数据中心与云端投资。</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1115193</link>
         <guid>https://www.laoyaoba.com/n/1115193</guid>
         <description>华为轮值董事长徐直军表示，昇腾AI芯片中国市场份额已达50%、超越英伟达的8%；华为发布Peerium计算架构与灵衢总线技术，可支持百万级处理器互连协作。</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1115192</link>
         <guid>https://www.laoyaoba.com/n/1115192</guid>
         <description>华为10月1日发布Mate 90系列并同步开售，全系搭载麒麟9030/9035/9050 Pro芯片与HarmonyOS 7，售价5999元起。余承东称其为“中国半导体行业的时代答卷”。</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1115184</link>
         <guid>https://www.laoyaoba.com/n/1115184</guid>
         <description>1. 存储芯片短缺持续，三星电子上调大部分Galaxy S26系列手机售价；2. Meta：未来几个月将把AI代理Muse接入AI眼镜</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1115183</link>
         <guid>https://www.laoyaoba.com/n/1115183</guid>
         <description>1. 报告：CPU交货周期已从通常16-20周延长至25-30周；2. 韩国9月半导体出口额603亿美元，同比大增262%；3. 博通启动 600 亿美元融资，为Anthropic 等公司采购芯片提供资金</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1115182</link>
         <guid>https://www.laoyaoba.com/n/1115182</guid>
         <description>1. 峰岹科技拟收购荷兰半导体传感器企业Sciosense；2. 2026 年 9 月主流车企销量成绩单出炉，比亚迪、零跑持续高增；3. 蔚来集团前三季度交付300301辆汽车同比增长49.2%，核心车型稳居细分市场前列</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1115180</link>
         <guid>https://www.laoyaoba.com/n/1115180</guid>
         <description>1. 壁仞科技下一代芯片即将投入量产，性能或超英伟达H200；2. 东芝拟将 AI 数据中心 HDD 产能翻倍，目标提升市场份额至 30%；3. 亚马逊拟将80亿美元英伟达芯片装入SPV；4. 群创传启动人力精简，缩编幅度恐逾一成；5. 华为余承东：Mate 90系列是中国半导体行业的答卷；6. 英特尔急追！陆行之：台积电“学乖了” 谨慎释出产能防养大对手</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1115188</link>
         <guid>https://www.laoyaoba.com/n/1115188</guid>
         <description>英伟达将推出DGX SPARK 64GB 版，可运行1000亿参数大模型</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -107,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1115191</link>
         <guid>https://www.laoyaoba.com/n/1115191</guid>
         <description>2026年10月2日，海尔智家股份有限公司向港交所提交翌日披露报表，披露其D股自愿公开股份回购要约结果，本次通过全面收购方式回购7939.24万股D股，每股价格1.87欧元，总耗资148463716.94欧元，所购股份拟注销。</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -115,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1115190</link>
         <guid>https://www.laoyaoba.com/n/1115190</guid>
         <description>2026年10月2日，广东天域半导体股份有限公司向港交所提交翌日披露报表，披露其于当日回购40350股H股，交易总金额约199.75万港元，本次回购股份将全部持作库存股份。</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -123,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1115164</link>
         <guid>https://www.laoyaoba.com/n/1115164</guid>
         <description>博通启动 600 亿美元融资，为Anthropic 等公司采购芯片提供资金</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
     <item>
@@ -131,39 +163,7 @@
         <link>https://www.laoyaoba.com/n/1115162</link>
         <guid>https://www.laoyaoba.com/n/1115162</guid>
         <description>马斯克发文称称将大幅下调内存用量</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>叶军获沃尔夫物理学奖，华人再摘诺奖风向标</title>
-        <link>https://www.laoyaoba.com/n/1115160</link>
-        <guid>https://www.laoyaoba.com/n/1115160</guid>
-        <description>叶军获沃尔夫物理学奖，华人再摘诺奖风向标</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>软银完成对 OpenAI 最后一笔 100 亿美元投资，累计投入升至 646 亿美元</title>
-        <link>https://www.laoyaoba.com/n/1115159</link>
-        <guid>https://www.laoyaoba.com/n/1115159</guid>
-        <description>软银完成对 OpenAI 最后一笔 100 亿美元投资，累计投入升至 646 亿美元</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>AI 芯片需求带动三星电子晶圆代工业务</title>
-        <link>https://www.laoyaoba.com/n/1115158</link>
-        <guid>https://www.laoyaoba.com/n/1115158</guid>
-        <description>AI 芯片需求带动三星电子晶圆代工业务</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>亚马逊拟将80亿美元英伟达芯片装入SPV</title>
-        <link>https://www.laoyaoba.com/n/1115156</link>
-        <guid>https://www.laoyaoba.com/n/1115156</guid>
-        <description>亚马逊拟将80亿美元英伟达芯片装入SPV，尝试把AI算力融资搬出资产负债表</description>
-        <pubDate>Sat, 03 Oct 2026 02:14:27 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 08:09:23 GMT</pubDate>
     </item>
 
 </channel>
