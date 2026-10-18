@@ -4,14 +4,126 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Sun, 18 Oct 2026 09:33:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 13:33:04 GMT</lastBuildDate>
+
+    <item>
+        <title>三星拟采用台积电3nm工艺为英伟达生产下一代HBM芯片</title>
+        <link>https://www.laoyaoba.com/n/1120600</link>
+        <guid>https://www.laoyaoba.com/n/1120600</guid>
+        <description>韩梅报道，三星电子将采用台积电3纳米工艺，为英伟达下一代定制高带宽内存（HBM）芯片生产基础裸片。若报道属实，这将是三星首次在HBM制造环节与台积电合作。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>AI芯片催热玻璃基板，友达布局金属化、RDL与中介层</title>
+        <link>https://www.laoyaoba.com/n/1120599</link>
+        <guid>https://www.laoyaoba.com/n/1120599</guid>
+        <description>面板大厂友达正加快向半导体领域延伸。董事长彭双浪表示，子公司围绕半导体制程所需的关键工具、零部件和服务展开布局，相关业务增长较快；在先进封装方面，友达的目标是“成为封装厂的重要合作伙伴”，而不是取代现有厂商。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>韩国财长：芯片行业高景气有望延续至2027年</title>
+        <link>https://www.laoyaoba.com/n/1120598</link>
+        <guid>https://www.laoyaoba.com/n/1120598</guid>
+        <description>韩国财政部长官李炯日10月17日在曼谷参加国际货币基金组织（IMF）和世界银行年会期间对媒体表示，半导体产业当前的高景气至少能延续到2027年。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>CPO量产临近，半导体测试产业链加速扩产抢市场</title>
+        <link>https://www.laoyaoba.com/n/1120597</link>
+        <guid>https://www.laoyaoba.com/n/1120597</guid>
+        <description>受益于AI驱动的测试与测量价值重估，以及共封装光学（CPO）逐步进入量产，全球半导体测试市场正迎来增长。SEMI预测，全球半导体设备销售额将从2025年的1350亿美元增至2028年近2300亿美元；其中测试设备增长尤为强劲，2026年销售额预计大增31%至153亿美元，2028年进一步攀升至208亿美元。台湾市场也展现出增长动能。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>玻璃基板：AI周期先进封装的下一块“底座”</title>
+        <link>https://www.laoyaoba.com/n/1120516</link>
+        <guid>https://www.laoyaoba.com/n/1120516</guid>
+        <description>AI加速器封装基板边长正从2026年的约90mm走向2030年后的130mm以上，有机芯板在约120mm附近难以控制翘曲。玻璃热膨胀可贴近硅、表面极平、可做高密度通孔，是接替有机芯板的主要候选。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>月产能6000片、2028年底投产：JASM二厂转向3nm芯片生产</title>
+        <link>https://www.laoyaoba.com/n/1120581</link>
+        <guid>https://www.laoyaoba.com/n/1120581</guid>
+        <description>日本经济产业省近日公示，台积电控股的日本合资企业JASM第二晶圆厂转产3纳米芯片的计划已获正式批准。这将是日本国内首次具备3纳米先进制程的量产能力，也标志着台积电在日本的布局从成熟制程阶段跨入先进制程阶段。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>英伟达高管否认RTX 5090停产：将会持续供货，但产能确实吃紧</title>
+        <link>https://www.laoyaoba.com/n/1120578</link>
+        <guid>https://www.laoyaoba.com/n/1120578</guid>
+        <description>有关英伟达RTX 5090显卡停产的传闻在玩家群体中持续发酵，英伟达个人计算业务高级副总裁杰夫·费舍尔在台北出席RTX Spark活动时公开回应，明确否认停产说法，称相关传闻“并非事实”，并强调RTX 5090仍是英伟达极为重要的核心产品，官方将持续供货。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Anthropic模型推演：2030年美国GDP或达44万亿美元？</title>
+        <link>https://www.laoyaoba.com/n/1120574</link>
+        <guid>https://www.laoyaoba.com/n/1120574</guid>
+        <description>一家AI公司正在尝试描绘美国经济未来的一种可能路径。Anthropic联合创始人Jack Clark在IMF与世界银行年会期间提到一个数字：44万亿美元。按照Anthropic内部模型的推演，在特定假设条件下，人工智能可能推动美国GDP在2030年达到44万亿美元。美国当前经济规模略高于30万亿美元，若这一情景成立，潜在增幅接近50%。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>旗舰屏也回退LTPS OLED：存储涨价重塑手机成本结构</title>
+        <link>https://www.laoyaoba.com/n/1120570</link>
+        <guid>https://www.laoyaoba.com/n/1120570</guid>
+        <description>存储器价格快速上涨正在挤压智能手机其他组件的成本空间，屏幕规格下调已成为手机厂商的被动选择。UBI Research给出的数据对比显示，旗舰级设备在2025年早期，存储器与显示屏的物料成本还大致相当；但到2026年下半年，存储器成本已占整机约40%，约为屏幕成本的6倍。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>60余项专利打包寻买家，LX Semicon收缩碳化硅战线</title>
+        <link>https://www.laoyaoba.com/n/1120569</link>
+        <guid>https://www.laoyaoba.com/n/1120569</guid>
+        <description>LX Semicon正将其碳化硅（SiC）相关专利整体挂牌转让，涉及功率半导体器件和外延晶圆等60余项专利。此举被视为该公司退出SiC业务的最后阶段。与逐项出售不同，LX Semicon选择将专利组合打包交易，市场预计总价低于10亿韩元，约合人民币530万元。专利覆盖范围包括SiC MOSFET技术中的平面栅极、沟槽栅极、终端结构及栅极焊盘等核心器件结构，也包含外延晶圆相关技术。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>伟测科技20亿元可转债获批，高端芯片测试产能再加码</title>
+        <link>https://www.laoyaoba.com/n/1120562</link>
+        <guid>https://www.laoyaoba.com/n/1120562</guid>
+        <description>上交所官网信息显示，上海伟测半导体科技股份有限公司（简称“伟测科技”）向不特定对象发行可转换公司债券的申请已获审核通过，发行规模上限为20亿元。本次募资拟投向“伟测科技上海总部基地项目”和“伟测科技西南总部及研发测试基地项目”，重点扩大AI算力芯片、存储芯片和高端CIS芯片测试产能。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>内容重点</title>
+        <link>https://www.laoyaoba.com/n/1120558</link>
+        <guid>https://www.laoyaoba.com/n/1120558</guid>
+        <description>**摘要**：韩国 LX Semicon 拟打包出售 60 多项 SiC 专利，标志其退出该业务。公司于 2021 年进入 SiC 领域，后因市场增长放缓等原因战略转变。近年该公司尝试拓展新业务，但成效不佳，财务数据下滑，DDI 业务仍占主导。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>台积电日本 JASM 二厂获准转向 3nm 芯片生产</title>
+        <link>https://www.laoyaoba.com/n/1120551</link>
+        <guid>https://www.laoyaoba.com/n/1120551</guid>
+        <description>台积电控股的日本合资企业 JASM 第二晶圆厂获日本经济产业省批准，将转产 3 纳米芯片。该厂此前规划生产多种工艺芯片，此次获批后将专注 3 纳米工艺生产。台积电在日本熊本的投资建厂计划包括一厂和二厂，一厂已开幕，二厂预计 2027 年内投入运营。日本国内半导体企业在逻辑半导体微型化竞争中失败，依赖海外进口，台积电的投资建厂计划受到业界高度关注。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【产业资本快讯】格雷厄姆·西曼斯加盟OpenAI任网络安全业务线销售负责人</title>
+        <link>https://www.laoyaoba.com/n/1120542</link>
+        <guid>https://www.laoyaoba.com/n/1120542</guid>
+        <description>OpenAI正式聘请原xAI销售团队负责人格雷厄姆·西曼斯，出任公司网络安全业务线销售负责人。西曼斯2025年8月起领导xAI销售团队，曾参与Grok聊天机器人的华尔街推广工作，加入xAI前曾在MongoDB任职八年。</description>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
+    </item>
 
     <item>
         <title>英伟达辟谣RTX5090停产</title>
         <link>https://www.laoyaoba.com/n/1120515</link>
         <guid>https://www.laoyaoba.com/n/1120515</guid>
         <description>英伟达辟谣RTX5090停产</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1120495</link>
         <guid>https://www.laoyaoba.com/n/1120495</guid>
         <description>英飞凌与Wolfspeed签署200 mm碳化硅晶圆供货协议</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1120493</link>
         <guid>https://www.laoyaoba.com/n/1120493</guid>
         <description>应用材料50亿美元建设EPIC中心，加速AI时代半导体创新</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1120492</link>
         <guid>https://www.laoyaoba.com/n/1120492</guid>
         <description>全球电子协会发布IPC-1783-CO2E产品碳足迹数据标准</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1120489</link>
         <guid>https://www.laoyaoba.com/n/1120489</guid>
         <description>亚马逊云科技 CFO 称 AI 基建的繁荣将持续</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
     </item>
 
     <item>
@@ -51,119 +163,7 @@
         <link>https://www.laoyaoba.com/n/1120478</link>
         <guid>https://www.laoyaoba.com/n/1120478</guid>
         <description>AI CPO 加持，全球半导体测试产值将达208亿美元</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>苹果芯片布局曝光：传将跳票高阶 M6</title>
-        <link>https://www.laoyaoba.com/n/1120477</link>
-        <guid>https://www.laoyaoba.com/n/1120477</guid>
-        <description>*苹果计划跳过 M6 Pro、M6 Max 与 M6 Ultra 芯片，集中资源开发 M7 系列，OLED 版 MacBook Pro 将沿用 M5 系列芯片，高阶机种预计 2027 年底升级至 M7 Pro 与 M7 Max。</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>保时捷计划裁员 30%，回归燃油车</title>
-        <link>https://www.laoyaoba.com/n/1120476</link>
-        <guid>https://www.laoyaoba.com/n/1120476</guid>
-        <description>保时捷公布 2035 年经营战略，计划最多裁员 30%以缩减规模，同时将扩充中大型车及跑车回归燃油车，以改善盈利。此前保时捷因中国市场销量下滑、欧盟战略转变等原因，业绩低迷，还曾撤销电动化目标、进行资产减值处理等。</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>iPhone Duo预售次日加价空间快速缩水</title>
-        <link>https://www.laoyaoba.com/n/1120475</link>
-        <guid>https://www.laoyaoba.com/n/1120475</guid>
-        <description>iPhone Duo预售次日加价空间快速缩水</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>特斯拉高管详解Roadster核心技术细节</title>
-        <link>https://www.laoyaoba.com/n/1120474</link>
-        <guid>https://www.laoyaoba.com/n/1120474</guid>
-        <description>特斯拉高管详解Roadster核心技术细节</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【报告】集微咨询发布《2026中国电子化学品行业上市公司研究报告》：光刻胶95%依赖进口、湿化学品国产化率35%，国产替代梯队成形</title>
-        <link>https://www.laoyaoba.com/n/1120473</link>
-        <guid>https://www.laoyaoba.com/n/1120473</guid>
-        <description>1. 集微咨询发布《2026中国电子化学品行业上市公司研究报告》：光刻胶95%依赖进口、湿化学品国产化率35%，国产替代梯队成形；2. 集微咨询发布《2026端侧AI芯片上市公司研究报告》：全球智能设备AI SoC市场进入高增长通道</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>陈立武：美中芯片各有优劣势</title>
-        <link>https://www.laoyaoba.com/n/1120472</link>
-        <guid>https://www.laoyaoba.com/n/1120472</guid>
-        <description>英特尔CEO陈立武接受日媒专访时表示，美国政府虽持有英特尔少数股权，但并未干预公司商业策略与治理；英特尔重组工作已完成8成，他并认为美中芯片差距“没想象大”。</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>台积电熊本3纳米厂获准补助 月产能将为6000片</title>
-        <link>https://www.laoyaoba.com/n/1120471</link>
-        <guid>https://www.laoyaoba.com/n/1120471</guid>
-        <description>日本经济产业省16日批准台积电在九州熊本县第二工厂生产3纳米制程先进半导体的计划，这将是日本国内首度制造3纳米芯片；新计划下3纳米月产能为6000片。</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>魏哲家鼓励多用AI 幽默指出Token消耗越多、需要的芯片越多</title>
-        <link>https://www.laoyaoba.com/n/1120470</link>
-        <guid>https://www.laoyaoba.com/n/1120470</guid>
-        <description>台积电董事长魏哲家出席前台积电技术长胡正明新书发表会，分享自己用ChatGPT写序的经验，直言“果然好用”，并幽默表示多用AI就会用到Token，这对台积电生意有帮助。</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>戴尔CEO警告AI服务器内存短缺将进一步恶化 950亿美元积压订单面临供应挑战</title>
-        <link>https://www.laoyaoba.com/n/1120469</link>
-        <guid>https://www.laoyaoba.com/n/1120469</guid>
-        <description>戴尔科技CEO迈克尔·戴尔警告，HBM与DRAM供应紧张预计将在2027年进一步恶化；公司企业级和AI服务器积压订单已达创纪录的950亿美元，能否转化为收入取决于能否获得足够内存芯片供应。</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【科技】长安汽车一个月内两度调整管理层：朱华荣辞任董事长，赵非接棒、叶沛出任总裁</title>
-        <link>https://www.laoyaoba.com/n/1120460</link>
-        <guid>https://www.laoyaoba.com/n/1120460</guid>
-        <description>1. 长安汽车一个月内两度调整管理层：朱华荣辞任董事长，赵非接棒、叶沛出任总裁；2. 苹果首款折叠屏iPhone Duo预售火爆：官网被挤崩、首批秒罄，黄牛加价最高超7000元；3. 马斯克：正在开发专用议价机器人 每年可为全球节省6万亿美元</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【概念股】银河微电拟6.45亿元发行股份收购恒泰柯100%股权 补足中高压功率器件短板</title>
-        <link>https://www.laoyaoba.com/n/1120459</link>
-        <guid>https://www.laoyaoba.com/n/1120459</guid>
-        <description>1. 银河微电拟6.45亿元发行股份收购恒泰柯100%股权 补足中高压功率器件短板；2. A股上市不足3个月 嘉立创筹划港股IPO；3. 蓝思科技拟2500万美元收购裴美高国际59.7805%股权；4. 海康威视第三季度营收272.22亿元，净利润同比增长36.97%</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【本土】联讯仪器：筹划发行H股股票并在香港联交所上市</title>
-        <link>https://www.laoyaoba.com/n/1120458</link>
-        <guid>https://www.laoyaoba.com/n/1120458</guid>
-        <description>1. 联讯仪器：筹划发行H股股票并在香港联交所上市；2. 大摩：2027年超大规模及新兴云厂商数据中心新增算力同比激增48%；3. 长飞先进：多代SiC MOSFET集中发布，应用能力决定长期格局；4. 兴福电子拟简易程序定增募资不超2.6亿元 加码4万吨电子级磷酸巩固龙头地位</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【头条】长鑫科技、雷诺、奇瑞参投！新芯航途累计融资约50亿元</title>
-        <link>https://www.laoyaoba.com/n/1120457</link>
-        <guid>https://www.laoyaoba.com/n/1120457</guid>
-        <description>1. 长鑫科技、雷诺、奇瑞参投！新芯航途累计融资约50亿元；2. 两笔并购背后的国产半导体设备竞速：从单机之王到平台之战；3. 上海老牌封测厂翔芯集成电路公司宣告破产；4. 长鑫科技：董事长提议回购10亿元-20亿元公司股份；5. 台积电熊本3纳米厂获准补助 月产能将为6000片；6. 戴尔CEO警告AI服务器内存短缺将进一步恶化 950亿美元积压订单面临供应挑战</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>原华为ADS预测负责人杨旭光加盟理想汽车</title>
-        <link>https://www.laoyaoba.com/n/1120455</link>
-        <guid>https://www.laoyaoba.com/n/1120455</guid>
-        <description>据雷锋网消息，原华为ADS预测模块负责人、ADS创始团队核心成员杨旭光近期加入理想汽车，成为该公司引入的又一位智能驾驶领域技术人才。</description>
-        <pubDate>Sun, 18 Oct 2026 09:33:30 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 13:33:04 GMT</pubDate>
     </item>
 
 </channel>
