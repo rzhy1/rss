@@ -4,14 +4,118 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Tue, 20 Oct 2026 23:33:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 02:01:06 GMT</lastBuildDate>
+
+    <item>
+        <title>消息称马斯克Terafab项目正与多家韩国芯片供应商洽谈合作</title>
+        <link>https://www.laoyaoba.com/n/1121939</link>
+        <guid>https://www.laoyaoba.com/n/1121939</guid>
+        <description>马斯克的特斯拉和SpaceX正在与韩国半导体材料、组件和设备供应商进行洽谈，以确保其Terafab芯片制造项目的供应链。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>超级智能登顶：SpaceX上市后首度盈利，AI业务首次反超星链</title>
+        <link>https://www.laoyaoba.com/n/1121933</link>
+        <guid>https://www.laoyaoba.com/n/1121933</guid>
+        <description>SpaceX 首度季度盈利：Q3 营收 145.8 亿美元（+161%）、净利 44 亿；超级智能（SI）营收 75.6 亿、暴涨 830%，首超星链（52.5 亿）居收入榜首，云服务、Cursor 并表与 Grok 驱动。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>韩国10月前20天半导体出口额激增222.5%至275亿美元</title>
+        <link>https://www.laoyaoba.com/n/1121936</link>
+        <guid>https://www.laoyaoba.com/n/1121936</guid>
+        <description>韩国关税厅10月21日数据显示，10月前20日韩国出口额616亿美元，同比增长105.4%；其中半导体出口275亿美元，大增222.5%，占比扩大至44.7%。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>英伟达斩获Modal订单，Vera CPU撬动数据中心算力格局</title>
+        <link>https://www.laoyaoba.com/n/1121934</link>
+        <guid>https://www.laoyaoba.com/n/1121934</guid>
+        <description>日前AI初创公司Modal宣布采用英伟达Vera处理器运行AI推理，改变以前完全依赖英特尔和AMD芯片的策略。英伟达预计本财年Vera销售额至少200亿美元。随着AI从训练转向推理，CPU竞争逻辑由通用性能转向场景优化，算力供给正走向多元与精细化。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>FP4成端侧AI关键选择，安谋科技为何能抢占低比特浮点算力先机？</title>
+        <link>https://www.laoyaoba.com/n/1120799</link>
+        <guid>https://www.laoyaoba.com/n/1120799</guid>
+        <description>FP4作为新一代低比特浮点量化范式，凭借极致压缩、高保真、训练友好等优势，正在成为推动端侧AI落地的技术方向。原生支持FP4也正从AI芯片的可选特性走向产业标配。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>重仅1克 我国科学家研制世界最轻无线介观显微镜</title>
+        <link>https://www.laoyaoba.com/n/1121921</link>
+        <guid>https://www.laoyaoba.com/n/1121921</guid>
+        <description>如何在自然、群体行为中清楚“看到”大脑神经元对复杂行为的调控，是理解智能的重要基础。我国科学家研制出目前世界最轻无线介观显微镜，重量仅1克，可在6毫米视场内以单细胞分辨率记录小鼠大脑皮层的神经活动，单只小鼠可同时记录8500多个神经元，是现有同类型设备的25倍。该成果19日在线发表于《自然》。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>踏歌智行获得近3亿元融资，系矿山无人驾驶方案提供商</title>
+        <link>https://www.laoyaoba.com/n/1121920</link>
+        <guid>https://www.laoyaoba.com/n/1121920</guid>
+        <description>矿山无人驾驶方案服务提供商与运输运营商踏歌智行完成近3亿元新一轮融资，其推出的车-地-云协同智慧矿山无人运输系统可适配多品类矿用卡车，支持新车型生产适配与在用车无人化升级改造。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>工业和信息化部：推动人工智能深度赋能新型工业化</title>
+        <link>https://www.laoyaoba.com/n/1121919</link>
+        <guid>https://www.laoyaoba.com/n/1121919</guid>
+        <description>10月19日，国务院新闻办公室举行新闻发布会，介绍加快推进科技兴商有关情况，并答记者问。工业和信息化部科技司司长魏巍介绍，坚持产业发展和应用促进两手抓，推动人工智能深度赋能新型工业化。根据测算，2025年我国人工智能核心产业规模超1.2万亿元。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>李想谈车企自研电池：行业需要两条腿走路，单脚跳走不远</title>
+        <link>https://www.laoyaoba.com/n/1121918</link>
+        <guid>https://www.laoyaoba.com/n/1121918</guid>
+        <description>10月19日，理想汽车CEO李想在微博发文，阐述汽车主机厂深入研究电池核心技术的必要性。他表示，这“有利于行业发展和消费者利益”，并以个人电脑行业为例指出，一个超大规模产业需要“两条腿交替前进”——一条是深入理解产品的专业供应商，一条是深入研究核心技术的整机厂商。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>商务部等9部门关于加快推进科技兴商的意见</title>
+        <link>https://www.laoyaoba.com/n/1121917</link>
+        <guid>https://www.laoyaoba.com/n/1121917</guid>
+        <description>为深入贯彻党中央、国务院关于因地制宜发展新质生产力、建设现代化产业体系和扩大内需战略的决策部署，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，更好发挥科技对商贸创新发展的引领支撑作用，加快建设强大国内市场，提出如下意见。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>OpenAI“窃听”案新进展：被捕工程师否认潜逃、寻求保释</title>
+        <link>https://www.laoyaoba.com/n/1121916</link>
+        <guid>https://www.laoyaoba.com/n/1121916</guid>
+        <description>北京时间10月17日，据彭博社报道，OpenAI窃听案主角、被捕工程师阿卜杜勒拉赫曼·阿尔福赞(Abdulrahman Alfozan)请求解除羁押，并否认自己购买返回祖国沙特的单程机票是为了逃避美国的司法追究。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>苹果回应iPhone Duo发货延期：需求异常火爆 继续接受在线订单</title>
+        <link>https://www.laoyaoba.com/n/1121915</link>
+        <guid>https://www.laoyaoba.com/n/1121915</guid>
+        <description>北京时间10月17日，据彭博社报道，苹果公司周五表示，新款iPhone Duo的需求“异常火爆”。周五，这款可折叠手机在预购开启仅仅几分钟后，发货预计时间就已推迟至明年1月底。</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>自动驾驶公司新石器完成近4亿美元新一轮融资，累积融资额已破百亿</title>
+        <link>https://www.laoyaoba.com/n/1121914</link>
+        <guid>https://www.laoyaoba.com/n/1121914</guid>
+        <description>10月20日，自动驾驶科技公司新石器（Neolix）宣布正式完成E轮近4亿美元融资。本轮融资由博裕投资与某国家级基金联合领投，阿里巴巴AEF NextGen香港基金、Monolith砺思资本、纪源资本、淡马锡旗下Vertex Growth、华映资本、广汽资本、金鼎资本、朗玛峰创投、正大机器人、领航新界、高鹄资本等机构参与投资，磊石资本（Stone Venture）、信宸资本、高成投资、云启资本、软银亚洲、亦庄国投、浙创投资、惠新基金、鼎晖VGC、朝希资本、耀途资本、善</description>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+    </item>
 
     <item>
         <title>【裁员】年度考核后动刀!高通全球裁员11月起通知员工</title>
         <link>https://www.laoyaoba.com/n/1121913</link>
         <guid>https://www.laoyaoba.com/n/1121913</guid>
         <description>年度考核后动刀!高通全球裁员11月起通知员工</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1121907</link>
         <guid>https://www.laoyaoba.com/n/1121907</guid>
         <description>台积电（2330）高雄厂区工地今（20）日傍晚发生工安意外，4名施工人员送医救治。台积电晚间表示，事故发生于钢构作业施工过程，相关工程已自主停工，工地安全团队正于现场配合相关单位厘清调查事故原因。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1121906</link>
         <guid>https://www.laoyaoba.com/n/1121906</guid>
         <description>高通( QCOM-US )将在全球展开以绩效为导向的裁员，预计11月起通知受影响员工。在消费电子需求疲弱、智能手机芯片业务承压之际，这家芯片大厂正调整人力配置，并加速拓展AI资料中心等非手机业务。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1121905</link>
         <guid>https://www.laoyaoba.com/n/1121905</guid>
         <description>字节跳动、阿里巴巴( BABA-US )( 09988-HK )与腾讯(TCEHY-US)( 00700-HK )已合计订购逾300万张RTX PRO 5500显示卡，按报价计算总值超过350亿美元。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1121904</link>
         <guid>https://www.laoyaoba.com/n/1121904</guid>
         <description>即使传出中国科技巨头向英伟达( NVDA-US ) 下单逾350亿美元，英伟达股价仍未明显走高。庞大需求虽凸显中国业者对其产品的依赖，但产能不足让订单能否转化为营收存在变数，市场对人工智能(AI) 支出与融资负担的疑虑也尚未消退。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1117905</link>
         <guid>https://www.laoyaoba.com/n/1117905</guid>
         <description>在AI安全争议持续发酵之际，微软(MSFT-US) 总裁史密斯（Brad Smith）直言AI受到的监管还不如一盒牛奶，呼吁为AI装上「紧急刹车」，并看好英国牵头制定规则。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
     </item>
 
     <item>
@@ -59,111 +163,7 @@
         <link>https://www.laoyaoba.com/n/1117245</link>
         <guid>https://www.laoyaoba.com/n/1117245</guid>
         <description>东山精密将于10月28日港交所上市 全球发售逾1.13亿股H股</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【逆袭】8英寸晶圆逆袭，涨价潮或延续至2027年!</title>
-        <link>https://www.laoyaoba.com/n/1121276</link>
-        <guid>https://www.laoyaoba.com/n/1121276</guid>
-        <description>德媒最新报道指出，大众计划在2030年之前，冻结其全球60万名员工中大部分人的薪资。大众发言人则表示，不对这类报道置评，即将展开的新一轮谈判才是讨论内部运营协议的合适场合。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【增长】算力需求增长，催热高速接口IP</title>
-        <link>https://www.laoyaoba.com/n/1120815</link>
-        <guid>https://www.laoyaoba.com/n/1120815</guid>
-        <description>算力需求增长，催热高速接口IP</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【对垒】泛林40%对垒屹唐33.7%，干法去胶双寡头格局成形</title>
-        <link>https://www.laoyaoba.com/n/1120786</link>
-        <guid>https://www.laoyaoba.com/n/1120786</guid>
-        <description>集微咨询发布《2026年半导体去胶设备行业研究报告》</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>天岳先进完成人事调整，聘任王俊国为董事会秘书、副总经理，高超为副总经理</title>
-        <link>https://www.laoyaoba.com/n/1121908</link>
-        <guid>https://www.laoyaoba.com/n/1121908</guid>
-        <description>2026年10月21日，天岳先进发布关于聘任副总经理、变更董事会秘书与证券事务代表的公告。钟文庆因内部工作调整辞任董事会秘书，公司聘任王俊国为董事会秘书及分管非经营性业务的副总经理，聘任高超为副总经理，聘任赵鹏程为证券事务代表。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>天岳先进2026年Q3营收同比增102.89%，前三季度归母净利润同比增2330.24%</title>
-        <link>https://www.laoyaoba.com/n/1121909</link>
-        <guid>https://www.laoyaoba.com/n/1121909</guid>
-        <description>2026年10月21日，天岳先进发布2026年第三季度报告。报告显示，第三季度公司实现营收6.46亿元，同比增长102.89%；前三季度实现营收15.59亿元，同比增长40.22%，归母净利润2721.62万元，同比增长2330.24%，8英寸产品收入占比超50%。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>ST银江涉及公司决议撤销诉讼，因原告未补交受理费按撤诉处理</title>
-        <link>https://www.laoyaoba.com/n/1121910</link>
-        <guid>https://www.laoyaoba.com/n/1121910</guid>
-        <description>2026年10月20日，ST银江发布关于收到民事裁定书暨诉讼进展的公告，提及此前刘辉诉请撤销公司2025年第六次临时股东会决议一案，因原告无正当理由未按期足额补交案件受理费，法院裁定按自动撤诉处理。截至公告披露日，公司及控股子公司无应披露未披露的重大诉讼及仲裁事项。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>宁德时代前三季度营收4421.37亿元同比增56.19%，拟申请注册港交所联讯通平台</title>
-        <link>https://www.laoyaoba.com/n/1121911</link>
-        <guid>https://www.laoyaoba.com/n/1121911</guid>
-        <description>2026年10月21日，宁德时代披露第四届董事会第二十一次会议决议，审议通过2026年第三季度报告及申请注册香港交易所联讯通平台相关议案，披露前三季度营收4421.37亿元、净利润645.30亿元等核心业绩数据。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>众合科技提名冯贵年为第九届董事会独立董事候选人，符合任职资格及独立性要求</title>
-        <link>https://www.laoyaoba.com/n/1121912</link>
-        <guid>https://www.laoyaoba.com/n/1121912</guid>
-        <description>2026年10月21日，众合科技发布《独立董事提名人声明与承诺》，提名冯贵年为第九届董事会独立董事候选人，经核查其符合独立董事任职资格及独立性要求，将参加后续独立董事资格培训。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>英伟达加大对欧洲AI领域投资，黄仁勋计划扶持4家德国初创企业</title>
-        <link>https://www.laoyaoba.com/n/1121809</link>
-        <guid>https://www.laoyaoba.com/n/1121809</guid>
-        <description>此次投资德国是英伟达此前承诺总额近100亿美元欧洲投资计划的一部分。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>前三季度深圳集成电路等人工智能相关零部件进出口规模居全国首位</title>
-        <link>https://www.laoyaoba.com/n/1121805</link>
-        <guid>https://www.laoyaoba.com/n/1121805</guid>
-        <description>贡献全市超六成的外贸增量。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>八大旗舰手机混战，荣耀WIN2凭什么再抢一局？</title>
-        <link>https://www.laoyaoba.com/n/1121763</link>
-        <guid>https://www.laoyaoba.com/n/1121763</guid>
-        <description>八大旗舰手机混战，荣耀WIN2凭什么再抢一局？</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>宏芯宇通过港交所聆讯，拟募资用于存储产品开发及主控芯片研发</title>
-        <link>https://www.laoyaoba.com/n/1121760</link>
-        <guid>https://www.laoyaoba.com/n/1121760</guid>
-        <description>10月20日，港交所披露，深圳宏芯宇电子股份有限公司已通过聆讯。根据计划，本次IPO募资净额预计用于存储产品的开发及商业化，预计用于主控芯片的研发及迭代，预计用于提升内部晶圆检测及主控芯片验证、确认及质量管理测试能力，预计用于运营资金及一般公司用途。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>苹果就iPhone Duo关键材料及组件同美企签署协议</title>
-        <link>https://www.laoyaoba.com/n/1121753</link>
-        <guid>https://www.laoyaoba.com/n/1121753</guid>
-        <description>这些企业将为iPhone Duo和iPhone 18 Pro提供关键材料及组件。</description>
-        <pubDate>Tue, 20 Oct 2026 23:33:59 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
     </item>
 
 </channel>
