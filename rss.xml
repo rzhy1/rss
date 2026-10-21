@@ -4,166 +4,166 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Wed, 21 Oct 2026 02:01:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 07:34:12 GMT</lastBuildDate>
 
     <item>
-        <title>消息称马斯克Terafab项目正与多家韩国芯片供应商洽谈合作</title>
-        <link>https://www.laoyaoba.com/n/1121939</link>
-        <guid>https://www.laoyaoba.com/n/1121939</guid>
-        <description>马斯克的特斯拉和SpaceX正在与韩国半导体材料、组件和设备供应商进行洽谈，以确保其Terafab芯片制造项目的供应链。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>奕斯伟计算与SiFive签署黄金合作伙伴联盟MOU 深化RISC-V +AI技术与产业生态合作</title>
+        <link>https://www.laoyaoba.com/n/1122095</link>
+        <guid>https://www.laoyaoba.com/n/1122095</guid>
+        <description>近日，奕斯伟计算与SiFive正式签署黄金合作伙伴联盟备忘录。本次合作是 RISC-V 产业发展进程中的重要里程碑，实现了产业链两大核心领导者的强强联合。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>超级智能登顶：SpaceX上市后首度盈利，AI业务首次反超星链</title>
-        <link>https://www.laoyaoba.com/n/1121933</link>
-        <guid>https://www.laoyaoba.com/n/1121933</guid>
-        <description>SpaceX 首度季度盈利：Q3 营收 145.8 亿美元（+161%）、净利 44 亿；超级智能（SI）营收 75.6 亿、暴涨 830%，首超星链（52.5 亿）居收入榜首，云服务、Cursor 并表与 Grok 驱动。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>Mistral发布Voxtral 3语音家族：以成本优势与数据主权切入实时语音Agent赛道</title>
+        <link>https://www.laoyaoba.com/n/1122088</link>
+        <guid>https://www.laoyaoba.com/n/1122088</guid>
+        <description>2026年10月20日，法国Mistral AI发布Voxtral 3语音模型家族及基于LiveKit的实时语音Agent SDK，覆盖50+语言转写与35+语言合成，主打亚秒级延迟、低成本与本地部署数据主权，直接对标ElevenLabs。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>韩国10月前20天半导体出口额激增222.5%至275亿美元</title>
-        <link>https://www.laoyaoba.com/n/1121936</link>
-        <guid>https://www.laoyaoba.com/n/1121936</guid>
-        <description>韩国关税厅10月21日数据显示，10月前20日韩国出口额616亿美元，同比增长105.4%；其中半导体出口275亿美元，大增222.5%，占比扩大至44.7%。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>【行业观察】｜越落后，越紧缺：AI 把稀缺性挤回 8 英寸</title>
+        <link>https://www.laoyaoba.com/n/1122086</link>
+        <guid>https://www.laoyaoba.com/n/1122086</guid>
+        <description>在一个以先进制程定价的行业里，最近的价格走势有点反常。90nm的代工报价本季涨了4%，机构估2027年一季度还要再涨8%，涨幅在所有成熟节点里排第一。28nm和40nm这两个数字没动。一年前，行业讨论成熟制程时，焦点还在后两个节点上。需求在往最老的地方挤，最老的地方却在拆产能。2026年下半年半导体产业链的结构，大概要从这个矛盾看起。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>英伟达斩获Modal订单，Vera CPU撬动数据中心算力格局</title>
-        <link>https://www.laoyaoba.com/n/1121934</link>
-        <guid>https://www.laoyaoba.com/n/1121934</guid>
-        <description>日前AI初创公司Modal宣布采用英伟达Vera处理器运行AI推理，改变以前完全依赖英特尔和AMD芯片的策略。英伟达预计本财年Vera销售额至少200亿美元。随着AI从训练转向推理，CPU竞争逻辑由通用性能转向场景优化，算力供给正走向多元与精细化。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>谷歌×Meta开源TorchTPU：联手亚马逊削弱英伟达CUDA生态绑定</title>
+        <link>https://www.laoyaoba.com/n/1122084</link>
+        <guid>https://www.laoyaoba.com/n/1122084</guid>
+        <description>谷歌联合Meta开源TorchTPU，TPU原生运行PyTorch，改一行设备名可迁移；亚马逊同步开源TorchNeuron并推动PyTorch芯片解耦。两云巨头合围CUDA，AI算力进入生态决战期。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>FP4成端侧AI关键选择，安谋科技为何能抢占低比特浮点算力先机？</title>
-        <link>https://www.laoyaoba.com/n/1120799</link>
-        <guid>https://www.laoyaoba.com/n/1120799</guid>
-        <description>FP4作为新一代低比特浮点量化范式，凭借极致压缩、高保真、训练友好等优势，正在成为推动端侧AI落地的技术方向。原生支持FP4也正从AI芯片的可选特性走向产业标配。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>从星舰到超级晶圆厂：马斯克要用造火箭的逻辑颠覆芯片业</title>
+        <link>https://www.laoyaoba.com/n/1122082</link>
+        <guid>https://www.laoyaoba.com/n/1122082</guid>
+        <description>​马斯克在SpaceX电话会上首次给出Terafab具体节点：2027年5至6月产出首颗SRAM测试芯片，2028年第三季度量产，自认“非常激进”。本文解析其火箭式造芯逻辑、设备与良率两大瓶颈，及英特尔合作、台积电出局背后的格局影响。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>重仅1克 我国科学家研制世界最轻无线介观显微镜</title>
-        <link>https://www.laoyaoba.com/n/1121921</link>
-        <guid>https://www.laoyaoba.com/n/1121921</guid>
-        <description>如何在自然、群体行为中清楚“看到”大脑神经元对复杂行为的调控，是理解智能的重要基础。我国科学家研制出目前世界最轻无线介观显微镜，重量仅1克，可在6毫米视场内以单细胞分辨率记录小鼠大脑皮层的神经活动，单只小鼠可同时记录8500多个神经元，是现有同类型设备的25倍。该成果19日在线发表于《自然》。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>【老王看产业】AI泡沫的压力测试—应用渗透、资本回报与半导体产业链的影响</title>
+        <link>https://www.laoyaoba.com/n/1121318</link>
+        <guid>https://www.laoyaoba.com/n/1121318</guid>
+        <description>AI产业正面临资本回报压力，云大厂烧钱模式下新兴云厂商抗风险能力弱；应用端尚未真正铺开，算力投入可能过剩；半导体最危险窗口在2027下半年至2028年，存储芯片受冲击最大；国内智算中心闲置导致国产GPU企业慢性失血；未来机会在于攻克光刻机、HBM等硬技术，以真实采购检验国产货。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>踏歌智行获得近3亿元融资，系矿山无人驾驶方案提供商</title>
-        <link>https://www.laoyaoba.com/n/1121920</link>
-        <guid>https://www.laoyaoba.com/n/1121920</guid>
-        <description>矿山无人驾驶方案服务提供商与运输运营商踏歌智行完成近3亿元新一轮融资，其推出的车-地-云协同智慧矿山无人运输系统可适配多品类矿用卡车，支持新车型生产适配与在用车无人化升级改造。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>机构：2026年全球OLED出货量将达到610万片，大增79%</title>
+        <link>https://www.laoyaoba.com/n/1122081</link>
+        <guid>https://www.laoyaoba.com/n/1122081</guid>
+        <description>市调机构Omdia在报告中指出，预计2026年全年全球OLED出货量将达到610万片，较2025年增长79%。预计华硕仍将是最大的采购商，占全年全球出货量的23%，其次是微星、三星和冠捷。LG 电子、戴尔、宏碁和联想位列前八。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>工业和信息化部：推动人工智能深度赋能新型工业化</title>
-        <link>https://www.laoyaoba.com/n/1121919</link>
-        <guid>https://www.laoyaoba.com/n/1121919</guid>
-        <description>10月19日，国务院新闻办公室举行新闻发布会，介绍加快推进科技兴商有关情况，并答记者问。工业和信息化部科技司司长魏巍介绍，坚持产业发展和应用促进两手抓，推动人工智能深度赋能新型工业化。根据测算，2025年我国人工智能核心产业规模超1.2万亿元。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>美国首次以供应链安全法律工具系统性排除DeepSeek：102个联邦文职机构禁采禁用，商务部、外交部同日强硬回应</title>
+        <link>https://www.laoyaoba.com/n/1122078</link>
+        <guid>https://www.laoyaoba.com/n/1122078</guid>
+        <description>美土安全部依《2018年联邦采购供应链安全法》签发命令，102个联邦机构禁采并须移除DeepSeek及第三方关联产品。商务部强烈不满、坚决反对，外交部反对泛化国家安全概念，中方将坚决维护企业合法权益。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>李想谈车企自研电池：行业需要两条腿走路，单脚跳走不远</title>
-        <link>https://www.laoyaoba.com/n/1121918</link>
-        <guid>https://www.laoyaoba.com/n/1121918</guid>
-        <description>10月19日，理想汽车CEO李想在微博发文，阐述汽车主机厂深入研究电池核心技术的必要性。他表示，这“有利于行业发展和消费者利益”，并以个人电脑行业为例指出，一个超大规模产业需要“两条腿交替前进”——一条是深入理解产品的专业供应商，一条是深入研究核心技术的整机厂商。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>为旌科技端侧AI芯片应用之网络摄像机（IPC）将亮相北京安博会</title>
+        <link>https://www.laoyaoba.com/n/1122077</link>
+        <guid>https://www.laoyaoba.com/n/1122077</guid>
+        <description>为旌科技专注为物理AI时代的全场景提供国产化算力底座，加速多场景智能体的规模化落地，全面开启物理世界的端侧智能化新纪元。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>商务部等9部门关于加快推进科技兴商的意见</title>
-        <link>https://www.laoyaoba.com/n/1121917</link>
-        <guid>https://www.laoyaoba.com/n/1121917</guid>
-        <description>为深入贯彻党中央、国务院关于因地制宜发展新质生产力、建设现代化产业体系和扩大内需战略的决策部署，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，更好发挥科技对商贸创新发展的引领支撑作用，加快建设强大国内市场，提出如下意见。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>第五届GMIF2026创新峰会——联想：重新定义AI基础设施</title>
+        <link>https://www.laoyaoba.com/n/1122076</link>
+        <guid>https://www.laoyaoba.com/n/1122076</guid>
+        <description>第五届GMIF2026创新峰会——联想：重新定义AI基础设施</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>OpenAI“窃听”案新进展：被捕工程师否认潜逃、寻求保释</title>
-        <link>https://www.laoyaoba.com/n/1121916</link>
-        <guid>https://www.laoyaoba.com/n/1121916</guid>
-        <description>北京时间10月17日，据彭博社报道，OpenAI窃听案主角、被捕工程师阿卜杜勒拉赫曼·阿尔福赞(Abdulrahman Alfozan)请求解除羁押，并否认自己购买返回祖国沙特的单程机票是为了逃避美国的司法追究。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>拆解RTX PRO 5500抢购潮：350亿美元订单背后的合规芯片供给链</title>
+        <link>https://www.laoyaoba.com/n/1122075</link>
+        <guid>https://www.laoyaoba.com/n/1122075</guid>
+        <description>路透独家：字节跳动、阿里巴巴、腾讯合计订购超300万块英伟达RTX PRO 5500工作站GPU，标价总值超350亿美元，主用于AI推理。2027年全球产量至多300万块，中国订单超600万块，英伟达无法保证履约，客户或仅获5%至10%。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>苹果回应iPhone Duo发货延期：需求异常火爆 继续接受在线订单</title>
-        <link>https://www.laoyaoba.com/n/1121915</link>
-        <guid>https://www.laoyaoba.com/n/1121915</guid>
-        <description>北京时间10月17日，据彭博社报道，苹果公司周五表示，新款iPhone Duo的需求“异常火爆”。周五，这款可折叠手机在预购开启仅仅几分钟后，发货预计时间就已推迟至明年1月底。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>集微咨询发布《2026年电源管理芯片行业研究报告》：AI重构供电架构，国产芯片驶入量价齐升新周期</title>
+        <link>https://www.laoyaoba.com/n/1118733</link>
+        <guid>https://www.laoyaoba.com/n/1118733</guid>
+        <description>近日，集微咨询（JW Insights）正式发布《2026年电源管理芯片行业研究报告》（以下简称《报告》）。《报告》围绕行业概述、市场概况、竞争格局及国内重点公司、产业链分析、驱动因素与发展趋势五大板块展开，完整呈现电源管理芯片的分类体系、市场容量与厂商梯队，并对AI算力引发的供电架构变革及芯片价值量空间进行量化测算，助力产业链各方在新一轮景气周期中找准布局节奏。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>自动驾驶公司新石器完成近4亿美元新一轮融资，累积融资额已破百亿</title>
-        <link>https://www.laoyaoba.com/n/1121914</link>
-        <guid>https://www.laoyaoba.com/n/1121914</guid>
-        <description>10月20日，自动驾驶科技公司新石器（Neolix）宣布正式完成E轮近4亿美元融资。本轮融资由博裕投资与某国家级基金联合领投，阿里巴巴AEF NextGen香港基金、Monolith砺思资本、纪源资本、淡马锡旗下Vertex Growth、华映资本、广汽资本、金鼎资本、朗玛峰创投、正大机器人、领航新界、高鹄资本等机构参与投资，磊石资本（Stone Venture）、信宸资本、高成投资、云启资本、软银亚洲、亦庄国投、浙创投资、惠新基金、鼎晖VGC、朝希资本、耀途资本、善</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>集微咨询发布《2026中国半导体硅片行业上市公司研究报告》：三年多来首次全线涨价，驶入“量价齐升”周期</title>
+        <link>https://www.laoyaoba.com/n/1118719</link>
+        <guid>https://www.laoyaoba.com/n/1118719</guid>
+        <description>近日，集微咨询（JW Insights）正式发布《2026中国半导体硅片行业上市公司研究报告》（简称《报告》），系统覆盖了沪硅产业、西安奕材、TCL中环等7家A股硅片上市公司的情况。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>【裁员】年度考核后动刀!高通全球裁员11月起通知员工</title>
-        <link>https://www.laoyaoba.com/n/1121913</link>
-        <guid>https://www.laoyaoba.com/n/1121913</guid>
-        <description>年度考核后动刀!高通全球裁员11月起通知员工</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>WOV.ai获数百万美元种子轮融资，系空间化AI互动内容平台</title>
+        <link>https://www.laoyaoba.com/n/1122072</link>
+        <guid>https://www.laoyaoba.com/n/1122072</guid>
+        <description>近日，空间化AI互动内容平台WOV.ai获得数百万美元种子轮融资，由BBX Ventures投资。WOV.ai成立于2026年，核心业务是通过沉浸式、交互式的3D世界将知识产权变为现实。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>台积电高雄厂发生工安意外4人送医、相关工程自主停工</title>
-        <link>https://www.laoyaoba.com/n/1121907</link>
-        <guid>https://www.laoyaoba.com/n/1121907</guid>
-        <description>台积电（2330）高雄厂区工地今（20）日傍晚发生工安意外，4名施工人员送医救治。台积电晚间表示，事故发生于钢构作业施工过程，相关工程已自主停工，工地安全团队正于现场配合相关单位厘清调查事故原因。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>Meow获得3160万美元B轮融资，系企业加密解决方案提供商</title>
+        <link>https://www.laoyaoba.com/n/1122070</link>
+        <guid>https://www.laoyaoba.com/n/1122070</guid>
+        <description>近日，企业加密解决方案提供商Meow完成3160万美元B轮融资，本轮由Stifel领投，Archetype VC参投。Meow专注开发合规优先的企业加密解决方案，为企业财务主管提供从新资产类别获取收益的受监管方式。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>年度考核后动刀！高通全球裁员11月起通知员工</title>
-        <link>https://www.laoyaoba.com/n/1121906</link>
-        <guid>https://www.laoyaoba.com/n/1121906</guid>
-        <description>高通( QCOM-US )将在全球展开以绩效为导向的裁员，预计11月起通知受影响员工。在消费电子需求疲弱、智能手机芯片业务承压之际，这家芯片大厂正调整人力配置，并加速拓展AI资料中心等非手机业务。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>DeepSeek开源“推理发动机”DeepInfer：155万亿Token/天的吞吐秘密（兼容英伟达SM100与华为昇腾950，推理降本从“模型”走向“系统工程”）</title>
+        <link>https://www.laoyaoba.com/n/1122066</link>
+        <guid>https://www.laoyaoba.com/n/1122066</guid>
+        <description>DeepSeek 于 10 月 20 日全面开源推理框架 DeepInfer（Apache 2.0）与 Token 编解码组件 deepseek-recipe（MIT）。该框架支撑 V4.1 Flash 单集群日吞吐 155 万亿 Token、每卡每小时收入 38 美元（谷价），整合 PD 分离、KVCache 复用与 DSpark 推测解码，兼容英伟达 SM100 与华为昇腾 950。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>降规版也抢翻！中国科技三巨头传下单逾300万张英伟达新卡供货仍存变数</title>
-        <link>https://www.laoyaoba.com/n/1121905</link>
-        <guid>https://www.laoyaoba.com/n/1121905</guid>
-        <description>字节跳动、阿里巴巴( BABA-US )( 09988-HK )与腾讯(TCEHY-US)( 00700-HK )已合计订购逾300万张RTX PRO 5500显示卡，按报价计算总值超过350亿美元。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>Blackwall获得1亿美元C轮融资，系Web流量管理与安全平台厂商</title>
+        <link>https://www.laoyaoba.com/n/1122067</link>
+        <guid>https://www.laoyaoba.com/n/1122067</guid>
+        <description>近日，Web流量管理与安全平台厂商Blackwall获得1亿美元C轮融资，本轮由AVP领投，Tera Ventures、MMC Ventures、Dawn Capital参投，资金将用于扩展其面向托管市场的全球网络流量管理平台，公司当前估值达22亿美元。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>传中企下订逾350亿美元芯片大单 英伟达股价仍难振作</title>
-        <link>https://www.laoyaoba.com/n/1121904</link>
-        <guid>https://www.laoyaoba.com/n/1121904</guid>
-        <description>即使传出中国科技巨头向英伟达( NVDA-US ) 下单逾350亿美元，英伟达股价仍未明显走高。庞大需求虽凸显中国业者对其产品的依赖，但产能不足让订单能否转化为营收存在变数，市场对人工智能(AI) 支出与融资负担的疑虑也尚未消退。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>亚马逊为何此刻加码德国：160亿欧元投资的三层解读</title>
+        <link>https://www.laoyaoba.com/n/1122064</link>
+        <guid>https://www.laoyaoba.com/n/1122064</guid>
+        <description>亚马逊宣布2027年在德投资超160亿欧元，48亿欧元扩建AWS法兰克福区域云与AI基础设施为最大单项。本文从事件、动因与影响三层拆解：AI算力竞赛与欧盟数据主权监管共同构成投资窗口，主权云、DMA守门人认定与就业效应值得跟踪。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>【入选】云天半导体董事长于大全入选2026全球前2%顶尖科学家榜单</title>
-        <link>https://www.laoyaoba.com/n/1117905</link>
-        <guid>https://www.laoyaoba.com/n/1117905</guid>
-        <description>在AI安全争议持续发酵之际，微软(MSFT-US) 总裁史密斯（Brad Smith）直言AI受到的监管还不如一盒牛奶，呼吁为AI装上「紧急刹车」，并看好英国牵头制定规则。</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>10月19日，芯联集成(688469.SH)发布2026年三季度报，营收77.58亿元同比增长43.09%，毛利率创历史新高，扣非归母净利润已连续两个季度实现转正。</title>
+        <link>https://www.laoyaoba.com/n/1122063</link>
+        <guid>https://www.laoyaoba.com/n/1122063</guid>
+        <description>10月19日，芯联集成(688469.SH)发布2026年三季度报，营收77.58亿元同比增长43.09%，毛利率创历史新高，扣非归母净利润已连续两个季度实现转正。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
     <item>
-        <title>【发售】东山精密将于10月28日港交所上市 全球发售逾1.13亿股H股</title>
-        <link>https://www.laoyaoba.com/n/1117245</link>
-        <guid>https://www.laoyaoba.com/n/1117245</guid>
-        <description>东山精密将于10月28日港交所上市 全球发售逾1.13亿股H股</description>
-        <pubDate>Wed, 21 Oct 2026 02:01:06 GMT</pubDate>
+        <title>总投资5.58 亿元，喜悦半导体功率半导体项目签约落地呼和浩特</title>
+        <link>https://www.laoyaoba.com/n/1122060</link>
+        <guid>https://www.laoyaoba.com/n/1122060</guid>
+        <description>10 月 19 日，呼和浩特经济技术开发区与喜悦半导体（北京）有限公司签署超高压功率半导体器件生产项目合作协议，项目总投资 5.58 亿元。</description>
+        <pubDate>Wed, 21 Oct 2026 07:34:12 GMT</pubDate>
     </item>
 
 </channel>
