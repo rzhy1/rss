@@ -7,8 +7,12 @@ from xml.sax.saxutils import escape
 URL = "https://www.laoyaoba.com/jwnews"
 MAX_ITEMS = 30
 
+# 1. 完善请求头，模拟真实浏览器
 headers = {
-    "User-Agent": "Mozilla/5.0"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+    "Connection": "keep-alive"
 }
 
 # XML 1.0 非法控制字符（保留 \t \n \r），以及 U+FFFE / U+FFFF
@@ -30,8 +34,19 @@ def xml_text(s):
 
 def fetch_html():
     req = urllib.request.Request(URL, headers=headers)
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read().decode("utf-8")
+    
+    # 2. 增加重试机制和延长超时时间
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            # 超时时间延长到 30 秒
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return r.read().decode("utf-8", errors="ignore")
+        except Exception as e:
+            print(f"请求失败 (尝试 {attempt + 1}/{max_retries}): {e}")
+            if attempt == max_retries - 1:
+                raise RuntimeError("获取网页失败，已达到最大重试次数") from e
+            time.sleep(5)  # 每次失败后等待 5 秒再试
 
 
 def parse_news(html):
