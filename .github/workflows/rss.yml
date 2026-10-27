@@ -1,7 +1,6 @@
 name: Generate RSS
 
 on:
-  schedule:
   workflow_dispatch: 
 
 jobs:
