@@ -1,6 +1,7 @@
 import urllib.request
 import re
 import time
+from html import unescape
 from xml.sax.saxutils import escape
 
 URL = "https://www.laoyaoba.com/jwnews"
@@ -10,23 +11,36 @@ headers = {
     "User-Agent": "Mozilla/5.0"
 }
 
+# XML 1.0 非法控制字符（保留 \t \n \r），以及 U+FFFE / U+FFFF
+INVALID_XML_CHARS = re.compile(r'[\x00-\x08\x0B\x0C\x0E-\x1F\uFFFE\uFFFF]')
+
+
+def clean_text(s):
+    """去 HTML 标签 -> 解码实体 -> 删除 XML 非法控制字符 -> strip"""
+    s = re.sub(r'<[^>]+>', '', s)
+    s = unescape(s)
+    s = INVALID_XML_CHARS.sub('', s)
+    return s.strip()
+
+
+def xml_text(s):
+    """写入 XML 前：先删非法控制字符，再做 XML 转义"""
+    return escape(INVALID_XML_CHARS.sub('', str(s)))
+
+
 def fetch_html():
-
     req = urllib.request.Request(URL, headers=headers)
-
     with urllib.request.urlopen(req, timeout=20) as r:
         return r.read().decode("utf-8")
 
 
 def parse_news(html):
-
     cards = re.findall(r'<li[^>]*class="card"[^>]*>.*?</li>', html, re.S)
 
     items = []
     seen = set()
 
     for c in cards:
-
         id_match = re.search(r'data-id="(\d+)"', c)
         title_match = re.search(r'class="ell_two p_two title">\s*(.*?)\s*</p>', c, re.S)
         intro_match = re.search(r'class="intro ell_two">\s*(.*?)\s*</p>', c, re.S)
@@ -36,21 +50,19 @@ def parse_news(html):
             continue
 
         nid = id_match.group(1)
-
         if nid in seen:
             continue
         seen.add(nid)
 
-        title = re.sub("<.*?>", "", title_match.group(1)).strip()
+        title = clean_text(title_match.group(1))
 
         intro = ""
         if intro_match:
-            intro = re.sub("<.*?>", "", intro_match.group(1)).strip()
+            intro = clean_text(intro_match.group(1))
 
         pub_time = time.time()
 
         if time_match:
-
             value = int(time_match.group(1))
             unit = time_match.group(2)
 
@@ -74,11 +86,9 @@ def parse_news(html):
 
 
 def build_rss(items):
-
     rss_items = ""
 
     for i in items:
-
         pub = time.strftime(
             "%a, %d %b %Y %H:%M:%S GMT",
             time.gmtime(i["time"])
@@ -86,10 +96,10 @@ def build_rss(items):
 
         rss_items += f"""
     <item>
-        <title>{escape(i['title'])}</title>
-        <link>{i['link']}</link>
-        <guid>{i['link']}</guid>
-        <description>{escape(i['desc'])}</description>
+        <title>{xml_text(i['title'])}</title>
+        <link>{xml_text(i['link'])}</link>
+        <guid>{xml_text(i['link'])}</guid>
+        <description>{xml_text(i['desc'])}</description>
         <pubDate>{pub}</pubDate>
     </item>
 """
@@ -108,15 +118,16 @@ def build_rss(items):
 
 
 def main():
-
     html = fetch_html()
-
     items = parse_news(html)
 
     if not items:
         raise RuntimeError("No news items parsed")
 
     rss = build_rss(items)
+
+    # 兜底：整份 XML 再清一次非法字符
+    rss = INVALID_XML_CHARS.sub("", rss)
 
     with open("rss.xml", "w", encoding="utf-8") as f:
         f.write(rss)
