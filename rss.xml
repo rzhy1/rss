@@ -4,14 +4,38 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Tue, 03 Nov 2026 05:04:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 05:19:59 GMT</lastBuildDate>
+
+    <item>
+        <title>OpenAI启动“电网守护者”计划：算力园区向电网“让电”——从佐治亚试点到算力电力产业链变局</title>
+        <link>https://www.laoyaoba.com/n/1134630</link>
+        <guid>https://www.laoyaoba.com/n/1134630</guid>
+        <description>OpenAI发布Grid Protectors计划：未来算力园区在电网承压时降低用电，佐治亚试点最高让电1000MW；佐治亚电力测算2029年起每年节省约9.5亿美元，典型住宅用户月省至少15美元。</description>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>爱科微荣获第二十一届“中国芯”优秀技术创新产品奖</title>
+        <link>https://www.laoyaoba.com/n/1134629</link>
+        <guid>https://www.laoyaoba.com/n/1134629</guid>
+        <description>近日，2026 年“中国芯”集成电路产业促进大会暨第二十一届“中国芯”优秀产品征集结果发布仪式在横琴粤澳深度合作区举行。爱科微自主研发的Wi-Fi 6 芯片凭借在高性能射频、低功耗设计与全场景适配方面的突出技术表现，荣获“优秀技术创新产品奖”。</description>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>巴斯夫电子材料投资项目签约落地江北新区</title>
+        <link>https://www.laoyaoba.com/n/1134627</link>
+        <guid>https://www.laoyaoba.com/n/1134627</guid>
+        <description>11月2日， 巴斯夫与江北新区签署投资合作协议，将在江北新材料科技园建设新的电子材料生产基地。巴斯夫是全球领先的化工企业，也是中德合资合作的标杆企业，该项目的实施将为南京集成电路和新材料产业发展提供有力支撑。</description>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
+    </item>
 
     <item>
         <title>从49.3%到80.6%：OpenAI LifeVal与日常任务评测的方法论纵深</title>
         <link>https://www.laoyaoba.com/n/1134626</link>
         <guid>https://www.laoyaoba.com/n/1134626</guid>
         <description>OpenAI发布LifeVal评测，以美国与多国时间使用调查构建任务目录，度量模型完成日常任务的能力。平均奖励一年间由GPT-5.2的49.3%升至Astra的80.6%，增量逐代收窄。本文核验分数口径，并指出其自出自评的解读边界。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +43,7 @@
         <link>https://www.laoyaoba.com/n/1134624</link>
         <guid>https://www.laoyaoba.com/n/1134624</guid>
         <description>xAI宣布11月7日起对Grok API七模型默认启用隐形统计水印，经token选择实现、x-watermark头验证，关闭须担法律义务。系头部厂商首次在API侧全球默认部署文本水印，AI内容溯源进入默认化阶段，但效能边界仍待制度弥补。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +51,7 @@
         <link>https://www.laoyaoba.com/n/1134602</link>
         <guid>https://www.laoyaoba.com/n/1134602</guid>
         <description>Anthropic修订版S-1/A招股书：Q3营收169.56亿美元、同比增长1127%，净亏损232.91亿美元、扩大92%，算力承诺约8954亿美元；公司拟11月中旬以代码ANT挂牌纳斯达克。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +59,7 @@
         <link>https://www.laoyaoba.com/n/1134599</link>
         <guid>https://www.laoyaoba.com/n/1134599</guid>
         <description>网易互娱事业群副总裁、运营中心负责人张丰翼因个人工作生活规划于近期离职，10月30日为其在网易的最后一个工作日。张丰翼在网易任职超20年，曾负责多款头部游戏产品运营及相关社区、电竞业务。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +67,7 @@
         <link>https://www.laoyaoba.com/n/1134598</link>
         <guid>https://www.laoyaoba.com/n/1134598</guid>
         <description>共绩科技近日完成新一轮数亿元融资，投资方覆盖国家级基金、产业资本与多家市场化机构，老股东春华创投、力合中科、新进创投持续加码。共绩科技是闲时算力共享平台，可整合分散算力满足弹性需求，服务覆盖教科研机构及头部AIGC企业。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +75,7 @@
         <link>https://www.laoyaoba.com/n/1134597</link>
         <guid>https://www.laoyaoba.com/n/1134597</guid>
         <description>近日，数字资产交易与流动性服务商LO:TECH获得1200万美元A轮融资，本轮融资由MMC Ventures领投，13 Books Capital、Faction、Atka Capital参投。LO:TECH成立于2023年3月，主打MMaaS做市即服务平台及相关配套服务。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1134596</link>
         <guid>https://www.laoyaoba.com/n/1134596</guid>
         <description>近日，AI模型反馈平台开发商Trajectory完成4500万美元A轮融资，估值达3亿美元。本轮融资由红杉资本领投，英伟达、Bessemer Venture Partners、Bain Capital Ventures参投。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1134595</link>
         <guid>https://www.laoyaoba.com/n/1134595</guid>
         <description>11 月 2 日，2026 年“中国芯”集成电路产业促进大会暨第二十一届“中国芯”优秀产品征集结果发布仪式在珠海横琴举行。大会上，阿里巴巴达摩院旗下玄铁 C950 荣获“年度重大创新突破产品奖”，表彰玄铁 C950 在高性能 RISC-V 处理器领域取得的实质性技术创新突破。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1134583</link>
         <guid>https://www.laoyaoba.com/n/1134583</guid>
         <description>为旌科技推出首款RISC-V专业影像AI芯片VS815V：全国产22nm，NPU算力1.6T@INT8支持端侧Transformer加速，最高4K、4路摄像接入，面向IPC、门禁对讲、行车记录仪。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1134580</link>
         <guid>https://www.laoyaoba.com/n/1134580</guid>
         <description>11月1日，Anthropic官网源码现未公布的Mythos 5.5，数小时后被移除；Fable 5.5以100万token上下文现身第三方目录；疑似泄露权重存疑；叠加GPT-6.2 Astra灰测占19.8%流量，11月旗舰更新潮将至。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1134570</link>
         <guid>https://www.laoyaoba.com/n/1134570</guid>
         <description>紫山龙霖GLFS在DGX Spark实测：加载较本地SSD缩短50.2%～53.9%，Llama-3.3-70B吞吐提升4.45倍，双节点235B吞吐提升2.92倍、首Token延迟降低72.7%。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1134569</link>
         <guid>https://www.laoyaoba.com/n/1134569</guid>
         <description>美团11月2日发布LongCat-2.5：总参数1.6万亿、每token激活约480亿，训练全程由国产算力完成，系目前国产算力最大规模训练任务。本文经双源交叉核验，从技术、算力、竞争与前景四个维度拆解其产业含义，并提示事实边界。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -107,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1134568</link>
         <guid>https://www.laoyaoba.com/n/1134568</guid>
         <description>第五届GMIF2026创新峰会——欧康诺:赋能企业构建本质的测试能力</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -115,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1134566</link>
         <guid>https://www.laoyaoba.com/n/1134566</guid>
         <description>CES 2027 将于 2027 年 1 月 6–9 日在美国拉斯维加斯威尼斯人会展中心启幕，泰凌微电子将登陆Hall B #51959 展位，带来新一代无线 SoC 平台的前沿技术演示。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -123,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1134565</link>
         <guid>https://www.laoyaoba.com/n/1134565</guid>
         <description>零一万物获杭州市、临平区两级国资数亿元投资，总部落地临平并建设产业AI转型基地。公司已转向产业AI，9月停止API服务，基于开源模型做企业定制，约一半收入来自海外，在手订单超15亿元，目标2027年港股IPO。本文拆解其模式重构与样本意义。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -131,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1134564</link>
         <guid>https://www.laoyaoba.com/n/1134564</guid>
         <description>近日，聚焦可重构全光计算架构与光子处理器研发的智子光垣完成数亿元种子轮融资。公司成立以来已连续完成5轮种子轮融资，投资方包括海桐国际创新中心、云启资本等多家机构，资金将用于核心芯片研发、团队建设及场景拓展。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
     <item>
@@ -139,31 +163,7 @@
         <link>https://www.laoyaoba.com/n/1134562</link>
         <guid>https://www.laoyaoba.com/n/1134562</guid>
         <description>近日，航天技术服务提供商Northwood完成3.75亿美元C轮融资，由DFJ德丰杰(全球)、Andreessen Horowitz-a16z联合领投，多家机构参投，融资后估值达20亿美元。Northwood主营相控阵技术支持的地面网络构建业务，为太空运营提供增强的连接性和弹性。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【产业资本快讯】Salesforce以3.75亿美元收购国防科技服务商Rune Tech</title>
-        <link>https://www.laoyaoba.com/n/1134561</link>
-        <guid>https://www.laoyaoba.com/n/1134561</guid>
-        <description>全球CRM龙头Salesforce于2026年11月3日宣布收购国防科技服务商Rune Tech，交易对价3.75亿美元，包含现金与股票。本次收购是Salesforce向Agentic AI转型的重要布局，将补强其AI智能体在极端环境下的运行调度技术能力。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>量引科技获得Pre-A轮融资，专注光子集成电路研发</title>
-        <link>https://www.laoyaoba.com/n/1134560</link>
-        <guid>https://www.laoyaoba.com/n/1134560</guid>
-        <description>近日，光子集成电路领域企业量引科技获得Pre-A轮融资，本轮融资由中关村资本领投，光峰科技、翌昕资本、粤科金融参投。量引科技专注硅光子传输芯片、光模块及共封装光学的研发应用，为高带宽、低功耗互联场景提供芯片级解决方案。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>暖芯迦完成5亿元C+轮融资，系生物医疗芯片研发商</title>
-        <link>https://www.laoyaoba.com/n/1134554</link>
-        <guid>https://www.laoyaoba.com/n/1134554</guid>
-        <description>2026年11月3日，生物医疗芯片研发商暖芯迦宣布完成5亿元C+轮融资，本轮融资由高榕创投领投，多家机构跟投，老股东超额追投，资金将用于推动视觉重建脑机技术落地及相关产品研发。</description>
-        <pubDate>Tue, 03 Nov 2026 05:04:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 05:19:59 GMT</pubDate>
     </item>
 
 </channel>
