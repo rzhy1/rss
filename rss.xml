@@ -4,14 +4,70 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Sun, 08 Nov 2026 23:04:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 23:15:51 GMT</lastBuildDate>
+
+    <item>
+        <title>特斯拉AI芯片蓝图曝光！Dojo D3导入HBM、SI6性能拼提升80倍、采2纳米工艺</title>
+        <link>https://www.laoyaoba.com/n/1137616</link>
+        <guid>https://www.laoyaoba.com/n/1137616</guid>
+        <description>特斯拉公布最新人工智能（AI）加速器发展蓝图，揭露未来数年芯片研发方向。其中，第六代推论加速器SI6预计将于2029年至2030年推出，计算性能较现行第四代芯片提升80倍，存储芯片容量也将大幅增加；另一方面，重新启动的第三代Dojo训练加速器D3，则将改采多晶粒（Chiplet）设计，结合2.5D、3D封装技术及堆叠式高带宽存储芯片（HBM），不再沿用前两代以SRAM为核心的架构。</description>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>台积电强化整顿供应链 没改善就掉单</title>
+        <link>https://www.laoyaoba.com/n/1137615</link>
+        <guid>https://www.laoyaoba.com/n/1137615</guid>
+        <description>台积电岛内外如火如荼赶工扩厂，但近期工安事件频传，台积电内部高度关注，业界盛传公司已成立专案小组强化整顿供应链，若供应链问题未改善恐“掉单”，汉唐、帆宣、中钢构与多家营造伙伴等合作厂商压力大。</description>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>苹果公开人形机器人“大脑”HALO！搭载宇树G1测试　陌生环境任务成功率达91%</title>
+        <link>https://www.laoyaoba.com/n/1137613</link>
+        <guid>https://www.laoyaoba.com/n/1137613</guid>
+        <description>苹果 研究团队近日公开人形机器人自主控制系统HALO的最新研究成果，通过视觉语言模型（VLM）与动作生成技术，让机器人不只能理解人类指令，还能依据陌生环境调整动作，自主完成推箱子、坐椅子及穿越障碍物等任务。</description>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【头条】新一代光刻机亮相，关键零部件国产化率突破90%！</title>
+        <link>https://www.laoyaoba.com/n/1137608</link>
+        <guid>https://www.laoyaoba.com/n/1137608</guid>
+        <description>新一代国产光刻机亮相，关键零部件国产化率突破90%！传台积电拟跨足存储；透视A股FPGA/智能卡板块三季报。</description>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>台积电拟跨足存储？业界看3点喊误会：科技网站乱传“应罚张忠谋自传读一百次”</title>
+        <link>https://www.laoyaoba.com/n/1137607</link>
+        <guid>https://www.laoyaoba.com/n/1137607</guid>
+        <description>近期又有科技网站乱传台积电有意跨足存储芯片，对于该议题，业界分别指出，完全是误会，从3大关键来看，应该罚乱传消息的人把张忠谋自传读一百次。</description>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【热点】2.12亿！688286重磅收购；</title>
+        <link>https://www.laoyaoba.com/n/1137606</link>
+        <guid>https://www.laoyaoba.com/n/1137606</guid>
+        <description>2.12亿！688286重磅收购；字节跳动考虑扩大巴西数据中心项目；中信建投：维持对北美算力和国产AI算力产业链长期看好。</description>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>【并购】拆开估值、锁住卖方、绕开商誉：思瑞浦并购奥拉的三个精巧设计；</title>
+        <link>https://www.laoyaoba.com/n/1137605</link>
+        <guid>https://www.laoyaoba.com/n/1137605</guid>
+        <description>拆开估值、锁住卖方、绕开商誉：思瑞浦并购奥拉的三个精巧设计；乾照光电聘任刘兆为公司总裁；君正股份拟将101.83万股回购股份用途变更为注销。</description>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
+    </item>
 
     <item>
         <title>君正股份拟将101.83万股回购股份用途变更为注销，减少注册资本</title>
         <link>https://www.laoyaoba.com/n/1137596</link>
         <guid>https://www.laoyaoba.com/n/1137596</guid>
         <description>11月6日晚间，君正股份（300223）发布公告称，公司于2026年11月6日召开第六届董事会第十六次会议，审议通过了《关于变更回购股份用途并注销的议案》。公司拟将回购专用证券账户中的101.83万股回购股份用途，由“股权激励或员工持股计划”变更为“注销并相应减少注册资本”。该事项尚需提交公司股东会审议。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +75,7 @@
         <link>https://www.laoyaoba.com/n/1137593</link>
         <guid>https://www.laoyaoba.com/n/1137593</guid>
         <description>11月5日至10日，第九届中国国际进口博览会在上海举行，一系列重磅科技集中亮相。会上，上海微电子装备集团（简称“SMEE”）携自主研发的新一代前道干式扫描投影光刻机SSC800、SSB800（模型）亮相中国馆，展示我国前道光刻装备自主化的阶段性成果。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1137585</link>
         <guid>https://www.laoyaoba.com/n/1137585</guid>
         <description>上纬新材（688585.SH）11月8日公告称，公司于2026年9月20日正式对外发布消费级具身智能机器人产品“启元Q1”和“启元T1”。截至公告披露日，公司消费级具身智能机器人产能有序爬坡、良率表现良好，“启元Q1”和“启元T1”下线1万台。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1137582</link>
         <guid>https://www.laoyaoba.com/n/1137582</guid>
         <description>世运电路（603920.SH）公告称，公司拟以自有资金或自筹资金，通过集中竞价交易方式回购股份，回购金额不低于2亿元且不超过3亿元，回购价格不高于55元/股，回购股份将用于员工持股计划或股权激励。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1137581</link>
         <guid>https://www.laoyaoba.com/n/1137581</guid>
         <description>近日，中国移动与智谱（Z.ai）正式签署合作协议，双方将围绕国产算力、大模型服务和AI商业化展开深度合作。根据协议，智谱GLM系列模型将接入移动云MaaS平台，合作覆盖从底层算力供给、模型服务到商业化分发的完整产业链。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1137579</link>
         <guid>https://www.laoyaoba.com/n/1137579</guid>
         <description>中信建投证券近日发布通信行业2027年度投资策略报告，对AI驱动的算力需求给出乐观判断。报告认为，大模型商业化在2026年快速扩张，AI基础设施投资保持高强度，行业前景持续向好，维持对北美算力和国产AI算力产业链的长期看好。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1137577</link>
         <guid>https://www.laoyaoba.com/n/1137577</guid>
         <description>据知情人士透露，字节跳动正在讨论扩大其在巴西东北部塞阿拉州的数据中心布局，并为Pecem港园区二期项目寻找开发商，潜在建设规模可能超过正在施工的一期。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1137576</link>
         <guid>https://www.laoyaoba.com/n/1137576</guid>
         <description>乾照光电11月7日公告，公司召开第六届董事会第二十六次会议，审议通过聘任刘兆为公司总裁，任期自董事会审议通过之日起至第六届董事会任期届满之日止。此前一日，公司已于11月6日召开职工代表大会，选举刘兆为第六届董事会职工代表董事。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1137575</link>
         <guid>https://www.laoyaoba.com/n/1137575</guid>
         <description>光引科技近日宣布完成近亿元Pre-A++轮融资，投资方为达晨财智、华睿投资等。这是这家成立于2021年的光电集成芯片企业一年内完成的第二笔融资，资本对其技术路线与商业化进展的持续加注可见一斑。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1137574</link>
         <guid>https://www.laoyaoba.com/n/1137574</guid>
         <description>11月7日，拓斯达正式发布全尺寸工业双足人形机器人Star。这款身高172厘米、体重72公斤的“新员工”，将主要面向工厂物料搬运、分拣等应用场景，为工业场景中的人形机器人落地再添一名实力选手。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1137609</link>
         <guid>https://www.laoyaoba.com/n/1137609</guid>
         <description>11月8日，达瑞电子(300976.SZ)在投资者互动平台回应投资者提问，称公司当前供应的轻量化、热管理板块核心零部件门槛较高，正稳步推进模组化能力建设。公司近年通过外延并购完善新兴业务布局，竞得工业用地扩建产能，加大研发投入，为向高附加值环节延伸奠定基础。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1137610</link>
         <guid>https://www.laoyaoba.com/n/1137610</guid>
         <description>2026年11月08日，苏州长光华芯光电技术股份有限公司发布公告称，公司董事会于2026年11月5日收到董事长闵大勇的回购股份提议，拟用自有或自筹资金回购股份，资金总额3000万-6000万元，该事项尚需董事会审议，存在不确定性。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -107,63 +163,7 @@
         <link>https://www.laoyaoba.com/n/1137539</link>
         <guid>https://www.laoyaoba.com/n/1137539</guid>
         <description>2026年11月5日，第九届中国国际进口博览会在上海开幕。作为连续九届参展的进博会“全勤生”，三星围绕“AI+”发展趋势，集中呈现半导体、人工智能等核心前沿技术布局，覆盖智能终端、未来出行等多个领域，完整展示从最新存储芯片、核心零部件、智能终端产品到车载解决方案的全链条创新实力。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>欧盟启动5.25亿欧元芯片设计平台，初创企业最高可获1600万欧元资助</title>
-        <link>https://www.laoyaoba.com/n/1137537</link>
-        <guid>https://www.laoyaoba.com/n/1137537</guid>
-        <description>欧盟委员会11月4日启动欧洲芯片设计平台（EuroCDP），总额5.25亿欧元，其中4.4亿欧元为公共投资拨款，云平台由imec牵头联合体运营。初创企业概念验证最高可获10万欧元，商业化开发最高1600万欧元。欧洲芯片设计收入占全球不足1%，平台旨在降低设计门槛，减少对外部技术依赖。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>高通万卫星：终端侧AI从单点应用走向智能体体验</title>
-        <link>https://www.laoyaoba.com/n/1137536</link>
-        <guid>https://www.laoyaoba.com/n/1137536</guid>
-        <description>在第九届进博会上，高通公司AI产品技术中国区负责人万卫星表示，终端侧AI正从影像、语音识别等单点应用，向意图理解、任务编排等智能体体验演进。端云协同的"端侧优先"思路可降低时延、增强隐私保护。MoE混合专家模型通过按需调用专家模块，在终端有限内存与功耗条件下提升模型智能水平。高通联合阶跃星辰、Infris AI、江波龙展出端侧MoE智能体演示，从模型、推理、存储到芯片平台进行系统性优化，体现终端侧AI从单点创新走向产业生态协作。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>上海微电子新一代前道干式光刻机亮相进博会：关键零部件国产化率突破90%</title>
-        <link>https://www.laoyaoba.com/n/1137534</link>
-        <guid>https://www.laoyaoba.com/n/1137534</guid>
-        <description>第九届进博会上，上海微电子（SMEE）展出新一代前道干式扫描投影光刻机SSC800、SSB800模型，该平台关键零部件国产化率突破90%，已实现定型与规模化量产，填补国内空白。多台设备已在国内头部逻辑、存储量产线长期稳定运行，累计支持产线流片超千万片，设备有效运行率超92%。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>存储短缺逼急OpenAI：奥尔特曼赴韩会晤三星约50名高管，新存储合同仍未落定</title>
-        <link>https://www.laoyaoba.com/n/1137533</link>
-        <guid>https://www.laoyaoba.com/n/1137533</guid>
-        <description>OpenAI CEO奥尔特曼10月31日在韩国会晤三星约50名高管，讨论AI技术与商业机会，未宣布新存储合同。双方2025年10月已就星际之门项目签署意向书，三星曾识别OpenAI每月最高90万片DRAM晶圆的潜在需求。机构预计2026年DRAM合约价全年累计上涨约270%。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>直击高通进博展台 | 骁龙新终端集结，刷新智能体时代新体验</title>
-        <link>https://www.laoyaoba.com/n/1137532</link>
-        <guid>https://www.laoyaoba.com/n/1137532</guid>
-        <description>直击高通进博展台 | 骁龙新终端集结，刷新智能体时代新体验</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>美国芯片闹用工荒：社区大学推出免费12周芯片课程，学员直通台积电面试</title>
-        <link>https://www.laoyaoba.com/n/1137531</link>
-        <guid>https://www.laoyaoba.com/n/1137531</guid>
-        <description>美国芯片业正遭遇用工荒：芯片厂商已投入超8000亿美元新建晶圆厂，但到2030年全职劳动力缺口最高或达15.7万人。亚利桑那州等地的社区大学推出免费12周芯片制造速成课程，里奥萨拉多学院约75%结业学员进入半导体行业就业，台积电亚利桑那项目未来十年将创造2.5万人就业。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>台积电CoWoS产能吃紧，英特尔力推EMIB先进封装：谷歌、亚马逊被曝有意入局</title>
-        <link>https://www.laoyaoba.com/n/1137529</link>
-        <guid>https://www.laoyaoba.com/n/1137529</guid>
-        <description>台积电CoWoS产能吃紧之际，英特尔力推EMIB与EMIB-T作为替代方案。EMIB以小型局部硅桥替代全尺寸中介层，硅晶圆利用率超90%，远高于中介层方案的约60%，谷歌、亚马逊AI芯片被曝有意采用EMIB-T。AI封装持续大型化，远期单封装硅桥数将超70个。</description>
-        <pubDate>Sun, 08 Nov 2026 23:04:56 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 23:15:51 GMT</pubDate>
     </item>
 
 </channel>
