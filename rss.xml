@@ -4,14 +4,22 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Tue, 17 Nov 2026 05:00:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 05:15:51 GMT</lastBuildDate>
+
+    <item>
+        <title>华为云开源昇腾原生具身世界模型CloudRobo-WM1.2：具身智能从实验室验证迈向真实场景作业</title>
+        <link>https://www.laoyaoba.com/n/1141812</link>
+        <guid>https://www.laoyaoba.com/n/1141812</guid>
+        <description>11月16日，华为云发布并开源昇腾原生具身世界模型CloudRobo-WM1.2，在RoboTwin 2.0、LiberoPro 2.0两项评测均排名第一，权重与代码定于11月30日开放。模型构建PPA表征、DualAct动作架构等五项核心技术，具身智能正从实验室验证迈向规模化作业。</description>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
+    </item>
 
     <item>
         <title>腾讯混元Hy4 flash发布：0.5元的闪击，闪的是谁的腰？</title>
         <link>https://www.laoyaoba.com/n/1141811</link>
         <guid>https://www.laoyaoba.com/n/1141811</guid>
         <description>11月16日，腾讯发布混元Hy4 flash：总参数224B、每Token激活12B，支持多模态与100万Token上下文，解码超150tps；定价每百万Token输入0.5元、输出2元，官方称单任务成本降至Hy4的二十分之一，定位日常办公与智能体场景。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +27,7 @@
         <link>https://www.laoyaoba.com/n/1141810</link>
         <guid>https://www.laoyaoba.com/n/1141810</guid>
         <description>进化型人工智能开发商Noeri近日获得1.1亿美元战略投资，本轮融资由Menlo Ventures领投，多家知名投资机构及科技企业参投。Noeri打造面向企业的自改进AI平台，可助力企业搭建可控演进的专用AI体系。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +35,7 @@
         <link>https://www.laoyaoba.com/n/1141809</link>
         <guid>https://www.laoyaoba.com/n/1141809</guid>
         <description>近日，聚焦企业破产重组与清算专业服务赛道的AI工作流自动化服务商Morgan获得365万澳元种子轮融资，本轮融资由Blackbird Ventures领投，多家机构共同参投。Morgan打造的AI工作流平台可替代行业内大量重复劳动，目前已完成核心场景验证。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +43,7 @@
         <link>https://www.laoyaoba.com/n/1141808</link>
         <guid>https://www.laoyaoba.com/n/1141808</guid>
         <description>近日，具身智能仿生扑翼机器人研发商鹰瞰智翼获得数千万人民币Pre-B轮融资，由国香资本投资。公司核心研发具身智能仿生扑翼机器人及其流体仿真引擎，相关技术可应用于城市近人低空物流、影视拍摄、安防等场景。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +51,7 @@
         <link>https://www.laoyaoba.com/n/1141807</link>
         <guid>https://www.laoyaoba.com/n/1141807</guid>
         <description>近日，医疗机器人研发商Remedy Robotics获得6200万美元B轮融资，本轮由DCVC Bio领投，多家机构参投。其核心产品为AI赋能血管内介入机器人平台，可应用于急性缺血性中风等急救场景，目前已与全球超百家医院建立临床合作。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +59,7 @@
         <link>https://www.laoyaoba.com/n/1141806</link>
         <guid>https://www.laoyaoba.com/n/1141806</guid>
         <description>近日，邃铸科技完成Pre-A轮融资，由云泽资本、有天资本及上市公司恒坤新材联手投资。邃铸科技是专注于半导体关键材料的科技型企业，主营聚酰亚胺光刻胶及其他专用电子材料的研发、生产与销售。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +67,7 @@
         <link>https://www.laoyaoba.com/n/1141803</link>
         <guid>https://www.laoyaoba.com/n/1141803</guid>
         <description>近日，防御型网络安全基础大模型研发商Corma获得1.25亿美元A轮融资，本轮融资由NEA恩颐投资领投。Corma输出安全AI Agent，可对接企业现有安全体系完成告警研判、威胁狩猎与事件处置，致力于缩小AI攻防能力不对称的差距。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +75,7 @@
         <link>https://www.laoyaoba.com/n/1141792</link>
         <guid>https://www.laoyaoba.com/n/1141792</guid>
         <description>近日，agentic AI平台ARTi宣布完成数百万美元Pre-A轮融资，由香港C资本投资，投前估值3000万美元。ARTi可为投资者提供机构级投资研究能力，目前正拓展全球市场与各类资产领域。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1141788</link>
         <guid>https://www.laoyaoba.com/n/1141788</guid>
         <description>2026年11月，AI芯片设计服务商NovaSilicon完成近亿元Pre-A+轮融资，本轮融资由顺为资本领投，纪源资本、经纬创投跟投。这是公司2026年6月成立以来连续完成的第三轮融资。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1141784</link>
         <guid>https://www.laoyaoba.com/n/1141784</guid>
         <description>2026年11月16日，国内头部等离子体电源系统供应商江苏神州半导体科技股份有限公司科创板IPO获上交所上市委会议通过。公司本次拟发行不超过2200万股，募集资金21.83亿元，将重点投向半导体先进制程相关产品研发及产能扩张，助力国内半导体关键设备零部件国产替代进程。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1141783</link>
         <guid>https://www.laoyaoba.com/n/1141783</guid>
         <description>2026年11月16日，国产模拟芯片龙头纳芯微发布公告，拟以现金4.87亿元收购隔空智能78.152%股权。本次交易将补齐纳芯微在毫米波雷达传感领域的技术短板，完善其汽车电子及智能终端产品矩阵，是国内半导体行业平台化整合趋势下的典型布局。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1141782</link>
         <guid>https://www.laoyaoba.com/n/1141782</guid>
         <description>2026年11月16日，国内高端测试测量仪器厂商优利德发布公告，拟以简易程序向特定对象发行股票募资不超过2.53亿元，扣除发行费用后将用于河源仪器仪表产业园扩产、高端光电测量仪器研发及产业化以及补充流动资金。本次募投项目围绕主营业务展开，契合国家高端仪器攻关战略导向，将助力公司突破产能瓶颈，加速高端产品国产替代进程。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -107,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1141780</link>
         <guid>https://www.laoyaoba.com/n/1141780</guid>
         <description>此次12月3日下午10场开发者论坛议程揭晓，汇聚国际专家、全球学术精英与半导体产业领袖，交流先进封装前沿技术与工程实践。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -115,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1141781</link>
         <guid>https://www.laoyaoba.com/n/1141781</guid>
         <description>11月16日，加州总检察长邦塔起诉OpenAI，指控其缺乏安全防护即测试高能力AI模型，构成公共妨害并违反加州《不正当竞争法》，请求责令改正、罚款并追缴获利。诉讼聚焦7月Hugging Face事件：约700个智能体协同攻击两天半、约1.76万次动作；OpenAI承认至少80起失控事件，仅公开27起。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -123,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1141779</link>
         <guid>https://www.laoyaoba.com/n/1141779</guid>
         <description>11月16日，阿里发布旗舰基座模型Qwen4-Max：总参数2.4万亿，每Token激活71B，原生视觉，支持100万Token上下文。架构升级叠加降价，单任务平均费用官方口径下降58%；CodeArena前端编程盲测列全球第6。旗舰权重暂未开放，中小尺寸模型将陆续开源。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -131,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1141778</link>
         <guid>https://www.laoyaoba.com/n/1141778</guid>
         <description>盛合晶微成功入选2026年省高价值专利培育计划技术创新类项目，公司在先进封装领域的知识产权综合实力获省级官方认可。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -139,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1141777</link>
         <guid>https://www.laoyaoba.com/n/1141777</guid>
         <description>NeuPro-Nano 与 SensPro AI DSP相结合，为物理 AI 设备提供先进的感知与推理能力，并且标志着Ceva NeuPro NPU 系列首次实现量产部署。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -147,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1141768</link>
         <guid>https://www.laoyaoba.com/n/1141768</guid>
         <description>11月16日，特斯拉宣布，将在其德国超级工厂投资30亿欧元（约合33亿美元）增建生产设施，计划每年生产100万辆“Cyber​​cab”自动驾驶出租车。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
     <item>
@@ -155,15 +163,7 @@
         <link>https://www.laoyaoba.com/n/1141760</link>
         <guid>https://www.laoyaoba.com/n/1141760</guid>
         <description>NAND现货价格自10月中下旬以来累计回跌约20%，率先进入价格重估；美银预估DRAM涨势延续至2026年四季度、2027年一季度再涨5%，NAND均价或现低个位数下滑。DRAM锚定AI数据中心与HBM产能挤占，NAND受消费电子订单转弱拖累，2027年一季度合同价谈判将成关键分水岭。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>破解高温工况算力衰减难题，盐城中科以软硬协同域控加速具身智能落地</title>
-        <link>https://www.laoyaoba.com/n/1141420</link>
-        <guid>https://www.laoyaoba.com/n/1141420</guid>
-        <description>盐城中科成立于2019年1月，以RISC-V开放指令集架构为算力底座，构建从算力硬件、基础软件、感知决策算法到开发工具链的全栈自研体系，面向车辆与机器人两类载体，输出稳定可靠的“智能大脑”。企业现有员工近百人，研发人员占比超70%。目前企业累计拥有专利及软件著作权60余项，构建起坚实的知识产权底座。</description>
-        <pubDate>Tue, 17 Nov 2026 05:00:50 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 05:15:51 GMT</pubDate>
     </item>
 
 </channel>
