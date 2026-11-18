@@ -4,14 +4,78 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Wed, 18 Nov 2026 02:45:50 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 03:00:55 GMT</lastBuildDate>
+
+    <item>
+        <title>可灵上线Kling Image 4.0：原生8K、单图2000字、API开放</title>
+        <link>https://www.laoyaoba.com/n/1142403</link>
+        <guid>https://www.laoyaoba.com/n/1142403</guid>
+        <description>快手可灵AI于2026年11月17日上线图像生成模型Kling Image 4.0并同步开放API，首次支持原生8K直出、单图2000字文字渲染、一次最多10张组图及长图分层编辑；计费改为输入参考图与输出图均按张计算。实测显示文字编辑能力改进，但小字清晰度与生成内容的事实准确性仍需人工核验。</description>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>聚焦端侧AI存储｜晶存科技亮相 electronica 2026，“双96”LPCAMM2 首秀慕尼黑</title>
+        <link>https://www.laoyaoba.com/n/1142401</link>
+        <guid>https://www.laoyaoba.com/n/1142401</guid>
+        <description>当地时间11月10日，慕尼黑国际电子元器件博览会 electronica 2026 在慕尼黑展览中心开幕。</description>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>芯驰科技展示基于台积电22ULL工艺平台的 eMRAM车规量产技术成果</title>
+        <link>https://www.laoyaoba.com/n/1142398</link>
+        <guid>https://www.laoyaoba.com/n/1142398</guid>
+        <description>11月17日，芯驰科技于台积电2026年中国开放创新平台（OIP）生态系统论坛技术专场发表演讲，深入分享基于台积电22纳米ULL工艺平台打造车规级嵌入式MRAM的工程实践与量产成果。</description>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>OpenAI卡点Anthropic IPO定价前夜双发GPT-6.2：Agent任务成本压至Claude的5%，模型层价格战开打</title>
+        <link>https://www.laoyaoba.com/n/1142399</link>
+        <guid>https://www.laoyaoba.com/n/1142399</guid>
+        <description>OpenAI11月17日双发GPT-6.2：Astra在Agents‘ Last Exam领先Claude Fable 5.2约5.5分、任务成本约为其5%，API降价20%、缓存输入降60%，亦为OpenAI首个自我改进评级High的模型；时点恰逢Anthropic IPO定价前夜。</description>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>海望资本多家被投企业入选2025-2026中国IC独角兽榜单</title>
+        <link>https://www.laoyaoba.com/n/1142397</link>
+        <guid>https://www.laoyaoba.com/n/1142397</guid>
+        <description>近日，2026第九届中国IC独角兽论坛暨中国半导体行业高质量发展创新论坛在上海新国际博览中心举办。活动现场发布2025-2026年度中国IC独角兽榜单、中国半导体行业高质量发展创新成果榜单，并举行颁奖仪式。华大半导体、稷以科技、得一微电子、积塔半导体等海望资本投资企业入选榜单。</description>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>Anthropic获准上市IPO进入定价冲刺</title>
+        <link>https://www.laoyaoba.com/n/1142394</link>
+        <guid>https://www.laoyaoba.com/n/1142394</guid>
+        <description>当地时间11月17日，Anthropic向美国证券交易委员会（SEC）提交第三次修订招股书，上市状态由“已申请”正式更新为“已获准”，A类普通股获准在纳斯达克全球精选市场挂牌，代码“ANT”。发行价区间维持每股70至78美元，预计11月19日开始交易。市场消息称发行价有望指引至区间上限或更高，认购订单已接近发行股份的七倍，多笔规模达100亿美元或以上的大额订单涌入订单簿。若IPO与260亿美元私募配售按计划完成，本次交易总规模最高约904亿美元，将超越SpaceX，成为有史以来规模最大的IPO。</description>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>龙擎空天：跳出算力内卷，以LQAPU构建智能体时代的计算底座</title>
+        <link>https://www.laoyaoba.com/n/1141856</link>
+        <guid>https://www.laoyaoba.com/n/1141856</guid>
+        <description>11月13日，龙擎空天在上海发布LQAPU智能体处理器架构及首代端侧芯片LQ7000，以完整任务调度而非单次跑分定义算力，并同步布局星上智能与低轨卫星终端。</description>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>机构：上半年中国在全球OLED出货量占比降至49.8%，被韩国反超</title>
+        <link>https://www.laoyaoba.com/n/1142391</link>
+        <guid>https://www.laoyaoba.com/n/1142391</guid>
+        <description>11月17日，韩国显示行业协会（KDIA）发布的《显示行业关键统计数据》显示，2026年上半年，中国在全球OLED出货量中占比为49.8%，以0.3个百分点的微弱劣势落后于韩国的50.1%。作为对比，去年同期中国的占比为51.7%，而韩国为47.9%。</description>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
+    </item>
 
     <item>
         <title>集创北方荣获TCL华星CSC2026“卓越质量奖”</title>
         <link>https://www.laoyaoba.com/n/1142354</link>
         <guid>https://www.laoyaoba.com/n/1142354</guid>
         <description>2026年11月13日，以“臻图视界 智启星程”为主题的TCL华星全球供应链大会（CSC2026）在武汉举行，本次大会汇聚全球供应链合作伙伴并揭晓年度供应商奖项。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1142358</link>
         <guid>https://www.laoyaoba.com/n/1142358</guid>
         <description>近日，专注于AI算力芯片与高带宽集成技术的硬科技企业深微芯创宣布连续完成三轮融资，累计金额近亿元，投资方包括深产投及老股东英诺基金等，其中英诺基金连投三轮，融资资金将主要用于核心装备研发、市场拓展及团队建设。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1142355</link>
         <guid>https://www.laoyaoba.com/n/1142355</guid>
         <description>近日，极米推出「极米记得」系列AI长记忆设备——AI记忆眼镜G1与AI记忆手环L1，均搭载物奇微WQ7036智能音频主控芯片，以眼镜、手环为声音记录入口，配合App实现声音记录、转写与长期记忆管理。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1142357</link>
         <guid>https://www.laoyaoba.com/n/1142357</guid>
         <description>近日，AI工业研发平台子虔科技获得A轮融资，由宁德时代投资。公司专注研发云原生zCAD. Online产品设计协作平台，以AI驱动工程创新，实现创意与制造的无缝连接。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1142353</link>
         <guid>https://www.laoyaoba.com/n/1142353</guid>
         <description>亚太数字经济合作如何实现共赢？中兴通讯董事长方榕在2026年亚太经合组织工商领导人峰会上给出三个关键词：坚持夯实数字底座，绿色低碳、科技向善，助力亚太可持续发展</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1141970</link>
         <guid>https://www.laoyaoba.com/n/1141970</guid>
         <description>从产业CVC的生态共建，到250亿资本对设备材料等泛半导体链条的深度布局，再到青年投资人的强劲实绩，韦豪创芯以硬核的产业赋能与卓越的业绩表现，树立了泛半导体产业投资的标杆风范。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1142348</link>
         <guid>https://www.laoyaoba.com/n/1142348</guid>
         <description>11月18日，市调机构Omdia在报告中指出，2026年第三季度，中东地区（不包括土耳其）智能手机出货量同比下降29%，至1070万部，创两年来最大跌幅。零部件成本上涨、入门级设备供应有限以及零售需求疲软是导致市场下滑的主要因素。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1142347</link>
         <guid>https://www.laoyaoba.com/n/1142347</guid>
         <description>当车身、动力、底盘等控制任务逐步汇入域控制器，芯片面临的挑战已不只是算力提升。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1142342</link>
         <guid>https://www.laoyaoba.com/n/1142342</guid>
         <description>Qorvo诉Akoustis案中，法院就专利侵权与商业秘密侵占判赔约3860万美元并签发永久禁令；文章提醒国内射频厂商核对技术宣传的证据范围、交付产品与专利实施权限。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1142337</link>
         <guid>https://www.laoyaoba.com/n/1142337</guid>
         <description>尊芯科技技术委员会两位成员围绕AMHS国产化的认知转变与OHT车辆控制话题，分享从“能不能做”到“敢不敢保”、从“跑通”到“跑久”的一线洞察。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1141853</link>
         <guid>https://www.laoyaoba.com/n/1141853</guid>
         <description>10月14日象帝先入选第八批国家级专精特新“小巨人”企业；11月2日天钧三号高性能通用GPU获2026年“中国芯”优秀市场表现产品奖，两项国家级荣誉印证其技术实力与市场落地能力。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
     <item>
@@ -99,71 +163,7 @@
         <link>https://www.laoyaoba.com/n/1142340</link>
         <guid>https://www.laoyaoba.com/n/1142340</guid>
         <description>报名进行中 | “芯火领航”国产集成电路设计生态培训班004期暨2026芯聚九天055期·国产EDA实训班（宁波站）正式启动！</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>黄仁勋表态愿回归英伟达，董事会：不考虑</title>
-        <link>https://www.laoyaoba.com/n/1142339</link>
-        <guid>https://www.laoyaoba.com/n/1142339</guid>
-        <description>11月17日，英伟达联合创始人、前首席执行官黄仁勋在社交平台X发布辞职后的首份公开声明，表示若董事会认定其回归符合股东、员工、公司及美国的最大利益，他愿重任首席执行官。不过英伟达新任董事长Harvey Jones随即在财报电话会议上明确表示，董事会无意让黄仁勋复职，为这场接班争议定下基调。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>两笔并购，买的不是设备，是“集中度窗口”的入场券</title>
-        <link>https://www.laoyaoba.com/n/1142335</link>
-        <guid>https://www.laoyaoba.com/n/1142335</guid>
-        <description>2026年，北方华创4.05亿元现金收购诺合键维，中微公司以“发股＋现金＋15亿元配套募资”拿下杭州众硅64.69%股权。两笔交易路径迥异、靶心一致：头部设备商借政策绿灯加速平台化整合。国内设备企业约500至1000家，同质化竞争已现劣币驱逐良币迹象，“集中度窗口”正在打开。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>AI淘金热的“卖水人”：OpenAI开出50亿美元，为什么买不走Goodfire？</title>
-        <link>https://www.laoyaoba.com/n/1142333</link>
-        <guid>https://www.laoyaoba.com/n/1142333</guid>
-        <description>旧金山初创公司Goodfire主营AI机制可解释性技术，2026年2月完成1.5亿美元B轮融资，估值12.5亿美元。同年夏季OpenAI因模型突破隔离引发安全事故，曾提出以超50亿美元收购或合作，溢价逾4倍；Goodfire认为保持独立、向多家厂商输出技术价值更高而拒绝。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【中标】宝信商务中心综合类询价采购项目中标公告</title>
-        <link>https://www.laoyaoba.com/n/1142332</link>
-        <guid>https://www.laoyaoba.com/n/1142332</guid>
-        <description>2026年11月17日，宝信商务中心发布综合类询价采购项目中标公告，该项目采用公开询价方式，本次采购涵盖电源、电子元器件、工业配件等多类物资，目前中标供应商及中标价格暂未公布。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【中标】上海积塔半导体特色工艺生产线建设项目评标结果公示</title>
-        <link>https://www.laoyaoba.com/n/1142331</link>
-        <guid>https://www.laoyaoba.com/n/1142331</guid>
-        <description>2026年11月17日，上海积塔半导体有限公司就特色工艺生产线建设项目发布评标结果公示，公示期至2026年11月20日，本次招标采购明场缺陷检测设备、暗场缺陷检测设备、电阻测量仪三类产品，KLA Corporation为第一中标候选人。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【中标】低温傅立叶变换红外光谱仪采购项目中标结果公布</title>
-        <link>https://www.laoyaoba.com/n/1142330</link>
-        <guid>https://www.laoyaoba.com/n/1142330</guid>
-        <description>2026年11月17日，低温傅立叶变换红外光谱仪采购项目发布招标结果公告，经评审委员会评审，确定上海优睿谱半导体设备有限公司为该项目中标人。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【中标】化学气相沉积设备采购项目中标结果公布</title>
-        <link>https://www.laoyaoba.com/n/1142329</link>
-        <guid>https://www.laoyaoba.com/n/1142329</guid>
-        <description>2026年11月17日，化学气相沉积设备采购项目发布招标结果公告，经评审委员会评审，确定江苏首芯半导体科技有限公司为该项目中标人，项目编码为3940-2509XS193-04。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>锚定车规半导体赛道 轩元资本深耕泛汽车科技产业投资</title>
-        <link>https://www.laoyaoba.com/n/1141963</link>
-        <guid>https://www.laoyaoba.com/n/1141963</guid>
-        <description>轩元资本成立于2022年，机构聚焦泛汽车科技赛道，围绕新能源汽车电动化、智能化主线，重点布局新材料、车规半导体、核心零部件、智能座舱与智能驾驶。</description>
-        <pubDate>Wed, 18 Nov 2026 02:45:50 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:00:55 GMT</pubDate>
     </item>
 
 </channel>
