@@ -4,14 +4,38 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Fri, 20 Nov 2026 06:00:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 06:30:55 GMT</lastBuildDate>
+
+    <item>
+        <title>第六代 AMD EPYC 处理器技术峰会在京举行</title>
+        <link>https://www.laoyaoba.com/n/1143921</link>
+        <guid>https://www.laoyaoba.com/n/1143921</guid>
+        <description>第六代 AMD EPYC 处理器技术峰会在北京举行，AMD 携手服务器系统厂商及软硬件生态伙伴，围绕代号为 Venice 的新一代处理器，深入解读 Zen 6 架构、产品布局与平台技术创新，并举行服务器新品上市仪式。峰会聚焦 Agentic AI 时代的计算基础设施需求，展示智能体沙箱、AI 头节点等应用场景，22 家 OEM、ODM 伙伴携超节点服务器等成果参展，EPYC 市场份额已增长至 46.2%，展现其在中国市场的生态基础与发展势头。</description>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>博纳半导体完成亿元级B轮融资，聚焦高端晶圆键合装备研发</title>
+        <link>https://www.laoyaoba.com/n/1143920</link>
+        <guid>https://www.laoyaoba.com/n/1143920</guid>
+        <description>近日，博纳半导体完成亿元级B轮融资，本轮融资由金雨茂物、水木梧桐、金谷资本、奥特维共同投资。博纳半导体聚焦高端晶圆键合装备的研发与制造，技术应用于先进封装、半导体器件制造等多个前沿领域。</description>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>加州向英伟达发传票，调查是否让中国取得先进芯片</title>
+        <link>https://www.laoyaoba.com/n/1143915</link>
+        <guid>https://www.laoyaoba.com/n/1143915</guid>
+        <description>美国加州总检察长罗布·邦塔（Rob Bonta）11月20日表示，其办公室已向英伟达发出调查传票。此举与有关英伟达前首席执行官黄仁勋的报道有关——据称他曾与一名被怀疑是中国间谍的女子发生婚外情。</description>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
+    </item>
 
     <item>
         <title>AI重塑半导体攻坚逻辑，产业为何从补产能转向“提效率”</title>
         <link>https://www.laoyaoba.com/n/1143912</link>
         <guid>https://www.laoyaoba.com/n/1143912</guid>
         <description>全球数据能力与本土制造场景的对接。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +43,7 @@
         <link>https://www.laoyaoba.com/n/1143910</link>
         <guid>https://www.laoyaoba.com/n/1143910</guid>
         <description>理想汽车联合德赛西威与恩智浦半导体，基于Trimension NCJ29D6超宽带（UWB）方案，在理想L9 Livis上实现近场感知与自动泊车辅助量产落地。该方案以“单平台融合”设计，将自动泊车、数字钥匙、儿童遗留检测、脚踢感应等多场景功能集成于统一UWB平台，传感器隐藏式安装无需车身开孔。恩智浦认为UWB正从数字钥匙走向近场感知平台，长期或将替代传统超声波传感器，但其规模化仍受手机生态、系统成本与标准演进制约。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +51,7 @@
         <link>https://www.laoyaoba.com/n/1143911</link>
         <guid>https://www.laoyaoba.com/n/1143911</guid>
         <description>理想汽车联合德赛西威与恩智浦半导体，基于Trimension NCJ29D6超宽带（UWB）方案，在理想L9 Livis上实现近场感知与自动泊车辅助量产落地。该方案以“单平台融合”设计，将自动泊车、数字钥匙、儿童遗留检测、脚踢感应等多场景功能集成于统一UWB平台，传感器隐藏式安装无需车身开孔。恩智浦认为UWB正从数字钥匙走向近场感知平台，长期或将替代传统超声波传感器，但其规模化仍受手机生态、系统成本与标准演进制约。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +59,7 @@
         <link>https://www.laoyaoba.com/n/1143907</link>
         <guid>https://www.laoyaoba.com/n/1143907</guid>
         <description>11月20日，三星电子公布了2027年度常规高管人事调整，共涉及六项任命：三人晋升为总裁，三人职责发生变动。此次公告发布时间比过去两年通常在11月下旬公布的时间提前了约一周。Jun Young-hyun和Roh Tae-moon将继续担任联席首席执行官，但不再兼任存储业务部门和移动体验（MX）业务部门的负责人。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +67,7 @@
         <link>https://www.laoyaoba.com/n/1143880</link>
         <guid>https://www.laoyaoba.com/n/1143880</guid>
         <description>公共安全科技研发商Community Wolf近日获得种子轮融资，由Terra Industries投资。平台依托WhatsApp智能体实现警情上报与AI处置联动，2025年收购应急平台Namola，采用C端基础功能免费、B端订阅服务的商业模式。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +75,7 @@
         <link>https://www.laoyaoba.com/n/1143874</link>
         <guid>https://www.laoyaoba.com/n/1143874</guid>
         <description>新三板基础层企业创四方（838834）于2026年11月19日发布定增方案，拟向实控人李元兵家族及关联人员发行不超过100万股，募资不超过240万元，全部用于补充流动资金，优化公司财务结构。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1143865</link>
         <guid>https://www.laoyaoba.com/n/1143865</guid>
         <description>佰维企业级 DDR5 RDIMM 以6400MT/s 高速传输、最大 128GB单条容量和企业级可靠性，面向服务器、云计算/数据中心、AI训练与推理、高性能计算、边缘计算场景，提升系统吞吐效率，保障算力集群稳定运行与关键业务连续性。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1143853</link>
         <guid>https://www.laoyaoba.com/n/1143853</guid>
         <description>11月17日至18日，以“共促繁荣，共赢未来”为主题的2026年亚太经合组织（APEC）工商领导人峰会在深圳前海国际会议中心盛大召开。得一微电子（YEESTOR）作为代表企业受邀出席，与来自21个APEC成员经济体及英国、法国、德国、瑞士等13个域外经济体的2000余名政商界代表共同参会。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1143850</link>
         <guid>https://www.laoyaoba.com/n/1143850</guid>
         <description>2026 年 11 月 19 日上午，纽约时报广场，Anthropic 联合创始人兼 CEO 达里奥・阿莫代伊与妹妹、公司总裁丹妮拉・阿莫代伊共同敲响纳斯达克开市钟。这家开发 Claude 的 AI 初创企业，完成美股史上规模最大 IPO：发行价每股 83 美元，公开发行募资约 813 亿美元，叠加谷歌、英伟达、微软、台积电等七家巨头 260 亿美元定向配售，总融资超 1070 亿美元，打破今年 6 月 SpaceX 创下的纪录。按完全稀释口径，上市估值约 1.5 万亿美元。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1143834</link>
         <guid>https://www.laoyaoba.com/n/1143834</guid>
         <description>近日，原子矩阵宣布完成数亿元人民币B轮融资，本轮融资由杭州产投集团、杭州高新金投、成都科创投、鸿瑞达投资、博世创投、广州海珠城发、川创投等机构共同参与。原子矩阵是聚焦于提供全栈式中性原子量子计算解决方案的前沿科技公司，已完成从核心器件到整机系统的全栈技术布局。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1143833</link>
         <guid>https://www.laoyaoba.com/n/1143833</guid>
         <description>基元科技专注新型半导体材料与二维材料生长及表征，近日完成数千万元天使轮融资。本轮融资由朝晖资本与中芯国际创始人张汝京博士联合管理的朝晖芯华基金领投，宁创投、常州高新投、南慧创投等跟投，云岫资本担任后续融资财务顾问。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1143831</link>
         <guid>https://www.laoyaoba.com/n/1143831</guid>
         <description>近日，边端侧AI芯片设计企业诚恒微获得2亿人民币A轮融资，投资方包括锡创投、毅达资本、中车基金、湖南高新创投集团、中金资本、奇安投资。诚恒微采用Fabless经营模式，业务涵盖集成电路设计研发、芯片架构设计、配套软件开发及行业解决方案赋能。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -107,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1143824</link>
         <guid>https://www.laoyaoba.com/n/1143824</guid>
         <description>派兹互连独家收购西门子EDA旗下PADS完整源代码及中国区业务，承接全球验证的成熟技术体系，自研SailWind国产EDA平台与ASED企业级AI设计系统，竞逐第八届IC风云榜年度最具成长潜力奖。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -115,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1143819</link>
         <guid>https://www.laoyaoba.com/n/1143819</guid>
         <description>2026年11月，爱芯元智联合魔视智能基于M57车规级芯片打造的行泊一体域控制器方案，已在北汽极狐主力车型实现量产交付，覆盖17+项核心功能，实现国产芯片与全栈算法协同创新。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -123,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1143389</link>
         <guid>https://www.laoyaoba.com/n/1143389</guid>
         <description>11月18日，迈特芯MEGA188（国产3D-TPU）端侧AI芯片成功点亮，跑通3B~120B主流模型，向量产迈出关键一步。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -131,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1143818</link>
         <guid>https://www.laoyaoba.com/n/1143818</guid>
         <description>2026年11月19日，元芯刻微高端显示及半导体关键材料研发生产基地项目（洁净室标段）-FFU设备发布成交候选人公示，公示期为2026年11月19日17:00至2026年11月20日17:00，共公布3家成交候选企业。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
     <item>
@@ -139,31 +163,7 @@
         <link>https://www.laoyaoba.com/n/1143817</link>
         <guid>https://www.laoyaoba.com/n/1143817</guid>
         <description>2026年11月19日，四川成渝半导体科技有限公司发布成渝半导体硅基材料生产基地项目初步设计服务结果公告，浙江勤业数智设计有限公司以880000.00元中标该项目。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【中标】厦门市海沧区职业中专学校仪器器材采购（采购包2、3、4）结果公告</title>
-        <link>https://www.laoyaoba.com/n/1143816</link>
-        <guid>https://www.laoyaoba.com/n/1143816</guid>
-        <description>2026年11月19日，厦门市海沧区职业中专学校仪器器材采购项目发布采购包2、3、4的中标结果，总中标金额795.1万元，由三家本地企业分别中标对应采购包。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>【中标】上海电子信息职业技术学院半导体FAB厂数字孪生实践中心建设项目中标结果公告</title>
-        <link>https://www.laoyaoba.com/n/1143815</link>
-        <guid>https://www.laoyaoba.com/n/1143815</guid>
-        <description>2026年11月19日，上海电子信息职业技术学院发布半导体FAB厂数字孪生实践中心建设项目中标结果公告，积元芯（上海）科技有限公司以3366200元中标该项目。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>持续发力！云途高端车规 MCU 冲击国内第一</title>
-        <link>https://www.laoyaoba.com/n/1141233</link>
-        <guid>https://www.laoyaoba.com/n/1141233</guid>
-        <description>国内车规MCU市场规模2029年有望达340亿元，云途半导体单月出货突破700万颗、高端产品占比达70%，并推出双M7锁步架构新品YTM32B1HB02切入ASIL-D市场。</description>
-        <pubDate>Fri, 20 Nov 2026 06:00:49 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 06:30:55 GMT</pubDate>
     </item>
 
 </channel>
