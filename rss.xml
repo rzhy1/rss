@@ -4,14 +4,126 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Thu, 26 Nov 2026 07:15:53 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 07:30:51 GMT</lastBuildDate>
+
+    <item>
+        <title>中国科大提出面向人工智能任务的能效建模与优化方法</title>
+        <link>https://www.laoyaoba.com/n/1147046</link>
+        <guid>https://www.laoyaoba.com/n/1147046</guid>
+        <description>近日，中国科学技术大学计算机科学与技术学院孙广中、孙经纬团队与南方科技大学唐珂、刘晟材团队合作，提出面向人工智能任务的轻量级能效建模与优化框架EMO。该方法通过分析程序执行中的计算与通信依赖，识别可以适当降频的非关键计算，在控制任务耗时增长的同时降低GPU能耗。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>浙江大学集成电路学院与奕斯伟集团、浙江创芯达成三方战略合作</title>
+        <link>https://www.laoyaoba.com/n/1147044</link>
+        <guid>https://www.laoyaoba.com/n/1147044</guid>
+        <description>为助推集成电路产业创新人才协同发展，11月21日，浙江大学集成电路学院、北京奕斯伟科技集团有限公司、浙江创芯集成电路有限公司战略合作签约仪式在浙大杭州国际科创中心水博园区举办。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>清华大学交叉信息研究院孙麓岩团队合作在自动量子纠错研究中取得新进展</title>
+        <link>https://www.laoyaoba.com/n/1147043</link>
+        <guid>https://www.laoyaoba.com/n/1147043</guid>
+        <description>量子信息十分脆弱，向环境的自发耗散会使量子态逐渐失去相干性。量子纠错通过编码引入冗余，为保存量子信息提供了一条重要途径。常见的主动纠错方案需要反复测量错误征兆，再根据测量结果实施纠正操作；测量精度、反馈延迟与控制系统复杂度，都会影响纠错的效果。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>FCC放行100万颗卫星：马斯克的AI数据中心，获批搬上太空</title>
+        <link>https://www.laoyaoba.com/n/1147016</link>
+        <guid>https://www.laoyaoba.com/n/1147016</guid>
+        <description>美国FCC批准SpaceX部署至多100万颗卫星的Starmind星座用于太空数据中心，要求不迟于2033年11月开始部署、2035年11月前部署10万颗、2038年11月前部署50万颗。该项目瞄准AI算力需求，但当前全球在轨卫星仅1.7万颗，星链申请4.2万颗目前在轨1.1万颗。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>从逼宫CEO到持股10%：特朗普如何拿捏英特尔</title>
+        <link>https://www.laoyaoba.com/n/1147015</link>
+        <guid>https://www.laoyaoba.com/n/1147015</guid>
+        <description>英特尔股东派斯纳的起诉书披露：2025年8月，特朗普政府以提前拨付88.7亿美元芯片法案资金为条件，换取英特尔发行4.333亿股新股、政府持股约9.9%。内部文件显示商务部律师称“这不是谈判”、拒绝将有无法预料的后果。此前特朗普还致电英伟达董事会，施压恢复黄仁勋CEO职务。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>西安电子科技大学与四川九洲集团签署战略合作协议</title>
+        <link>https://www.laoyaoba.com/n/1147042</link>
+        <guid>https://www.laoyaoba.com/n/1147042</guid>
+        <description>11月18日，西安电子科技大学与四川九洲投资控股集团有限公司（简称“九洲集团”）在四川绵阳签署战略合作协议。签约仪式在九洲集团第二届“科技活动周”产学研协同创新生态大会期间举行。学校党委常委、副校长王泉与九洲集团党委委员、副总经理刘志刚分别代表双方签约。绵阳市政府副市长、科技城党工委副书记张洋，九洲集团党委书记、董事长谷雨等参加大会。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>中国科学技术大学三项芯片成果亮相2026亚洲固态电路大会（A-SSCC 2026）</title>
+        <link>https://www.laoyaoba.com/n/1147041</link>
+        <guid>https://www.laoyaoba.com/n/1147041</guid>
+        <description>2026年IEEE亚洲固态电路大会（A-SSCC 2026）于11月4日至6日在台湾举行。我院胡诣哲教授课题组的三项研究成果入选会议并作口头报告，论文聚焦高速毫米波相位调制器芯片、高纯度百GHz频率合成器芯片及宽带低噪声毫米波接收机芯片开展研究。A-SSCC是亚洲集成电路设计领域最具影响力的学术会议之一，三项成果的入选展示了我院在超高速与混合信号集成电路方向的研究进展。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>北京大学电子学院常林课题组获ACP 2026最佳高分论文奖</title>
+        <link>https://www.laoyaoba.com/n/1147040</link>
+        <guid>https://www.laoyaoba.com/n/1147040</guid>
+        <description>2026年11月1日至4日，亚洲通信与光子学会议（Asia Communications and Photonics Conference，ACP 2026）在浙江杭州举行。北京大学电子学院常林研究员团队发表题为《逆向设计波导实现带宽超过700 nm的亚皮米级光谱仪》（“Inverse-designed Waveguides Enable Sub-picometer Resolution Spectrometer over 700nm Bandwidth”）的论文。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>复旦大学微电子学院研究团队Nature发文，半导体异质界面调控取得重要进展</title>
+        <link>https://www.laoyaoba.com/n/1147039</link>
+        <guid>https://www.laoyaoba.com/n/1147039</guid>
+        <description>近日，复旦大学微电子学院杨迎国研究团队与西安交大刘宇航、西北工大孔杰、中石油蒋龙、新加坡国立大学魏明扬及瑞士洛桑联邦理工学院Michael Gratzel等研究团队合作在新型半导体异质界面调控方面取得重要进展，研究成果于2026年11月18日以“Band-Edge-Extended Heterointerfaces for Perovskite Solar Cells and Tandems”为题在线发表于国际顶级期刊《自然》。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>150亿元！奕成科技与成都高新区签署投资合作协议，共筑先进封装产业新高地</title>
+        <link>https://www.laoyaoba.com/n/1147037</link>
+        <guid>https://www.laoyaoba.com/n/1147037</guid>
+        <description>奕成科技与成都高新区管委会签署投资合作协议，板级高密系统集成项目（奕成科技二工厂）落地成都高新西区，计划投资150亿元，聚焦CoPoS解决方案并前瞻布局CPO等前沿技术。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>苹果将​​在海得拉巴开设新店 扩大印度零售网络</title>
+        <link>https://www.laoyaoba.com/n/1147038</link>
+        <guid>https://www.laoyaoba.com/n/1147038</guid>
+        <description>苹果将于下个月在印度南部城市海得拉巴开设一家新店，此举旨在继续扩大其在印度的零售网络。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>上海交通大学-上海金桥信息人工智能教学实践空间正式揭牌启用</title>
+        <link>https://www.laoyaoba.com/n/1147036</link>
+        <guid>https://www.laoyaoba.com/n/1147036</guid>
+        <description>上海交通大学-上海金桥信息人工智能教学实践空间正式揭牌启用</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>北理工团队发表双核结构量子点中类卡西米尔激子态的研究成果</title>
+        <link>https://www.laoyaoba.com/n/1147035</link>
+        <guid>https://www.laoyaoba.com/n/1147035</guid>
+        <description>卡西米尔效应是量子场论的基石之一：置于真空中的两块中性导体板会限制其间电磁真空涨落的允许模式，改变零点能，从而在板间产生可测量的相互作用力。该效应已在电磁真空涨落、原子—表面体系和纳米机械系统中被观测和调控，其大小与行为受几何形状和材料性质的支配。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>上海交大变革性分子前沿科学中心姚广保课题组通过几何编程连接性实现金刚石家族胶体晶体的可预测组装</title>
+        <link>https://www.laoyaoba.com/n/1147034</link>
+        <guid>https://www.laoyaoba.com/n/1147034</guid>
+        <description>近日，上海交通大学樊春海院士、姚广保副教授与麦亦勇教授取得重要研究进展，相关成果以“Geometry-Programmed Connectivity Enables Predictive Assembly of Diamond-Family Colloidal Crystals”为题发表于《Journal of the American Chemical Society》。</description>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
+    </item>
 
     <item>
         <title>利好端侧AI!安谋科技两大进展！国内首颗FP4端侧SoC将量产，基于周易X3；Arm Cortex-M42瞄准成本敏感端侧Al</title>
         <link>https://www.laoyaoba.com/n/1147025</link>
         <guid>https://www.laoyaoba.com/n/1147025</guid>
         <description>利好端侧AI!安谋科技两大进展！国内首颗FP4端侧SoC将量产，基于周易X3；Arm Cortex-M42瞄准成本敏感端侧Al</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1147018</link>
         <guid>https://www.laoyaoba.com/n/1147018</guid>
         <description>阿维塔06T车系新增入门车型Max先锋版，官方指导价21.99万元，限时权益价19.99万元。新车搭载华为乾崑896线激光雷达与27个传感器，支持城区及高速领航；前后双电机总功率450千瓦，零百加速3.74秒，CLTC续航652公里，基于全域800V平台。座舱配备35.4英寸4K星环屏与鸿蒙座舱，配置向25万元以上车型看齐，瞄准20万元级纯电轿车与猎装车市场，与极氪007GT、小米SU7等车型竞争。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1147010</link>
         <guid>https://www.laoyaoba.com/n/1147010</guid>
         <description>每辆卡车装载的mobileFab集装箱内有三台设备：涂胶机、无掩模光刻机和显影机。学生使用由日本NIAIST（产业技术综合研究所）制作的预刻蚀晶圆，依次完成必要步骤，将其中的晶体管互连起来，最终制成一个成品芯片内核。每台设备宽约30厘米，采用局部清洗以及设备之间的密封转运方式，因而无需依赖大型洁净室。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1147009</link>
         <guid>https://www.laoyaoba.com/n/1147009</guid>
         <description>良率即生产力 | 屹立芯创 IC China 分享 AI 芯片堆叠良率提升方案</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1147008</link>
         <guid>https://www.laoyaoba.com/n/1147008</guid>
         <description>近日，MicroLED光互联服务提供商闪科光联获得数千万人民币天使轮融资。本轮融资由厚雪资本、长石资本、国香资本联合领投，青橙资本、小苗朗程、磐霖资本、险峰参投。闪科光联专注于MicroLED高速光互连芯片与光引擎研发，为下一代数据中心、AI集群等场景提供新一代互连方案。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
     </item>
 
     <item>
@@ -51,119 +163,7 @@
         <link>https://www.laoyaoba.com/n/1147006</link>
         <guid>https://www.laoyaoba.com/n/1147006</guid>
         <description>近日，博登智能获得数亿人民币B轮融资，投资方包括宁波高新投资、招商证券、招商致远资本、粤科金融、甬元基金、金雨茂物。博登智能致力于构建以数据为导向的人工智能系统，通过精细训练样本助力决策模型优化，加速AI在多领域场景应用。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>闪科光联获得种子轮融资，专注MicroLED高速光互连芯片研发</title>
-        <link>https://www.laoyaoba.com/n/1147004</link>
-        <guid>https://www.laoyaoba.com/n/1147004</guid>
-        <description>近日，MicroLED光互联服务提供商闪科光联获得种子轮融资，由励石创投投资。闪科光联专注于MicroLED高速光互连芯片与光引擎研发，为下一代数据中心、AI集群和超算中心提供新一代互连方案。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>华为芯片的一项关键突破，灵感来自一个中国传统的设计</title>
-        <link>https://www.laoyaoba.com/n/1147002</link>
-        <guid>https://www.laoyaoba.com/n/1147002</guid>
-        <description>11月25日，在华为举办的第七届创新和知识产权论坛上，韬(τ)定律、灵衢架构、NPO光引擎及6G技术的核心研发代表登台，分享了各自从0到1的原创突破，及其背后长期主义与厚积薄发的故事。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>特斯拉陶琳：即将迎来上海超级工厂第500万辆整车下线</title>
-        <link>https://www.laoyaoba.com/n/1147001</link>
-        <guid>https://www.laoyaoba.com/n/1147001</guid>
-        <description>特斯拉公司副总裁陶琳宣布，即将迎来上海超级工厂第500万辆整车下线。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>李斌发布蔚来AI原生组织架构：已上线超7500个Agent</title>
-        <link>https://www.laoyaoba.com/n/1146999</link>
-        <guid>https://www.laoyaoba.com/n/1146999</guid>
-        <description>11月25日，蔚来创始人、董事长兼CEO李斌发文披露蔚来AI原生组织架构。目前，蔚来已上线各类智能Agent超过7500个，累计运行实例突破290万个，相关能力已进入研发、供应链、用户服务等业务环节。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>特朗普为何力保黄仁勋？外媒揭开背后的中国AI因素</title>
-        <link>https://www.laoyaoba.com/n/1146997</link>
-        <guid>https://www.laoyaoba.com/n/1146997</guid>
-        <description>北京时间11月25日，据路透社报道，英伟达的领导层危机，将美国科技行业围绕开放权重AI模型的争论推到了聚光灯下。在这场争论中，英伟达CEO黄仁勋(Jensen Huang)已成为华盛顿最响亮的声音之一，主张美国开发这项目前由中国公司主导的技术。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>从单卡跑到P/D分离，国产GPU挺进AI推理深水区</title>
-        <link>https://www.laoyaoba.com/n/1146995</link>
-        <guid>https://www.laoyaoba.com/n/1146995</guid>
-        <description>沐曦股份联合创始人、CTO杨建表示，到2026年第四季度部分国产芯片企业将能提供Decoding服务，2027年有望实现推理能力闭环。国产GPU正从单卡性能竞争走向系统效率竞争。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>高通授予CEO安蒙5000万美元特别股权激励，行权价最高500美元</title>
-        <link>https://www.laoyaoba.com/n/1146996</link>
-        <guid>https://www.laoyaoba.com/n/1146996</guid>
-        <description>北京时间11月25日，高通公司在提交的8-K公告中披露，公司董事会已于11月20日批准一项特别长期股权激励计划，向公司总裁兼CEO克里斯蒂亚诺·安蒙（Cristiano Amon）和执行副总裁、CFO兼COO阿卡什·帕尔基瓦拉（Akash Palkhiwala）分别授予目标价值为5000万美元和1500万美元的股权奖励。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>鸿蒙“过亿”，科技自信赢得市场底气</title>
-        <link>https://www.laoyaoba.com/n/1146994</link>
-        <guid>https://www.laoyaoba.com/n/1146994</guid>
-        <description>在鸿蒙研发中，国内学界业界既吹响“冲锋号”，也吹响“集结号”，哪里“卡脖子”就突破哪里，让创新成果加快落地。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>Anthropic推出桌面新功能，Claude生成内容可一键变身独立软件</title>
-        <link>https://www.laoyaoba.com/n/1146993</link>
-        <guid>https://www.laoyaoba.com/n/1146993</guid>
-        <description>北京时间11月25日，Anthropic当地时间11月24日宣布，Claude正式推出“Install as app”（安装为应用）功能测试版，允许用户将AI生成的Artifacts（交互式创作成果）直接安装为Mac或Windows桌面应用，无需手动打包、签名，也无需单独申请API密钥。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>中方强调应妥善使用和治理新兴科技</title>
-        <link>https://www.laoyaoba.com/n/1146991</link>
-        <guid>https://www.laoyaoba.com/n/1146991</guid>
-        <description>中国常驻联合国代表傅聪24日在安理会“快速技术变革时代的冲突解决”公开辩论会上发言，强调应妥善使用、治理新兴科技。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>在华投资逾95亿美元，建成21家工厂——康宁175周年庆典中国站在沪举行</title>
-        <link>https://www.laoyaoba.com/n/1146988</link>
-        <guid>https://www.laoyaoba.com/n/1146988</guid>
-        <description>“康宁175年的发展历史，不仅是一段持续创新的历程，更是一段与客户、合作伙伴以及一代又一代员工共同创造价值的合作旅程。”</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>余承东：华为折叠手机中国市场份额已超70%</title>
-        <link>https://www.laoyaoba.com/n/1146990</link>
-        <guid>https://www.laoyaoba.com/n/1146990</guid>
-        <description>11月24日，华为常务董事、终端BG董事长余承东在社交平台发文称，2026年华为折叠屏手机在中国市场的份额已经超过70%。当天，华为发布新一代大折叠手机Mate X8。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>伯特利1.4亿元现金收购万达公司20%股权，持股比例升至65%</title>
-        <link>https://www.laoyaoba.com/n/1146987</link>
-        <guid>https://www.laoyaoba.com/n/1146987</guid>
-        <description>11月26日，伯特利公告拟以1.4亿元现金收购瑞智联能所持浙江万达公司20%股权，持股比例将由45%升至65%，万达公司仍为合并报表范围内控股子公司。交易整体估值按7亿元协商确定，未设业绩对赌；因交易对方瑞智联能为奇瑞科技全资子公司，本次收购构成关联交易但不构成重大资产重组。公司称交易将增强对万达公司的管控与资源整合，提升转向系统业务协同，提高归母净利润规模。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>成飞集成发布无人飞行平台首款样机，配套零部件实现全产业链国产化</title>
-        <link>https://www.laoyaoba.com/n/1146985</link>
-        <guid>https://www.laoyaoba.com/n/1146985</guid>
-        <description>11月25日，成飞集成公告披露，公司在成都"四川造"产品展示活动中发布无人飞行平台首款样机。该产品具备大批量、可消耗、智能协同等特点，公司运用成熟的汽车模具开发与零部件批量生产能力，采用流水线生产，配套零部件实现全产业链国产化，降低综合制造成本。公告称，产品有助于丰富产品结构、拓展业务领域，并与汽车零部件、工装模具及航空零部件业务形成协同。公司同时提示，该产品暂未获取订单，对业绩影响尚无法预测。</description>
-        <pubDate>Thu, 26 Nov 2026 07:15:53 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 07:30:51 GMT</pubDate>
     </item>
 
 </channel>
