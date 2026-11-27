@@ -4,14 +4,22 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Fri, 27 Nov 2026 00:30:52 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 00:45:54 GMT</lastBuildDate>
+
+    <item>
+        <title>台积电A14节点已可用于芯片设计：性能提升14%或功耗降低23%</title>
+        <link>https://www.laoyaoba.com/n/1147589</link>
+        <guid>https://www.laoyaoba.com/n/1147589</guid>
+        <description>​台积电本周在其2026年欧洲OIP生态系统研讨会上宣布，其A14（1.4nm级）制造技术已可用于客户设计工作，工艺设计套件（PDK）0.9版已就绪。台积电还详细介绍了Boost Cells——新节点借此可较N2P提供14%的更高性能——以及客户未来如何将其设计迁移到A13。此外，Cadence和Synopsys均已基于Arm Cortex-A725 CPU内核完成完整设计流程认证，为芯片设计者提供两条经过验证的工具链来打造他们的A14芯片。</description>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
+    </item>
 
     <item>
         <title>遮光绝缘双效合一，黑色SMF材料创新解锁晶圆级TSV工艺新能力</title>
         <link>https://www.laoyaoba.com/n/1147594</link>
         <guid>https://www.laoyaoba.com/n/1147594</guid>
         <description>华天科技发布黑色SMF功能阻焊干膜创新成果，单膜层集成绝缘阻焊与全波段遮光双效，替代传统金属遮光层加透明阻焊膜双层结构，简化晶圆级TSV工艺、消除寄生干扰并提升可靠性。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +27,7 @@
         <link>https://www.laoyaoba.com/n/1147592</link>
         <guid>https://www.laoyaoba.com/n/1147592</guid>
         <description>【头条】英伟达断供AI芯片,荷兰抵制对华光刻机限制！艾为电子重组钰泰股份或成A股模拟整合催化剂；</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +35,7 @@
         <link>https://www.laoyaoba.com/n/1147248</link>
         <guid>https://www.laoyaoba.com/n/1147248</guid>
         <description>【转让】江苏模拟芯片“小巨人”公司，挂牌转让！</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +43,7 @@
         <link>https://www.laoyaoba.com/n/1147237</link>
         <guid>https://www.laoyaoba.com/n/1147237</guid>
         <description>【官宣】特斯拉，官宣里程碑！</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +51,7 @@
         <link>https://www.laoyaoba.com/n/1147235</link>
         <guid>https://www.laoyaoba.com/n/1147235</guid>
         <description>【关税】美国，拟对华加收20%关税！</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +59,7 @@
         <link>https://www.laoyaoba.com/n/1147234</link>
         <guid>https://www.laoyaoba.com/n/1147234</guid>
         <description>【IPO】清华校友创办，北京存储芯片公司拟IPO！</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +67,7 @@
         <link>https://www.laoyaoba.com/n/1147230</link>
         <guid>https://www.laoyaoba.com/n/1147230</guid>
         <description>【量产】联芸科技：消费级SSD主控稳固基本盘，嵌入式主控与车载芯片迈入量产期</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +75,7 @@
         <link>https://www.laoyaoba.com/n/1147217</link>
         <guid>https://www.laoyaoba.com/n/1147217</guid>
         <description>【签约】投资150亿！又一板级高密系统封测项目签约</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1147591</link>
         <guid>https://www.laoyaoba.com/n/1147591</guid>
         <description>​据报道，德国软件巨头SAP SE正在准备一项计划，将裁减至少1万个岗位，以使其软件业务转型适应人工智能时代。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1147590</link>
         <guid>https://www.laoyaoba.com/n/1147590</guid>
         <description>荷兰政府表示，将抵制美国进一步限制光刻机对华出口的计划，并称拟议规则将对欧洲光刻机公司构成威胁。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1147567</link>
         <guid>https://www.laoyaoba.com/n/1147567</guid>
         <description>11月26日，景嘉微(300474.SZ)在投资者互动平台回应投资者提问称，其控股子公司无锡诚恒微自研的边端侧AI SoC芯片CH37系列目前进入小批量交付阶段。该芯片面向具身智能、边缘计算等通用市场，峰值算力达64TOPS@INT8，已与浪潮信息等多家企业达成战略合作。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1147568</link>
         <guid>https://www.laoyaoba.com/n/1147568</guid>
         <description>2026年11月27日，长园集团发布涉及诉讼事项进展公告，披露山东至博诉公司证券虚假陈述责任纠纷二审获广东省高院裁定：撤销一审判决，发回深圳中院重审。公司此前已按一审判决支付赔偿款345269045.32元，目前暂无法准确判断该案对当期损益的影响，将及时披露进展，提醒投资者注意投资风险。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -107,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1147569</link>
         <guid>https://www.laoyaoba.com/n/1147569</guid>
         <description>2026年11月26日，TCL中环发布关于回购公司股份实施完毕暨股份变动的公告。公司累计回购股份55,090,939股，占当前总股本的1.36%，成交金额约5亿元，回购股份将用于员工持股计划和/或股权激励，回购后股权分布仍符合上市条件。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -115,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1147570</link>
         <guid>https://www.laoyaoba.com/n/1147570</guid>
         <description>2026年11月26日，立讯精密工业股份有限公司提交FF305翌日披露报表。披露期内公司2021、2022、2025期股票期权激励计划均有行权，同时在深交所回购294.56万股A股，耗资约1.36亿元，回购股份拟持作库存股。截至2026年11月26日，公司已发行股份总数为7,349,713,352股。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -123,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1147571</link>
         <guid>https://www.laoyaoba.com/n/1147571</guid>
         <description>复旦微电发布2026年第四次临时股东会会议资料，会议将于2026年12月14日召开，审议两项股份回购议案：一是拟以0.5-1亿元集中竞价回购A股，价格不超75元/股，用于员工持股或股权激励；二是拟授权董事会回购不超10%H股，资金规模1-2亿港元，两项议案均需以特别决议审议通过。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -131,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1147572</link>
         <guid>https://www.laoyaoba.com/n/1147572</guid>
         <description>2026年11月26日，精测电子发布回购股份报告书，拟以自有或自筹资金通过集中竞价方式回购A股非限售股份，资金总额1亿元-2亿元，回购价格不超过210元/股，预计回购数量占总股本0.17%-0.34%，所回购股份将全部注销以减少注册资本，回购期限为股东会审议通过之日起12个月内。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -139,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1147573</link>
         <guid>https://www.laoyaoba.com/n/1147573</guid>
         <description>中鼎股份(000887.SZ)2026年11月26日在投资者互动平台表示，公司实控人、董事长兼总经理夏迎松提议以1亿-2亿元资金回购公司股份，回购价格上限为25元/股，所回购股份将全部用于股权激励或员工持股计划。该回购方案已于11月25日经公司董事会全票通过，无需提交股东会审议，回购期限为12个月。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -147,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1147574</link>
         <guid>https://www.laoyaoba.com/n/1147574</guid>
         <description>2026年11月，北京君正集成电路股份有限公司（简称君正股份）发布2026年版公司章程。章程明确公司为A+H股上市主体，注册资本约5.14亿元，对股份管理、治理结构、利润分配等事项作出全面规范，其中年度现金分红比例不低于当年母公司可供分配利润的5%。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
     <item>
@@ -155,15 +163,7 @@
         <link>https://www.laoyaoba.com/n/1147575</link>
         <guid>https://www.laoyaoba.com/n/1147575</guid>
         <description>2026年11月26日，山东天岳先进科技股份有限公司（证券代码：688234）提交FF305翌日披露报表，披露当日通过上海证券交易所集中竞价方式回购75400股A股股份，总耗资4993837.88元，回购股份全部拟持作库存股。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>宁德时代斥资2998.84万元回购14.77万股A股 所购股份拟全部注销</title>
-        <link>https://www.laoyaoba.com/n/1147576</link>
-        <guid>https://www.laoyaoba.com/n/1147576</guid>
-        <description>2026年11月26日，宁德时代向港交所提交FF305翌日披露报表。公告显示，公司当日在深圳证券交易所回购147,700股A股股份，最高回购价204.34元/股，最低回购价202.39元/股，合计耗资2998.84万元，所回购股份拟全部注销，不持作库存股份。</description>
-        <pubDate>Fri, 27 Nov 2026 00:30:52 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 00:45:54 GMT</pubDate>
     </item>
 
 </channel>
