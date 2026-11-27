@@ -4,14 +4,38 @@
 <title>集微网 - 最新</title>
 <link>https://www.laoyaoba.com/jwnews</link>
 <description>GitHub Actions 自动生成 RSS</description>
-<lastBuildDate>Fri, 27 Nov 2026 05:39:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 05:49:55 GMT</lastBuildDate>
+
+    <item>
+        <title>OpenAI或已进入成本控制模式：一次计费修复，撕开了AI实验室经济学的一角</title>
+        <link>https://www.laoyaoba.com/n/1147712</link>
+        <guid>https://www.laoyaoba.com/n/1147712</guid>
+        <description>OpenAI修复GPT-6.2计费漏洞后，Astra限额消耗加快40%、Sol加快25%，订阅可用工作量实际缩水；补偿仅为额度重置与Business免费Fast Mode。12月起Chat与Work额度合池。</description>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>ω=9/4：矩阵乘法57年竞速被AI终结——OpenAI夹逼定音，谷歌Cogentic零人类交卷</title>
+        <link>https://www.laoyaoba.com/n/1147710</link>
+        <guid>https://www.laoyaoba.com/n/1147710</guid>
+        <description>OpenAI于11月24日发布预印本，宣称矩阵乘法指数ω=9/4，与10月上界成果构成上下夹逼；谷歌研究院随后在GitHub上传6篇由Cogentic自主完成、无人类介入的274页数学预印本。AI数学产出从“应试”转向“科研”，但成果未经同行评审，验证正取代证明成为新瓶颈。</description>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
+    </item>
+
+    <item>
+        <title>瑞士五起“AI黑客”攻击四起得手：不是新武器，是新速度</title>
+        <link>https://www.laoyaoba.com/n/1147709</link>
+        <guid>https://www.laoyaoba.com/n/1147709</guid>
+        <description>瑞士联邦网络安全局（BACS）通报首例确认的AI智能体网络攻击：五起攻击四起得手，波及电力、供水、通信三家关键基础设施运营主体，未造成重大中断。攻击未使用新漏洞，而是利用弱口令与已知漏洞，以机器速度完成入侵；公网可用的智能体攻击框架数量一个月内近乎翻倍。</description>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
+    </item>
 
     <item>
         <title>极氪7X上市，限时21.68万元起</title>
         <link>https://www.laoyaoba.com/n/1147708</link>
         <guid>https://www.laoyaoba.com/n/1147708</guid>
         <description>11月27日，2027款极氪7X在2026广州车展上市，推出三款版型，限时权益价21.68万元起。新车全系标配900V高压架构，共141项配置标配，提供三种电池选择，最高续航802km，四驱版百公里加速2.98秒。安全方面全系标配爆胎安全稳行系统；智能化首发千里浩瀚G-ASD 4.1，配备含激光雷达在内的31颗感知硬件；座舱新增云感双零重力座椅。极氪7X上市24个月全球累计销量已达24万辆。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -19,7 +43,7 @@
         <link>https://www.laoyaoba.com/n/1147707</link>
         <guid>https://www.laoyaoba.com/n/1147707</guid>
         <description>2027款岚图泰山于11月27日广州车展开幕当天亮相并开启全球预售，预售价43.99万元，定位中式旗舰纯电大六座，计划12月上旬上市交付。新车标配120kWh宁德时代电池，CLTC续航705公里，基于800V高压碳化硅平台，系统总功率475kW；搭载三腔空气悬架与双向16度后轮转向，配备华为乾崑智驾ADS 5四激光方案与鸿蒙座舱，瞄准40万元级纯电大六座市场。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -27,7 +51,7 @@
         <link>https://www.laoyaoba.com/n/1147706</link>
         <guid>https://www.laoyaoba.com/n/1147706</guid>
         <description>Anthropic CEO阿莫迪11月25日发长文，反对把社会治理权交给AI，称不能为效率牺牲合法性与自决权；任务自动化可接受，但须为递归自我改进设限。其内部数据显示，AI Agent工时已达人类员工6倍，新招初级技术岗占比从27%降至9%。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -35,7 +59,7 @@
         <link>https://www.laoyaoba.com/n/1147703</link>
         <guid>https://www.laoyaoba.com/n/1147703</guid>
         <description>11月27日，长安汽车在广州国际车展期间举行天枢智能主题发布会，发布天枢领航Ultra 2.0并宣布该版本将于2027年1月中旬开启OTA升级，同时正申报第二批L3级专用正式号牌与L4级测试牌照，力争L3/L4自动驾驶渗透率达30%以上。新版本将端到端能力升级为行泊一体，场景延伸至园区，支持车位到车位、收费站通行等功能。此前深蓝SL03已获L3准入，首批46辆L3号牌车辆在重庆上路，2026年又获批L4级Robotaxi测试牌照，其高阶自动驾驶正由试点示范转向更大规模合规验证。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -43,7 +67,7 @@
         <link>https://www.laoyaoba.com/n/1147701</link>
         <guid>https://www.laoyaoba.com/n/1147701</guid>
         <description>11月27日，新乐道L60黑骑士版在2026广州车展上市，提供Max+与Ultra+两款车型，整车购买价分别为21.08万元起和22.58万元起，电池租用价15.38万元起。新车标配总价值18954元的曜黑套装，含星空黑车色、20英寸曜黑轮圈及红黑配色豪华内饰。智能化搭载神玑NX9031旗舰芯片与蔚来世界模型，基于900V高压架构，四驱版零百加速4.6秒，85kWh电池后驱版CLTC续航730km，支持3分钟换电。展车已陆续到店并开启全国交付。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -51,7 +75,7 @@
         <link>https://www.laoyaoba.com/n/1147700</link>
         <guid>https://www.laoyaoba.com/n/1147700</guid>
         <description>瑜欣电子（301107）公告，拟以现金1.60亿元收购控股股东陈长腾持有的华腾光电93.02%股权，此前公司已持有6.98%股权，交易完成后华腾光电将成为全资子公司并纳入合并报表。华腾光电主营光通信高精密光学元件器件，是国内少数实现C-Lens微透镜百万级月产能的厂商，为400G、800G、1.6T高速光通信系统配套。本次交易以收益法评估为基础，增值率达541.16%，价款分两期支付，业绩承诺方承诺2027至2029年累计扣非归母净利润不低于4,500万元。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -59,7 +83,7 @@
         <link>https://www.laoyaoba.com/n/1147699</link>
         <guid>https://www.laoyaoba.com/n/1147699</guid>
         <description>中鼎股份（000887）公告，董事会审议通过调整募投项目拟投入募集资金金额的议案。公司发行可转债募集资金总额19.20亿元，扣除发行费用1671.31万元后实际净额19.03亿元。在不改变募集资金用途的前提下，智能热管理系统总成项目拟投入金额由5.82亿元调减至5.65亿元；智能机器人核心关节制造项目维持7.32亿元，新能源汽车智能底盘系统研发结算中心项目维持1.06亿元，补充流动资金5.00亿元不变，调整后合计投入19.03亿元。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -67,7 +91,7 @@
         <link>https://www.laoyaoba.com/n/1147696</link>
         <guid>https://www.laoyaoba.com/n/1147696</guid>
         <description>腾讯拟分两步推进：2026年12月1日起非T族试点，外部模型额度不超总额度10%，子公司外部额度为0；2027年1月1日起全员默认使用自研混元HY4模型。混元4已跻身最强开源模型梯队，金融众测综合得分3.04居开源第一，幻觉率由12.95%降至7.2%。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -75,7 +99,7 @@
         <link>https://www.laoyaoba.com/n/1147692</link>
         <guid>https://www.laoyaoba.com/n/1147692</guid>
         <description>大模型辅助证明黎曼猜想引发热议，AI for Science（AI4S）加速升温，腾讯、阿里、字节跳动、月之暗面、MiniMax等厂商集体转向科研，推出科研智能体与科学大模型。今年前10个月国内AI4S融资超80笔、已披露总额超200亿元。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -83,7 +107,7 @@
         <link>https://www.laoyaoba.com/n/1147690</link>
         <guid>https://www.laoyaoba.com/n/1147690</guid>
         <description>DeepSeek网页端与App灰度测试对话额度显示功能，逐轮弹出Token消耗与估算金额，有截图显示单轮约0.000536元并标注免费。本文拆三笔账：用户侧半厘钱一轮、机器侧缓存与显存开销、行业侧59.2万亿Token周调用量与算力缺口，看清成本透明化背后的商业逻辑。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -91,7 +115,7 @@
         <link>https://www.laoyaoba.com/n/1147688</link>
         <guid>https://www.laoyaoba.com/n/1147688</guid>
         <description>美国联邦通信委员会2026年11月25日附条件批准SpaceX部署至多100万颗卫星的Starmind太空数据中心星座，轨道高度500至1002公里，规划供电约120吉瓦，要求2033年前首星入轨、2035年前达10万颗、2040年前全部完成，任一节点失守授权失效。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -99,7 +123,7 @@
         <link>https://www.laoyaoba.com/n/1147684</link>
         <guid>https://www.laoyaoba.com/n/1147684</guid>
         <description>菲尔兹奖得主陶哲轩在哈佛活动中警告：AI公司批量生成无人消化的数学证明，如同发电厂排放核废料；科技公司应在自动生成证明前先与数学界合作选题。从25万页黎曼猜想到722篇手稿，证明已不稀缺，理解才是数学新的稀缺品。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -107,7 +131,7 @@
         <link>https://www.laoyaoba.com/n/1147680</link>
         <guid>https://www.laoyaoba.com/n/1147680</guid>
         <description>2026年11月26日，华为在乾崑生态大会上发布辅助驾驶新品牌“星驰”，预计明年将有超过10款搭载星驰辅助驾驶的新车上市。星驰与乾崑智驾ADS技术同源、资源共享，采用WEWA架构，共享云端算力和数据资源，并遵从同一套研发流程与车规级质量管理体系，安全算法、稳定性和可靠性不变。目前搭载华为乾崑智驾的车辆总数已突破200万台，累计辅助驾驶里程超183亿公里，今年前三季度ADS新车销量超50万台，位居国内城区领航辅助市场份额第一。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -115,7 +139,7 @@
         <link>https://www.laoyaoba.com/n/1147678</link>
         <guid>https://www.laoyaoba.com/n/1147678</guid>
         <description>近日，面向材料工业的原生AI Agent决策+控制系统提供商素源矩阵完成数千万元人民币天使轮融资。本轮融资由考拉基金领投，中关村科学城、北京科学智能研究院跟投，资金将主要用于跨尺度AI4S模型研发、AI4S科学工厂建设及核心科研与工程团队扩充。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -123,7 +147,7 @@
         <link>https://www.laoyaoba.com/n/1147677</link>
         <guid>https://www.laoyaoba.com/n/1147677</guid>
         <description>时空智子近日完成数千万元B轮融资，由光谷科创投、光谷人才基金及同创伟业联合投资，资金将主要用于时空基础大模型研发、行业智能体完善落地及顶尖人才引进。时空智子是以时空大数据驱动的数字化空间治理服务提供商。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -131,7 +155,7 @@
         <link>https://www.laoyaoba.com/n/1147675</link>
         <guid>https://www.laoyaoba.com/n/1147675</guid>
         <description>近日，零次方机器人完成新一轮数亿元融资。本轮投资方包括清科产投、锡洲国际、卓源亚洲等多家机构及产业战略投资方，老股东同创伟业、力合基金、接力天使继续超额加注。资金将主要用于扩充已跑通场景落地规模，以及为年底开放的Picking API储备算力调度能力。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
     <item>
@@ -139,31 +163,7 @@
         <link>https://www.laoyaoba.com/n/1147674</link>
         <guid>https://www.laoyaoba.com/n/1147674</guid>
         <description>日本最大发电企业JERA正与Anthropic、Meta洽谈在东京地区电厂旁建数据中心，并与Amazon、Microsoft、Google保持讨论，均未获确认。10月1日与Dell、RHAELM签署备忘录，首个千叶项目达400兆瓦、投资预计超150亿美元，采用表后供电，目标2028年前后投运，并拟从26座火电厂筛选后续厂址。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>微软把2.3B小模型Aion开源了！Windows设备端这回是动真格了！</title>
-        <link>https://www.laoyaoba.com/n/1147671</link>
-        <guid>https://www.laoyaoba.com/n/1147671</guid>
-        <description>微软AI部门开源2.3B参数小模型Aion，专为Windows设备端运行设计。该模型可在GPU与CPU配置较弱的PC上本地运行，此前已在Build 2026以开发者预览版亮相。2025年中国端侧AI市场规模预计突破2500亿元，内存成本与硬件门槛仍是行业主要制约。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>1146分、2.5积分每秒：Sand AI MAGI-2把视频生成竞争拖入单位经济学战场</title>
-        <link>https://www.laoyaoba.com/n/1147669</link>
-        <guid>https://www.laoyaoba.com/n/1147669</guid>
-        <description>Sand AI视频模型MAGI-2于11月25日在Higgsfield独家上线，以1146分、60.5%总胜率列六款模型第二，盲测仅逊于榜首Seedance 2.5；每秒成本2.5积分，国内1080p定价每秒0.5元，约为Seedance 2.5同规格十分之一。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
-    </item>
-
-    <item>
-        <title>高通Etienne Chaponniere：6G与AI融合重塑体验 标准化技术创新窗口“十年一遇”</title>
-        <link>https://www.laoyaoba.com/n/1147666</link>
-        <guid>https://www.laoyaoba.com/n/1147666</guid>
-        <description>在2026年6G发展大会上，高通技术公司技术标准副总裁Etienne Chaponniere发表演讲并接受采访。他认为6G标准化是十年一遇的技术创新窗口，“AI原生”应理解为面向整个通信系统的设计方法论，而非叠加具体AI特性。针对AI从云端走向边缘侧的趋势，他指出6G需强化上行链路承载能力并降低智能体通信开销。他还强调端侧AI可减少云端词元消耗，帮助运营商优化TCO，规模化应用可摊薄终端成本。高通将携手产业伙伴推进6G研发与标准制定，计划2029年下半年推出商用6G调制解调器及射频系统。</description>
-        <pubDate>Fri, 27 Nov 2026 05:39:04 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 05:49:55 GMT</pubDate>
     </item>
 
 </channel>
